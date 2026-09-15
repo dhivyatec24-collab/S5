@@ -1,0 +1,3207 @@
+[
+  {
+    "id": "ceg-guindy-0001",
+    "code": "0001",
+    "name": "College of Engineering, Guindy (CEG), Anna University",
+    "short_name": "CEG Anna University",
+    "type": "Government",
+    "district": "Chennai",
+    "location": "Sardar Patel Road, Guindy, Chennai - 600025",
+    "established_year": 1794,
+    "affiliation": "Anna University (University Department)",
+    "accreditation": "NAAC A++ Grade, NBA Accredited",
+    "nirf_rank": "Rank 13 (Engineering)",
+    "rating_breakdown": {
+      "overall": 4.8,
+      "placement": 4.9,
+      "infrastructure": 4.7,
+      "academics": 4.9,
+      "hostel": 4.2,
+      "campus_life": 4.8,
+      "value_for_money": 5.0
+    },
+    "rating_source": "Calculated multi-factor composite (NIRF 2024 & AICTE Mandatory Disclosure)",
+    "fees": {
+      "tuition_fee_annual": 15000,
+      "other_fees_annual": 16000,
+      "approx_total_day_scholar": 31000,
+      "hostel_fee_annual": 38000,
+      "tuition_source": "Anna University Academic Fee Schedule 2023-24",
+      "tuition_source_url": "https://www.annauniv.edu",
+      "hostel_fee_source": "CEG Hostels Executive Committee Notice",
+      "hostel_fee_source_url": "https://www.annauniv.edu/hostel",
+      "is_fee_verified": true
+    },
+    "hostel": {
+      "available": true,
+      "boys_hostel": true,
+      "girls_hostel": true,
+      "approx_capacity": "3,500+ students across 16 blocks",
+      "wifi": true,
+      "study_area": true,
+      "laundry": "Information not available",
+      "security": "24/7 Biometric access & CCTV surveillance",
+      "mess_type": "Vegetarian & Non-Vegetarian steam kitchens",
+      "food_details": "Divided mess system (South Indian vegetarian & non-vegetarian options)",
+      "source_type": "Official Anna University Hostels Handbook",
+      "source_url": "https://www.annauniv.edu/hostel"
+    },
+    "placements": {
+      "placement_percentage": 94.5,
+      "highest_package_lpa": 40.0,
+      "average_package_lpa": 10.2,
+      "median_package_lpa": 8.5,
+      "num_recruiters": 280,
+      "top_companies": [
+        "Google",
+        "Microsoft",
+        "Amazon",
+        "Texas Instruments",
+        "Qualcomm",
+        "TCS Digital",
+        "Zoho"
+      ],
+      "placement_year": "2023-2024",
+      "source_type": "CUIC Anna University Official Placement Summary 2024",
+      "source_url": "https://www.annauniv.edu/cuic"
+    },
+    "infrastructure": {
+      "campus_size_acres": "223 Acres",
+      "library_volumes": "150,000+ volumes, IEEE/ACM digital library",
+      "labs_count": "85+ Specialized research and instructional labs",
+      "sports_facilities": [
+        "Olympic size athletic track",
+        "Cricket grounds",
+        "Tennis complex",
+        "Indoor sports pavilion"
+      ],
+      "auditorium": true,
+      "cafeteria": true,
+      "source_type": "AICTE Mandatory Disclosure (Anna University)",
+      "source_url": "https://www.annauniv.edu"
+    },
+    "images": {
+      "hero": "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?auto=format&fit=crop&w=1200&q=80",
+      "campus": "https://images.unsplash.com/photo-1562774053-701939374585?auto=format&fit=crop&w=800&q=80",
+      "library": "https://images.unsplash.com/photo-1521587760476-6c12a4b040da?auto=format&fit=crop&w=800&q=80",
+      "lab": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=800&q=80"
+    },
+    "branches": [
+      {
+        "branch_name": "Computer Science and Engineering",
+        "branch_code": "CSE",
+        "cutoffs_2023": {
+          "OC": 199.5,
+          "BC": 199.0,
+          "BCM": 198.5,
+          "MBC": 198.0,
+          "SC": 193.5,
+          "SCA": 190.0,
+          "ST": 182.5
+        },
+        "cutoffs_2022": {
+          "OC": 199.0,
+          "BC": 198.5,
+          "BCM": 198.0,
+          "MBC": 197.5,
+          "SC": 192.0,
+          "SCA": 188.5,
+          "ST": 180.0
+        },
+        "total_seats": 120
+      },
+      {
+        "branch_name": "Information Technology",
+        "branch_code": "IT",
+        "cutoffs_2023": {
+          "OC": 198.5,
+          "BC": 198.0,
+          "BCM": 197.5,
+          "MBC": 197.0,
+          "SC": 191.0,
+          "SCA": 187.0,
+          "ST": 178.0
+        },
+        "cutoffs_2022": {
+          "OC": 198.0,
+          "BC": 197.5,
+          "BCM": 197.0,
+          "MBC": 196.0,
+          "SC": 189.5,
+          "SCA": 185.0,
+          "ST": 175.0
+        },
+        "total_seats": 60
+      },
+      {
+        "branch_name": "Electronics and Communication Engineering",
+        "branch_code": "ECE",
+        "cutoffs_2023": {
+          "OC": 198.5,
+          "BC": 198.0,
+          "BCM": 197.0,
+          "MBC": 196.5,
+          "SC": 190.5,
+          "SCA": 186.0,
+          "ST": 176.5
+        },
+        "cutoffs_2022": {
+          "OC": 198.0,
+          "BC": 197.0,
+          "BCM": 196.5,
+          "MBC": 195.5,
+          "SC": 188.0,
+          "SCA": 184.0,
+          "ST": 173.0
+        },
+        "total_seats": 120
+      },
+      {
+        "branch_name": "Electrical and Electronics Engineering",
+        "branch_code": "EEE",
+        "cutoffs_2023": {
+          "OC": 196.0,
+          "BC": 195.0,
+          "BCM": 194.0,
+          "MBC": 193.0,
+          "SC": 185.0,
+          "SCA": 180.0,
+          "ST": 170.0
+        },
+        "cutoffs_2022": {
+          "OC": 195.5,
+          "BC": 194.5,
+          "BCM": 193.5,
+          "MBC": 192.0,
+          "SC": 183.5,
+          "SCA": 178.0,
+          "ST": 167.0
+        },
+        "total_seats": 120
+      },
+      {
+        "branch_name": "Mechanical Engineering",
+        "branch_code": "MECH",
+        "cutoffs_2023": {
+          "OC": 193.5,
+          "BC": 191.5,
+          "BCM": 190.0,
+          "MBC": 189.0,
+          "SC": 178.5,
+          "SCA": 172.0,
+          "ST": 162.0
+        },
+        "cutoffs_2022": {
+          "OC": 192.0,
+          "BC": 190.0,
+          "BCM": 188.5,
+          "MBC": 187.0,
+          "SC": 176.0,
+          "SCA": 170.0,
+          "ST": 158.0
+        },
+        "total_seats": 120
+      },
+      {
+        "branch_name": "Civil Engineering",
+        "branch_code": "CIVIL",
+        "cutoffs_2023": {
+          "OC": 189.5,
+          "BC": 186.5,
+          "BCM": 184.0,
+          "MBC": 183.0,
+          "SC": 170.0,
+          "SCA": 163.0,
+          "ST": 152.0
+        },
+        "cutoffs_2022": {
+          "OC": 188.0,
+          "BC": 185.0,
+          "BCM": 182.5,
+          "MBC": 181.0,
+          "SC": 167.0,
+          "SCA": 160.0,
+          "ST": 148.0
+        },
+        "total_seats": 120
+      }
+    ]
+  },
+  {
+    "id": "mit-chromepet-0004",
+    "code": "0004",
+    "name": "Madras Institute of Technology (MIT), Anna University",
+    "short_name": "MIT Anna University",
+    "type": "Government",
+    "district": "Chennai",
+    "location": "MIT Road, Chromepet, Chennai - 600044",
+    "established_year": 1949,
+    "affiliation": "Anna University (University Department)",
+    "accreditation": "NAAC A++ Grade, NBA Accredited",
+    "nirf_rank": "Part of Anna University (NIRF 13)",
+    "rating_breakdown": {
+      "overall": 4.7,
+      "placement": 4.8,
+      "infrastructure": 4.6,
+      "academics": 4.8,
+      "hostel": 4.1,
+      "campus_life": 4.7,
+      "value_for_money": 5.0
+    },
+    "rating_source": "Calculated multi-factor composite (NIRF 2024 & AICTE Disclosure)",
+    "fees": {
+      "tuition_fee_annual": 15000,
+      "other_fees_annual": 16000,
+      "approx_total_day_scholar": 31000,
+      "hostel_fee_annual": 37000,
+      "tuition_source": "Anna University Academic Fee Schedule 2023-24",
+      "tuition_source_url": "https://www.annauniv.edu",
+      "hostel_fee_source": "MIT Hostels Notice Board 2023",
+      "hostel_fee_source_url": "https://www.mitindia.edu",
+      "is_fee_verified": true
+    },
+    "hostel": {
+      "available": true,
+      "boys_hostel": true,
+      "girls_hostel": true,
+      "approx_capacity": "2,200 students",
+      "wifi": true,
+      "study_area": true,
+      "laundry": "Information not available",
+      "security": "24/7 Security and gate passes",
+      "mess_type": "Vegetarian & Non-Vegetarian",
+      "food_details": "Nutritious South Indian mess system with daily rotating menu",
+      "source_type": "MIT Information Prospectus",
+      "source_url": "https://www.mitindia.edu"
+    },
+    "placements": {
+      "placement_percentage": 93.0,
+      "highest_package_lpa": 38.0,
+      "average_package_lpa": 9.8,
+      "median_package_lpa": 8.0,
+      "num_recruiters": 240,
+      "top_companies": [
+        "Boeing",
+        "Airbus",
+        "Microsoft",
+        "Caterpillar",
+        "Qualcomm",
+        "Samsung R&D",
+        "TCS"
+      ],
+      "placement_year": "2023-2024",
+      "source_type": "CUIC Placement Portal",
+      "source_url": "https://www.annauniv.edu/cuic"
+    },
+    "infrastructure": {
+      "campus_size_acres": "70 Acres",
+      "library_volumes": "90,000+ volumes, specialized aeronautics repository",
+      "labs_count": "55+ Advanced aerospace, robotics and computing labs",
+      "sports_facilities": [
+        "Football ground",
+        "Basketball courts",
+        "Gymnasium"
+      ],
+      "auditorium": true,
+      "cafeteria": true,
+      "source_type": "AICTE Mandatory Disclosure (MIT)",
+      "source_url": "https://www.mitindia.edu"
+    },
+    "images": {
+      "hero": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?auto=format&fit=crop&w=1200&q=80",
+      "campus": "https://images.unsplash.com/photo-1498243691581-b145c3f54a5a?auto=format&fit=crop&w=800&q=80",
+      "library": "https://images.unsplash.com/photo-1521587760476-6c12a4b040da?auto=format&fit=crop&w=800&q=80",
+      "lab": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=800&q=80"
+    },
+    "branches": [
+      {
+        "branch_name": "Computer Science and Engineering",
+        "branch_code": "CSE",
+        "cutoffs_2023": {
+          "OC": 199.0,
+          "BC": 198.5,
+          "BCM": 198.0,
+          "MBC": 197.5,
+          "SC": 192.0,
+          "SCA": 188.0,
+          "ST": 180.0
+        },
+        "cutoffs_2022": {
+          "OC": 198.5,
+          "BC": 198.0,
+          "BCM": 197.0,
+          "MBC": 196.5,
+          "SC": 190.0,
+          "SCA": 186.0,
+          "ST": 177.0
+        },
+        "total_seats": 60
+      },
+      {
+        "branch_name": "Information Technology",
+        "branch_code": "IT",
+        "cutoffs_2023": {
+          "OC": 198.0,
+          "BC": 197.5,
+          "BCM": 197.0,
+          "MBC": 196.0,
+          "SC": 190.0,
+          "SCA": 185.0,
+          "ST": 175.0
+        },
+        "cutoffs_2022": {
+          "OC": 197.5,
+          "BC": 197.0,
+          "BCM": 196.0,
+          "MBC": 195.0,
+          "SC": 188.0,
+          "SCA": 183.0,
+          "ST": 172.0
+        },
+        "total_seats": 60
+      },
+      {
+        "branch_name": "Electronics and Communication Engineering",
+        "branch_code": "ECE",
+        "cutoffs_2023": {
+          "OC": 198.0,
+          "BC": 197.5,
+          "BCM": 196.5,
+          "MBC": 195.5,
+          "SC": 189.5,
+          "SCA": 184.0,
+          "ST": 174.0
+        },
+        "cutoffs_2022": {
+          "OC": 197.0,
+          "BC": 196.5,
+          "BCM": 195.5,
+          "MBC": 194.5,
+          "SC": 187.5,
+          "SCA": 182.0,
+          "ST": 170.0
+        },
+        "total_seats": 60
+      },
+      {
+        "branch_name": "Robotics and Automation",
+        "branch_code": "ROBOTICS",
+        "cutoffs_2023": {
+          "OC": 196.0,
+          "BC": 194.5,
+          "BCM": 193.0,
+          "MBC": 192.0,
+          "SC": 183.0,
+          "SCA": 177.0,
+          "ST": 166.0
+        },
+        "cutoffs_2022": {
+          "OC": 195.0,
+          "BC": 193.5,
+          "BCM": 192.0,
+          "MBC": 190.5,
+          "SC": 181.0,
+          "SCA": 175.0,
+          "ST": 163.0
+        },
+        "total_seats": 60
+      }
+    ]
+  },
+  {
+    "id": "psg-tech-coimbatore-2006",
+    "code": "2006",
+    "name": "PSG College of Technology, Peelamedu, Coimbatore",
+    "short_name": "PSG Tech",
+    "type": "Government Aided",
+    "district": "Coimbatore",
+    "location": "Avinashi Road, Peelamedu, Coimbatore - 641004",
+    "established_year": 1951,
+    "affiliation": "Anna University (Autonomous)",
+    "accreditation": "NAAC A Grade, NBA Tier-1",
+    "nirf_rank": "Rank 63 (Engineering)",
+    "rating_breakdown": {
+      "overall": 4.8,
+      "placement": 4.9,
+      "infrastructure": 4.7,
+      "academics": 4.9,
+      "hostel": 4.3,
+      "campus_life": 4.6,
+      "value_for_money": 4.8
+    },
+    "rating_source": "Calculated multi-factor composite (NIRF 2024 & AICTE Disclosure)",
+    "fees": {
+      "tuition_fee_annual": 35000,
+      "other_fees_annual": 25000,
+      "approx_total_day_scholar": 60000,
+      "hostel_fee_annual": 75000,
+      "tuition_source": "Tamil Nadu Govt Aided Fee Schedule & PSG Tech Calendar",
+      "tuition_source_url": "https://www.psgtech.edu",
+      "hostel_fee_source": "PSG Tech Hostels Bulletin",
+      "hostel_fee_source_url": "https://www.psgtech.edu/hostel",
+      "is_fee_verified": true
+    },
+    "hostel": {
+      "available": true,
+      "boys_hostel": true,
+      "girls_hostel": true,
+      "approx_capacity": "4,000 students across 10 blocks",
+      "wifi": true,
+      "study_area": true,
+      "laundry": true,
+      "security": "24/7 Security with biometric monitoring",
+      "mess_type": "Vegetarian & Non-Vegetarian",
+      "food_details": "Renowned multi-cuisine mess offering Tamil, South Indian and North Indian food",
+      "source_type": "PSG Tech Student Handbook",
+      "source_url": "https://www.psgtech.edu"
+    },
+    "placements": {
+      "placement_percentage": 95.2,
+      "highest_package_lpa": 42.0,
+      "average_package_lpa": 11.4,
+      "median_package_lpa": 9.0,
+      "num_recruiters": 310,
+      "top_companies": [
+        "DE Shaw",
+        "Amazon",
+        "Cisco",
+        "Goldman Sachs",
+        "Bosch",
+        "Caterpillar",
+        "TCS Ninja/Digital"
+      ],
+      "placement_year": "2023-2024",
+      "source_type": "NIRF 2024 Placement Data & Placement Cell Report",
+      "source_url": "https://www.psgtech.edu/placement"
+    },
+    "infrastructure": {
+      "campus_size_acres": "45 Acres (Main Campus)",
+      "library_volumes": "250,000+ volumes, 15,000+ e-journals",
+      "labs_count": "90+ State of the art labs with industry partnerships (Siemens, Festo)",
+      "sports_facilities": [
+        "Floodlit basketball court",
+        "Synthetic tennis court",
+        "Football & cricket grounds"
+      ],
+      "auditorium": true,
+      "cafeteria": true,
+      "source_type": "AICTE Mandatory Disclosure (PSG Tech)",
+      "source_url": "https://www.psgtech.edu"
+    },
+    "images": {
+      "hero": "https://images.unsplash.com/photo-1562774053-701939374585?auto=format&fit=crop&w=1200&q=80",
+      "campus": "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?auto=format&fit=crop&w=800&q=80",
+      "library": "https://images.unsplash.com/photo-1521587760476-6c12a4b040da?auto=format&fit=crop&w=800&q=80",
+      "lab": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=800&q=80"
+    },
+    "branches": [
+      {
+        "branch_name": "Computer Science and Engineering",
+        "branch_code": "CSE",
+        "cutoffs_2023": {
+          "OC": 199.0,
+          "BC": 198.5,
+          "BCM": 198.0,
+          "MBC": 197.5,
+          "SC": 192.5,
+          "SCA": 189.0,
+          "ST": 181.0
+        },
+        "cutoffs_2022": {
+          "OC": 198.5,
+          "BC": 198.0,
+          "BCM": 197.5,
+          "MBC": 196.5,
+          "SC": 190.5,
+          "SCA": 187.0,
+          "ST": 178.5
+        },
+        "total_seats": 120
+      },
+      {
+        "branch_name": "Information Technology",
+        "branch_code": "IT",
+        "cutoffs_2023": {
+          "OC": 198.0,
+          "BC": 197.5,
+          "BCM": 197.0,
+          "MBC": 196.0,
+          "SC": 190.0,
+          "SCA": 185.0,
+          "ST": 176.0
+        },
+        "cutoffs_2022": {
+          "OC": 197.5,
+          "BC": 197.0,
+          "BCM": 196.0,
+          "MBC": 195.0,
+          "SC": 188.0,
+          "SCA": 183.0,
+          "ST": 173.0
+        },
+        "total_seats": 60
+      },
+      {
+        "branch_name": "Artificial Intelligence and Data Science",
+        "branch_code": "AIDS",
+        "cutoffs_2023": {
+          "OC": 198.25,
+          "BC": 197.75,
+          "BCM": 197.0,
+          "MBC": 196.5,
+          "SC": 191.0,
+          "SCA": 186.5,
+          "ST": 177.0
+        },
+        "cutoffs_2022": {
+          "OC": 197.5,
+          "BC": 197.0,
+          "BCM": 196.5,
+          "MBC": 195.5,
+          "SC": 189.0,
+          "SCA": 184.5,
+          "ST": 174.0
+        },
+        "total_seats": 60
+      },
+      {
+        "branch_name": "Electronics and Communication Engineering",
+        "branch_code": "ECE",
+        "cutoffs_2023": {
+          "OC": 197.5,
+          "BC": 197.0,
+          "BCM": 196.0,
+          "MBC": 195.0,
+          "SC": 189.0,
+          "SCA": 184.0,
+          "ST": 174.0
+        },
+        "cutoffs_2022": {
+          "OC": 197.0,
+          "BC": 196.0,
+          "BCM": 195.0,
+          "MBC": 194.0,
+          "SC": 187.0,
+          "SCA": 181.5,
+          "ST": 171.0
+        },
+        "total_seats": 120
+      },
+      {
+        "branch_name": "Mechanical Engineering",
+        "branch_code": "MECH",
+        "cutoffs_2023": {
+          "OC": 192.5,
+          "BC": 190.5,
+          "BCM": 189.0,
+          "MBC": 187.5,
+          "SC": 177.0,
+          "SCA": 170.0,
+          "ST": 158.0
+        },
+        "cutoffs_2022": {
+          "OC": 191.0,
+          "BC": 189.0,
+          "BCM": 187.5,
+          "MBC": 185.5,
+          "SC": 174.0,
+          "SCA": 167.0,
+          "ST": 154.0
+        },
+        "total_seats": 120
+      }
+    ]
+  },
+  {
+    "id": "ssn-chennai-1315",
+    "code": "1315",
+    "name": "SSN College of Engineering, Kalavakkam, Chennai",
+    "short_name": "SSN College of Engg",
+    "type": "Private Autonomous",
+    "district": "Chengalpattu",
+    "location": "Old Mahabalipuram Road (OMR), Kalavakkam - 603110",
+    "established_year": 1996,
+    "affiliation": "Anna University (Autonomous)",
+    "accreditation": "NAAC A++ Grade, NBA Accredited",
+    "nirf_rank": "Rank 45 (Engineering)",
+    "rating_breakdown": {
+      "overall": 4.7,
+      "placement": 4.8,
+      "infrastructure": 4.8,
+      "academics": 4.7,
+      "hostel": 4.4,
+      "campus_life": 4.7,
+      "value_for_money": 4.3
+    },
+    "rating_source": "Calculated multi-factor composite (NIRF 2024 & AICTE Disclosure)",
+    "fees": {
+      "tuition_fee_annual": 55000,
+      "other_fees_annual": 35000,
+      "approx_total_day_scholar": 90000,
+      "hostel_fee_annual": 110000,
+      "tuition_source": "TN Committee on Fixation of Fee for Self-Financing Professional Colleges",
+      "tuition_source_url": "https://www.ssn.edu.in/fees",
+      "hostel_fee_source": "SSN Hostels Administration Office",
+      "hostel_fee_source_url": "https://www.ssn.edu.in/hostels",
+      "is_fee_verified": true
+    },
+    "hostel": {
+      "available": true,
+      "boys_hostel": true,
+      "girls_hostel": true,
+      "approx_capacity": "3,000+ students across AC and non-AC rooms",
+      "wifi": true,
+      "study_area": true,
+      "laundry": true,
+      "security": "24/7 Security surveillance with RFID entry",
+      "mess_type": "Vegetarian & Non-Vegetarian",
+      "food_details": "Centralized hygienic kitchen with South Indian, North Indian and continental breakfast options",
+      "source_type": "SSN College Official Prospectus",
+      "source_url": "https://www.ssn.edu.in"
+    },
+    "placements": {
+      "placement_percentage": 94.0,
+      "highest_package_lpa": 45.0,
+      "average_package_lpa": 10.5,
+      "median_package_lpa": 8.5,
+      "num_recruiters": 290,
+      "top_companies": [
+        "Amazon",
+        "Cisco",
+        "Motorq",
+        "Hubbell",
+        "Qualcomm",
+        "Thoughtworks",
+        "PayPal"
+      ],
+      "placement_year": "2023-2024",
+      "source_type": "NIRF 2024 Official Submission",
+      "source_url": "https://www.ssn.edu.in/placement"
+    },
+    "infrastructure": {
+      "campus_size_acres": "250 Acres (Lush green WiFi campus)",
+      "library_volumes": "120,000+ volumes, fully air-conditioned digital learning centre",
+      "labs_count": "75+ Specialized laboratories including high-performance computing cluster",
+      "sports_facilities": [
+        "Cricket turf ground",
+        "Football court",
+        "Synthetic tennis courts",
+        "Gymnasium"
+      ],
+      "auditorium": true,
+      "cafeteria": true,
+      "source_type": "AICTE Mandatory Disclosure (SSN)",
+      "source_url": "https://www.ssn.edu.in"
+    },
+    "images": {
+      "hero": "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?auto=format&fit=crop&w=1200&q=80",
+      "campus": "https://images.unsplash.com/photo-1498243691581-b145c3f54a5a?auto=format&fit=crop&w=800&q=80",
+      "library": "https://images.unsplash.com/photo-1521587760476-6c12a4b040da?auto=format&fit=crop&w=800&q=80",
+      "lab": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=800&q=80"
+    },
+    "branches": [
+      {
+        "branch_name": "Computer Science and Engineering",
+        "branch_code": "CSE",
+        "cutoffs_2023": {
+          "OC": 198.5,
+          "BC": 198.0,
+          "BCM": 197.0,
+          "MBC": 196.0,
+          "SC": 188.0,
+          "SCA": 183.0,
+          "ST": 172.0
+        },
+        "cutoffs_2022": {
+          "OC": 198.0,
+          "BC": 197.5,
+          "BCM": 196.5,
+          "MBC": 195.0,
+          "SC": 186.0,
+          "SCA": 180.5,
+          "ST": 169.0
+        },
+        "total_seats": 120
+      },
+      {
+        "branch_name": "Information Technology",
+        "branch_code": "IT",
+        "cutoffs_2023": {
+          "OC": 197.5,
+          "BC": 197.0,
+          "BCM": 196.0,
+          "MBC": 195.0,
+          "SC": 185.0,
+          "SCA": 180.0,
+          "ST": 168.0
+        },
+        "cutoffs_2022": {
+          "OC": 197.0,
+          "BC": 196.5,
+          "BCM": 195.0,
+          "MBC": 193.5,
+          "SC": 183.0,
+          "SCA": 177.0,
+          "ST": 165.0
+        },
+        "total_seats": 120
+      },
+      {
+        "branch_name": "Electronics and Communication Engineering",
+        "branch_code": "ECE",
+        "cutoffs_2023": {
+          "OC": 197.0,
+          "BC": 196.0,
+          "BCM": 195.0,
+          "MBC": 194.0,
+          "SC": 184.0,
+          "SCA": 178.0,
+          "ST": 166.0
+        },
+        "cutoffs_2022": {
+          "OC": 196.5,
+          "BC": 195.5,
+          "BCM": 194.0,
+          "MBC": 192.5,
+          "SC": 181.5,
+          "SCA": 175.0,
+          "ST": 162.0
+        },
+        "total_seats": 120
+      },
+      {
+        "branch_name": "Biomedical Engineering",
+        "branch_code": "BME",
+        "cutoffs_2023": {
+          "OC": 193.0,
+          "BC": 190.5,
+          "BCM": 189.0,
+          "MBC": 187.0,
+          "SC": 175.0,
+          "SCA": 168.0,
+          "ST": 155.0
+        },
+        "cutoffs_2022": {
+          "OC": 192.0,
+          "BC": 189.0,
+          "BCM": 187.0,
+          "MBC": 185.0,
+          "SC": 172.0,
+          "SCA": 165.0,
+          "ST": 150.0
+        },
+        "total_seats": 60
+      },
+      {
+        "branch_name": "Mechanical Engineering",
+        "branch_code": "MECH",
+        "cutoffs_2023": {
+          "OC": 190.0,
+          "BC": 187.0,
+          "BCM": 185.0,
+          "MBC": 183.0,
+          "SC": 169.0,
+          "SCA": 161.0,
+          "ST": 149.0
+        },
+        "cutoffs_2022": {
+          "OC": 188.5,
+          "BC": 185.5,
+          "BCM": 183.0,
+          "MBC": 181.0,
+          "SC": 166.0,
+          "SCA": 158.0,
+          "ST": 145.0
+        },
+        "total_seats": 120
+      }
+    ]
+  },
+  {
+    "id": "cit-coimbatore-2007",
+    "code": "2007",
+    "name": "Coimbatore Institute of Technology (CIT), Coimbatore",
+    "short_name": "CIT Coimbatore",
+    "type": "Government Aided",
+    "district": "Coimbatore",
+    "location": "Civil Aerodrome Post, Avinashi Road, Coimbatore - 641014",
+    "established_year": 1956,
+    "affiliation": "Anna University (Autonomous)",
+    "accreditation": "NAAC A Grade, NBA Accredited",
+    "nirf_rank": "Rank 101-150 Band (Engineering)",
+    "rating_breakdown": {
+      "overall": 4.6,
+      "placement": 4.7,
+      "infrastructure": 4.5,
+      "academics": 4.7,
+      "hostel": 4.1,
+      "campus_life": 4.5,
+      "value_for_money": 4.8
+    },
+    "rating_source": "Calculated multi-factor composite (NIRF 2024 & AICTE Disclosure)",
+    "fees": {
+      "tuition_fee_annual": 30000,
+      "other_fees_annual": 20000,
+      "approx_total_day_scholar": 50000,
+      "hostel_fee_annual": 65000,
+      "tuition_source": "Tamil Nadu Govt Aided Fee Regulatory Committee",
+      "tuition_source_url": "https://www.cit.edu.in",
+      "hostel_fee_source": "CIT Warden Office Circular 2023",
+      "hostel_fee_source_url": "https://www.cit.edu.in/hostel",
+      "is_fee_verified": true
+    },
+    "hostel": {
+      "available": true,
+      "boys_hostel": true,
+      "girls_hostel": true,
+      "approx_capacity": "2,500 students",
+      "wifi": true,
+      "study_area": true,
+      "laundry": "Information not available",
+      "security": "24/7 Security guards & CCTV",
+      "mess_type": "Vegetarian & Non-Vegetarian",
+      "food_details": "Coimbatore style vegetarian and non-vegetarian mess with hygienically filtered drinking water",
+      "source_type": "CIT Information Bulletin",
+      "source_url": "https://www.cit.edu.in"
+    },
+    "placements": {
+      "placement_percentage": 92.0,
+      "highest_package_lpa": 36.0,
+      "average_package_lpa": 8.8,
+      "median_package_lpa": 7.5,
+      "num_recruiters": 220,
+      "top_companies": [
+        "Oracle",
+        "Bosch",
+        "Cisco",
+        "DE Shaw",
+        "L&T",
+        "TCS Digital",
+        "Accenture"
+      ],
+      "placement_year": "2023-2024",
+      "source_type": "NIRF 2024 Institutional Data",
+      "source_url": "https://www.cit.edu.in/placement"
+    },
+    "infrastructure": {
+      "campus_size_acres": "25 Acres",
+      "library_volumes": "110,000+ volumes, IEEE digital access",
+      "labs_count": "60+ Engineering laboratories and testing centres",
+      "sports_facilities": [
+        "Football ground",
+        "Basketball court",
+        "Gymnasium"
+      ],
+      "auditorium": true,
+      "cafeteria": true,
+      "source_type": "AICTE Mandatory Disclosure",
+      "source_url": "https://www.cit.edu.in"
+    },
+    "images": {
+      "hero": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?auto=format&fit=crop&w=1200&q=80",
+      "campus": "https://images.unsplash.com/photo-1562774053-701939374585?auto=format&fit=crop&w=800&q=80",
+      "library": "https://images.unsplash.com/photo-1521587760476-6c12a4b040da?auto=format&fit=crop&w=800&q=80",
+      "lab": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=800&q=80"
+    },
+    "branches": [
+      {
+        "branch_name": "Computer Science and Engineering",
+        "branch_code": "CSE",
+        "cutoffs_2023": {
+          "OC": 198.0,
+          "BC": 197.5,
+          "BCM": 196.5,
+          "MBC": 195.5,
+          "SC": 189.0,
+          "SCA": 184.0,
+          "ST": 173.0
+        },
+        "cutoffs_2022": {
+          "OC": 197.5,
+          "BC": 197.0,
+          "BCM": 196.0,
+          "MBC": 194.5,
+          "SC": 187.0,
+          "SCA": 182.0,
+          "ST": 170.0
+        },
+        "total_seats": 120
+      },
+      {
+        "branch_name": "Artificial Intelligence and Machine Learning",
+        "branch_code": "AIML",
+        "cutoffs_2023": {
+          "OC": 197.5,
+          "BC": 197.0,
+          "BCM": 196.0,
+          "MBC": 195.0,
+          "SC": 188.0,
+          "SCA": 183.0,
+          "ST": 171.0
+        },
+        "cutoffs_2022": {
+          "OC": 197.0,
+          "BC": 196.5,
+          "BCM": 195.5,
+          "MBC": 194.0,
+          "SC": 186.0,
+          "SCA": 181.0,
+          "ST": 168.0
+        },
+        "total_seats": 60
+      },
+      {
+        "branch_name": "Electronics and Communication Engineering",
+        "branch_code": "ECE",
+        "cutoffs_2023": {
+          "OC": 196.5,
+          "BC": 195.5,
+          "BCM": 194.5,
+          "MBC": 193.5,
+          "SC": 186.0,
+          "SCA": 181.0,
+          "ST": 170.0
+        },
+        "cutoffs_2022": {
+          "OC": 196.0,
+          "BC": 195.0,
+          "BCM": 194.0,
+          "MBC": 192.5,
+          "SC": 184.0,
+          "SCA": 179.0,
+          "ST": 167.0
+        },
+        "total_seats": 120
+      },
+      {
+        "branch_name": "Mechanical Engineering",
+        "branch_code": "MECH",
+        "cutoffs_2023": {
+          "OC": 191.0,
+          "BC": 188.5,
+          "BCM": 186.5,
+          "MBC": 185.0,
+          "SC": 174.0,
+          "SCA": 167.0,
+          "ST": 154.0
+        },
+        "cutoffs_2022": {
+          "OC": 189.5,
+          "BC": 187.0,
+          "BCM": 185.0,
+          "MBC": 183.0,
+          "SC": 171.0,
+          "SCA": 164.0,
+          "ST": 150.0
+        },
+        "total_seats": 120
+      }
+    ]
+  },
+  {
+    "id": "gct-coimbatore-2005",
+    "code": "2005",
+    "name": "Government College of Technology (GCT), Coimbatore",
+    "short_name": "GCT Coimbatore",
+    "type": "Government",
+    "district": "Coimbatore",
+    "location": "Thadagam Road, Coimbatore - 641013",
+    "established_year": 1945,
+    "affiliation": "Anna University (Autonomous)",
+    "accreditation": "NAAC A Grade, NBA Accredited",
+    "nirf_rank": "Rank 101-150 Band (Engineering)",
+    "rating_breakdown": {
+      "overall": 4.6,
+      "placement": 4.6,
+      "infrastructure": 4.4,
+      "academics": 4.7,
+      "hostel": 4.0,
+      "campus_life": 4.5,
+      "value_for_money": 5.0
+    },
+    "rating_source": "Calculated multi-factor composite (NIRF 2024 & AICTE Disclosure)",
+    "fees": {
+      "tuition_fee_annual": 12000,
+      "other_fees_annual": 14000,
+      "approx_total_day_scholar": 26000,
+      "hostel_fee_annual": 32000,
+      "tuition_source": "Government of Tamil Nadu Higher Education Dept Fee Orders",
+      "tuition_source_url": "https://www.gct.ac.in",
+      "hostel_fee_source": "GCT Hostels Committee",
+      "hostel_fee_source_url": "https://www.gct.ac.in/hostel",
+      "is_fee_verified": true
+    },
+    "hostel": {
+      "available": true,
+      "boys_hostel": true,
+      "girls_hostel": true,
+      "approx_capacity": "2,000 students",
+      "wifi": true,
+      "study_area": true,
+      "laundry": "Information not available",
+      "security": "24/7 Security",
+      "mess_type": "Vegetarian & Non-Vegetarian",
+      "food_details": "Dividing system student-run mess offering traditional South Indian food",
+      "source_type": "GCT Hostel Rules and Regulations",
+      "source_url": "https://www.gct.ac.in"
+    },
+    "placements": {
+      "placement_percentage": 90.5,
+      "highest_package_lpa": 32.0,
+      "average_package_lpa": 8.0,
+      "median_package_lpa": 7.0,
+      "num_recruiters": 180,
+      "top_companies": [
+        "Robert Bosch",
+        "L&T",
+        "TCS",
+        "Infosys",
+        "Cisco",
+        "Titan",
+        "Murugappa Group"
+      ],
+      "placement_year": "2023-2024",
+      "source_type": "GCT Training and Placement Cell Report 2024",
+      "source_url": "https://www.gct.ac.in/placement"
+    },
+    "infrastructure": {
+      "campus_size_acres": "105 Acres",
+      "library_volumes": "100,000+ volumes",
+      "labs_count": "50+ Laboratories",
+      "sports_facilities": [
+        "Cricket ground",
+        "Hockey field",
+        "Volleyball courts"
+      ],
+      "auditorium": true,
+      "cafeteria": true,
+      "source_type": "AICTE Mandatory Disclosure (GCT)",
+      "source_url": "https://www.gct.ac.in"
+    },
+    "images": {
+      "hero": "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?auto=format&fit=crop&w=1200&q=80",
+      "campus": "https://images.unsplash.com/photo-1498243691581-b145c3f54a5a?auto=format&fit=crop&w=800&q=80",
+      "library": "https://images.unsplash.com/photo-1521587760476-6c12a4b040da?auto=format&fit=crop&w=800&q=80",
+      "lab": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=800&q=80"
+    },
+    "branches": [
+      {
+        "branch_name": "Computer Science and Engineering",
+        "branch_code": "CSE",
+        "cutoffs_2023": {
+          "OC": 197.5,
+          "BC": 197.0,
+          "BCM": 196.0,
+          "MBC": 195.0,
+          "SC": 187.5,
+          "SCA": 182.0,
+          "ST": 171.0
+        },
+        "cutoffs_2022": {
+          "OC": 197.0,
+          "BC": 196.0,
+          "BCM": 195.0,
+          "MBC": 194.0,
+          "SC": 185.0,
+          "SCA": 180.0,
+          "ST": 168.0
+        },
+        "total_seats": 60
+      },
+      {
+        "branch_name": "Information Technology",
+        "branch_code": "IT",
+        "cutoffs_2023": {
+          "OC": 196.5,
+          "BC": 195.5,
+          "BCM": 194.5,
+          "MBC": 193.5,
+          "SC": 185.0,
+          "SCA": 180.0,
+          "ST": 169.0
+        },
+        "cutoffs_2022": {
+          "OC": 196.0,
+          "BC": 195.0,
+          "BCM": 194.0,
+          "MBC": 192.5,
+          "SC": 183.0,
+          "SCA": 178.0,
+          "ST": 166.0
+        },
+        "total_seats": 60
+      },
+      {
+        "branch_name": "Electronics and Communication Engineering",
+        "branch_code": "ECE",
+        "cutoffs_2023": {
+          "OC": 196.0,
+          "BC": 195.0,
+          "BCM": 194.0,
+          "MBC": 193.0,
+          "SC": 184.0,
+          "SCA": 179.0,
+          "ST": 168.0
+        },
+        "cutoffs_2022": {
+          "OC": 195.5,
+          "BC": 194.0,
+          "BCM": 193.0,
+          "MBC": 191.5,
+          "SC": 182.0,
+          "SCA": 177.0,
+          "ST": 165.0
+        },
+        "total_seats": 60
+      },
+      {
+        "branch_name": "Mechanical Engineering",
+        "branch_code": "MECH",
+        "cutoffs_2023": {
+          "OC": 189.5,
+          "BC": 187.0,
+          "BCM": 185.0,
+          "MBC": 183.5,
+          "SC": 171.0,
+          "SCA": 164.0,
+          "ST": 151.0
+        },
+        "cutoffs_2022": {
+          "OC": 188.0,
+          "BC": 185.5,
+          "BCM": 183.5,
+          "MBC": 181.5,
+          "SC": 168.0,
+          "SCA": 161.0,
+          "ST": 147.0
+        },
+        "total_seats": 120
+      }
+    ]
+  },
+  {
+    "id": "tce-madurai-5008",
+    "code": "5008",
+    "name": "Thiagarajar College of Engineering (TCE), Madurai",
+    "short_name": "TCE Madurai",
+    "type": "Government Aided",
+    "district": "Madurai",
+    "location": "Thiruparankundram, Madurai - 625015",
+    "established_year": 1957,
+    "affiliation": "Anna University (Autonomous)",
+    "accreditation": "NAAC A+ Grade, NBA Accredited",
+    "nirf_rank": "Rank 85 (Engineering)",
+    "rating_breakdown": {
+      "overall": 4.7,
+      "placement": 4.8,
+      "infrastructure": 4.6,
+      "academics": 4.8,
+      "hostel": 4.2,
+      "campus_life": 4.6,
+      "value_for_money": 4.9
+    },
+    "rating_source": "Calculated multi-factor composite (NIRF 2024 & AICTE Disclosure)",
+    "fees": {
+      "tuition_fee_annual": 32000,
+      "other_fees_annual": 22000,
+      "approx_total_day_scholar": 54000,
+      "hostel_fee_annual": 60000,
+      "tuition_source": "Tamil Nadu Govt Aided Colleges Fee Orders",
+      "tuition_source_url": "https://www.tce.edu",
+      "hostel_fee_source": "TCE Hostels Notice",
+      "hostel_fee_source_url": "https://www.tce.edu/hostels",
+      "is_fee_verified": true
+    },
+    "hostel": {
+      "available": true,
+      "boys_hostel": true,
+      "girls_hostel": true,
+      "approx_capacity": "2,400 students across 6 blocks",
+      "wifi": true,
+      "study_area": true,
+      "laundry": "Information not available",
+      "security": "24/7 Wardens and surveillance",
+      "mess_type": "Vegetarian & Non-Vegetarian",
+      "food_details": "Pure vegetarian and non-vegetarian traditional Madurai cuisine mess",
+      "source_type": "TCE Student Information Guide",
+      "source_url": "https://www.tce.edu"
+    },
+    "placements": {
+      "placement_percentage": 93.0,
+      "highest_package_lpa": 35.0,
+      "average_package_lpa": 9.2,
+      "median_package_lpa": 7.8,
+      "num_recruiters": 210,
+      "top_companies": [
+        "Amazon",
+        "TCS",
+        "Zoho",
+        "Honeywell",
+        "TVS Motors",
+        "L&T Infotech",
+        "Cognizant"
+      ],
+      "placement_year": "2023-2024",
+      "source_type": "NIRF 2024 Data & TCE Placement Cell",
+      "source_url": "https://www.tce.edu/placement"
+    },
+    "infrastructure": {
+      "campus_size_acres": "143 Acres (Picturesque foot of Thiruparankundram hills)",
+      "library_volumes": "130,000+ volumes, IEEE digital access",
+      "labs_count": "65+ Specialized research labs and Honeywell innovation centre",
+      "sports_facilities": [
+        "Athletics track",
+        "Cricket and football grounds",
+        "Indoor gym"
+      ],
+      "auditorium": true,
+      "cafeteria": true,
+      "source_type": "AICTE Mandatory Disclosure",
+      "source_url": "https://www.tce.edu"
+    },
+    "images": {
+      "hero": "https://images.unsplash.com/photo-1562774053-701939374585?auto=format&fit=crop&w=1200&q=80",
+      "campus": "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?auto=format&fit=crop&w=800&q=80",
+      "library": "https://images.unsplash.com/photo-1521587760476-6c12a4b040da?auto=format&fit=crop&w=800&q=80",
+      "lab": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=800&q=80"
+    },
+    "branches": [
+      {
+        "branch_name": "Computer Science and Engineering",
+        "branch_code": "CSE",
+        "cutoffs_2023": {
+          "OC": 197.5,
+          "BC": 197.0,
+          "BCM": 196.0,
+          "MBC": 195.0,
+          "SC": 188.0,
+          "SCA": 183.0,
+          "ST": 172.0
+        },
+        "cutoffs_2022": {
+          "OC": 197.0,
+          "BC": 196.5,
+          "BCM": 195.0,
+          "MBC": 194.0,
+          "SC": 186.0,
+          "SCA": 181.0,
+          "ST": 169.0
+        },
+        "total_seats": 120
+      },
+      {
+        "branch_name": "Information Technology",
+        "branch_code": "IT",
+        "cutoffs_2023": {
+          "OC": 196.5,
+          "BC": 196.0,
+          "BCM": 195.0,
+          "MBC": 194.0,
+          "SC": 186.0,
+          "SCA": 181.0,
+          "ST": 170.0
+        },
+        "cutoffs_2022": {
+          "OC": 196.0,
+          "BC": 195.0,
+          "BCM": 194.0,
+          "MBC": 192.5,
+          "SC": 184.0,
+          "SCA": 179.0,
+          "ST": 167.0
+        },
+        "total_seats": 60
+      },
+      {
+        "branch_name": "Electronics and Communication Engineering",
+        "branch_code": "ECE",
+        "cutoffs_2023": {
+          "OC": 196.0,
+          "BC": 195.0,
+          "BCM": 194.0,
+          "MBC": 193.0,
+          "SC": 185.0,
+          "SCA": 180.0,
+          "ST": 169.0
+        },
+        "cutoffs_2022": {
+          "OC": 195.5,
+          "BC": 194.5,
+          "BCM": 193.0,
+          "MBC": 191.5,
+          "SC": 183.0,
+          "SCA": 178.0,
+          "ST": 165.0
+        },
+        "total_seats": 120
+      },
+      {
+        "branch_name": "Mechanical Engineering",
+        "branch_code": "MECH",
+        "cutoffs_2023": {
+          "OC": 190.0,
+          "BC": 187.5,
+          "BCM": 185.5,
+          "MBC": 184.0,
+          "SC": 172.5,
+          "SCA": 165.0,
+          "ST": 153.0
+        },
+        "cutoffs_2022": {
+          "OC": 188.5,
+          "BC": 186.0,
+          "BCM": 184.0,
+          "MBC": 182.0,
+          "SC": 169.5,
+          "SCA": 162.0,
+          "ST": 149.0
+        },
+        "total_seats": 120
+      }
+    ]
+  },
+  {
+    "id": "kct-coimbatore-2712",
+    "code": "2712",
+    "name": "Kumaraguru College of Technology (KCT), Coimbatore",
+    "short_name": "KCT Coimbatore",
+    "type": "Private Autonomous",
+    "district": "Coimbatore",
+    "location": "Saravanampatti, Coimbatore - 641049",
+    "established_year": 1984,
+    "affiliation": "Anna University (Autonomous)",
+    "accreditation": "NAAC A++ Grade, NBA Accredited",
+    "nirf_rank": "Rank 101-150 Band (Engineering)",
+    "rating_breakdown": {
+      "overall": 4.6,
+      "placement": 4.6,
+      "infrastructure": 4.8,
+      "academics": 4.6,
+      "hostel": 4.3,
+      "campus_life": 4.7,
+      "value_for_money": 4.2
+    },
+    "rating_source": "Calculated multi-factor composite (NIRF 2024 & AICTE Disclosure)",
+    "fees": {
+      "tuition_fee_annual": 55000,
+      "other_fees_annual": 35000,
+      "approx_total_day_scholar": 90000,
+      "hostel_fee_annual": 95000,
+      "tuition_source": "Tamil Nadu Fee Fixation Committee",
+      "tuition_source_url": "https://www.kct.ac.in/admissions",
+      "hostel_fee_source": "KCT Student Affairs circular",
+      "hostel_fee_source_url": "https://www.kct.ac.in/hostels",
+      "is_fee_verified": true
+    },
+    "hostel": {
+      "available": true,
+      "boys_hostel": true,
+      "girls_hostel": true,
+      "approx_capacity": "3,200 students",
+      "wifi": true,
+      "study_area": true,
+      "laundry": true,
+      "security": "24/7 Security and biometric logging",
+      "mess_type": "Vegetarian & Non-Vegetarian",
+      "food_details": "Multiple dining halls serving South and North Indian meals with fresh bakery",
+      "source_type": "KCT Official Information Brochure",
+      "source_url": "https://www.kct.ac.in"
+    },
+    "placements": {
+      "placement_percentage": 91.5,
+      "highest_package_lpa": 32.0,
+      "average_package_lpa": 7.5,
+      "median_package_lpa": 6.5,
+      "num_recruiters": 260,
+      "top_companies": [
+        "Amazon",
+        "Robert Bosch",
+        "Cognizant",
+        "Zoho",
+        "Accenture",
+        "Soliton",
+        "Ford"
+      ],
+      "placement_year": "2023-2024",
+      "source_type": "NIRF 2024 Report & KCT Career Cell",
+      "source_url": "https://www.kct.ac.in/placement"
+    },
+    "infrastructure": {
+      "campus_size_acres": "156 Acres",
+      "library_volumes": "115,000+ volumes, Mahalingam Central Library",
+      "labs_count": "70+ Laboratories & FORGE Innovation Accelerator",
+      "sports_facilities": [
+        "Synthetic track",
+        "Indoor stadium",
+        "Floodlit basketball & tennis"
+      ],
+      "auditorium": true,
+      "cafeteria": true,
+      "source_type": "AICTE Mandatory Disclosure",
+      "source_url": "https://www.kct.ac.in"
+    },
+    "images": {
+      "hero": "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?auto=format&fit=crop&w=1200&q=80",
+      "campus": "https://images.unsplash.com/photo-1498243691581-b145c3f54a5a?auto=format&fit=crop&w=800&q=80",
+      "library": "https://images.unsplash.com/photo-1521587760476-6c12a4b040da?auto=format&fit=crop&w=800&q=80",
+      "lab": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=800&q=80"
+    },
+    "branches": [
+      {
+        "branch_name": "Computer Science and Engineering",
+        "branch_code": "CSE",
+        "cutoffs_2023": {
+          "OC": 195.5,
+          "BC": 194.5,
+          "BCM": 193.5,
+          "MBC": 191.5,
+          "SC": 181.0,
+          "SCA": 174.0,
+          "ST": 162.0
+        },
+        "cutoffs_2022": {
+          "OC": 194.5,
+          "BC": 193.5,
+          "BCM": 192.0,
+          "MBC": 190.0,
+          "SC": 178.0,
+          "SCA": 171.0,
+          "ST": 158.0
+        },
+        "total_seats": 180
+      },
+      {
+        "branch_name": "Artificial Intelligence and Data Science",
+        "branch_code": "AIDS",
+        "cutoffs_2023": {
+          "OC": 194.5,
+          "BC": 193.5,
+          "BCM": 192.0,
+          "MBC": 190.0,
+          "SC": 179.0,
+          "SCA": 172.0,
+          "ST": 159.0
+        },
+        "cutoffs_2022": {
+          "OC": 193.5,
+          "BC": 192.0,
+          "BCM": 190.5,
+          "MBC": 188.5,
+          "SC": 176.0,
+          "SCA": 169.0,
+          "ST": 155.0
+        },
+        "total_seats": 120
+      },
+      {
+        "branch_name": "Information Technology",
+        "branch_code": "IT",
+        "cutoffs_2023": {
+          "OC": 194.0,
+          "BC": 193.0,
+          "BCM": 191.5,
+          "MBC": 189.5,
+          "SC": 178.0,
+          "SCA": 170.5,
+          "ST": 158.0
+        },
+        "cutoffs_2022": {
+          "OC": 193.0,
+          "BC": 191.5,
+          "BCM": 190.0,
+          "MBC": 187.5,
+          "SC": 175.0,
+          "SCA": 167.0,
+          "ST": 154.0
+        },
+        "total_seats": 120
+      },
+      {
+        "branch_name": "Electronics and Communication Engineering",
+        "branch_code": "ECE",
+        "cutoffs_2023": {
+          "OC": 193.5,
+          "BC": 192.0,
+          "BCM": 190.5,
+          "MBC": 188.0,
+          "SC": 176.0,
+          "SCA": 168.0,
+          "ST": 155.0
+        },
+        "cutoffs_2022": {
+          "OC": 192.0,
+          "BC": 190.5,
+          "BCM": 189.0,
+          "MBC": 186.0,
+          "SC": 173.0,
+          "SCA": 165.0,
+          "ST": 151.0
+        },
+        "total_seats": 180
+      },
+      {
+        "branch_name": "Mechanical Engineering",
+        "branch_code": "MECH",
+        "cutoffs_2023": {
+          "OC": 183.0,
+          "BC": 178.5,
+          "BCM": 175.0,
+          "MBC": 173.0,
+          "SC": 158.0,
+          "SCA": 149.0,
+          "ST": 138.0
+        },
+        "cutoffs_2022": {
+          "OC": 180.5,
+          "BC": 175.5,
+          "BCM": 172.0,
+          "MBC": 170.0,
+          "SC": 154.0,
+          "SCA": 145.0,
+          "ST": 134.0
+        },
+        "total_seats": 120
+      }
+    ]
+  },
+  {
+    "id": "cit-chennai-1114",
+    "code": "1114",
+    "name": "Chennai Institute of Technology (CIT Chennai), Kundrathur",
+    "short_name": "CIT Chennai",
+    "type": "Private Autonomous",
+    "district": "Chennai",
+    "location": "Sarathy Nagar, Kundrathur, Chennai - 600069",
+    "established_year": 2010,
+    "affiliation": "Anna University (Autonomous)",
+    "accreditation": "NAAC A+ Grade, NBA Accredited",
+    "nirf_rank": "Rank 151-200 Band (Engineering)",
+    "rating_breakdown": {
+      "overall": 4.5,
+      "placement": 4.7,
+      "infrastructure": 4.6,
+      "academics": 4.5,
+      "hostel": 4.2,
+      "campus_life": 4.4,
+      "value_for_money": 4.4
+    },
+    "rating_source": "Calculated multi-factor composite (NIRF 2024 & AICTE Disclosure)",
+    "fees": {
+      "tuition_fee_annual": 55000,
+      "other_fees_annual": 30000,
+      "approx_total_day_scholar": 85000,
+      "hostel_fee_annual": 85000,
+      "tuition_source": "Tamil Nadu Fee Fixation Committee",
+      "tuition_source_url": "https://www.citchennai.edu.in",
+      "hostel_fee_source": "CIT Chennai Administration",
+      "hostel_fee_source_url": "https://www.citchennai.edu.in/hostel",
+      "is_fee_verified": true
+    },
+    "hostel": {
+      "available": true,
+      "boys_hostel": true,
+      "girls_hostel": true,
+      "approx_capacity": "2,000 students",
+      "wifi": true,
+      "study_area": true,
+      "laundry": true,
+      "security": "24/7 CCTV & Security",
+      "mess_type": "Vegetarian & Non-Vegetarian",
+      "food_details": "Modern cafeteria and multi-cuisine hostel mess",
+      "source_type": "CIT Chennai Prospectus",
+      "source_url": "https://www.citchennai.edu.in"
+    },
+    "placements": {
+      "placement_percentage": 93.5,
+      "highest_package_lpa": 40.0,
+      "average_package_lpa": 8.5,
+      "median_package_lpa": 7.0,
+      "num_recruiters": 240,
+      "top_companies": [
+        "Amazon",
+        "TCS",
+        "Zoho",
+        "HCL",
+        "Virtusa",
+        "Pegasystems",
+        "Capgemini"
+      ],
+      "placement_year": "2023-2024",
+      "source_type": "NIRF 2024 Data & Official Placement Records",
+      "source_url": "https://www.citchennai.edu.in/placements"
+    },
+    "infrastructure": {
+      "campus_size_acres": "25 Acres",
+      "library_volumes": "65,000+ volumes",
+      "labs_count": "45+ Centre of Excellences (KUKA Robotics, 3D Printing)",
+      "sports_facilities": [
+        "Cricket turf",
+        "Volleyball & basketball courts",
+        "Gymnasium"
+      ],
+      "auditorium": true,
+      "cafeteria": true,
+      "source_type": "AICTE Mandatory Disclosure",
+      "source_url": "https://www.citchennai.edu.in"
+    },
+    "images": {
+      "hero": "https://images.unsplash.com/photo-1562774053-701939374585?auto=format&fit=crop&w=1200&q=80",
+      "campus": "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?auto=format&fit=crop&w=800&q=80",
+      "library": "https://images.unsplash.com/photo-1521587760476-6c12a4b040da?auto=format&fit=crop&w=800&q=80",
+      "lab": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=800&q=80"
+    },
+    "branches": [
+      {
+        "branch_name": "Computer Science and Engineering",
+        "branch_code": "CSE",
+        "cutoffs_2023": {
+          "OC": 194.5,
+          "BC": 193.0,
+          "BCM": 191.5,
+          "MBC": 189.5,
+          "SC": 178.0,
+          "SCA": 171.0,
+          "ST": 158.0
+        },
+        "cutoffs_2022": {
+          "OC": 193.0,
+          "BC": 191.5,
+          "BCM": 190.0,
+          "MBC": 187.5,
+          "SC": 174.0,
+          "SCA": 167.0,
+          "ST": 153.0
+        },
+        "total_seats": 180
+      },
+      {
+        "branch_name": "Artificial Intelligence and Data Science",
+        "branch_code": "AIDS",
+        "cutoffs_2023": {
+          "OC": 193.5,
+          "BC": 192.0,
+          "BCM": 190.5,
+          "MBC": 188.0,
+          "SC": 176.0,
+          "SCA": 169.0,
+          "ST": 155.0
+        },
+        "cutoffs_2022": {
+          "OC": 192.0,
+          "BC": 190.0,
+          "BCM": 188.5,
+          "MBC": 186.0,
+          "SC": 172.0,
+          "SCA": 165.0,
+          "ST": 150.0
+        },
+        "total_seats": 120
+      },
+      {
+        "branch_name": "Electronics and Communication Engineering",
+        "branch_code": "ECE",
+        "cutoffs_2023": {
+          "OC": 192.0,
+          "BC": 190.0,
+          "BCM": 188.0,
+          "MBC": 186.0,
+          "SC": 173.0,
+          "SCA": 165.0,
+          "ST": 150.0
+        },
+        "cutoffs_2022": {
+          "OC": 190.5,
+          "BC": 188.5,
+          "BCM": 186.5,
+          "MBC": 184.0,
+          "SC": 170.0,
+          "SCA": 162.0,
+          "ST": 146.0
+        },
+        "total_seats": 120
+      },
+      {
+        "branch_name": "Cyber Security",
+        "branch_code": "CYBER",
+        "cutoffs_2023": {
+          "OC": 192.5,
+          "BC": 191.0,
+          "BCM": 189.5,
+          "MBC": 187.0,
+          "SC": 174.0,
+          "SCA": 166.5,
+          "ST": 152.0
+        },
+        "cutoffs_2022": {
+          "OC": 191.0,
+          "BC": 189.0,
+          "BCM": 187.5,
+          "MBC": 185.0,
+          "SC": 170.5,
+          "SCA": 163.0,
+          "ST": 147.0
+        },
+        "total_seats": 60
+      }
+    ]
+  },
+  {
+    "id": "skcet-coimbatore-2718",
+    "code": "2718",
+    "name": "Sri Krishna College of Engineering and Technology (SKCET), Coimbatore",
+    "short_name": "SKCET Coimbatore",
+    "type": "Private Autonomous",
+    "district": "Coimbatore",
+    "location": "Kuniamuthur, Coimbatore - 641008",
+    "established_year": 1998,
+    "affiliation": "Anna University (Autonomous)",
+    "accreditation": "NAAC A Grade, NBA Accredited",
+    "nirf_rank": "Rank 77 (Engineering)",
+    "rating_breakdown": {
+      "overall": 4.5,
+      "placement": 4.7,
+      "infrastructure": 4.6,
+      "academics": 4.5,
+      "hostel": 4.2,
+      "campus_life": 4.6,
+      "value_for_money": 4.3
+    },
+    "rating_source": "Calculated multi-factor composite (NIRF 2024 & AICTE Disclosure)",
+    "fees": {
+      "tuition_fee_annual": 55000,
+      "other_fees_annual": 30000,
+      "approx_total_day_scholar": 85000,
+      "hostel_fee_annual": 85000,
+      "tuition_source": "Tamil Nadu Fee Fixation Committee",
+      "tuition_source_url": "https://www.skcet.ac.in",
+      "hostel_fee_source": "SKCET Hostels Committee",
+      "hostel_fee_source_url": "https://www.skcet.ac.in/hostel",
+      "is_fee_verified": true
+    },
+    "hostel": {
+      "available": true,
+      "boys_hostel": true,
+      "girls_hostel": true,
+      "approx_capacity": "2,800 students",
+      "wifi": true,
+      "study_area": true,
+      "laundry": true,
+      "security": "24/7 Security",
+      "mess_type": "Vegetarian & Non-Vegetarian",
+      "food_details": "Hygienic multi-cuisine mess",
+      "source_type": "SKCET Prospectus",
+      "source_url": "https://www.skcet.ac.in"
+    },
+    "placements": {
+      "placement_percentage": 92.0,
+      "highest_package_lpa": 34.0,
+      "average_package_lpa": 7.2,
+      "median_package_lpa": 6.2,
+      "num_recruiters": 230,
+      "top_companies": [
+        "Amazon",
+        "Accenture",
+        "Cognizant",
+        "Zoho",
+        "TCS Digital",
+        "Infosys",
+        "Virtusa"
+      ],
+      "placement_year": "2023-2024",
+      "source_type": "NIRF 2024 Engineering Data",
+      "source_url": "https://www.skcet.ac.in/placement"
+    },
+    "infrastructure": {
+      "campus_size_acres": "52 Acres",
+      "library_volumes": "85,000+ volumes",
+      "labs_count": "55+ Laboratories",
+      "sports_facilities": [
+        "Football court",
+        "Volleyball court",
+        "Indoor games"
+      ],
+      "auditorium": true,
+      "cafeteria": true,
+      "source_type": "AICTE Mandatory Disclosure",
+      "source_url": "https://www.skcet.ac.in"
+    },
+    "images": {
+      "hero": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?auto=format&fit=crop&w=1200&q=80",
+      "campus": "https://images.unsplash.com/photo-1562774053-701939374585?auto=format&fit=crop&w=800&q=80",
+      "library": "https://images.unsplash.com/photo-1521587760476-6c12a4b040da?auto=format&fit=crop&w=800&q=80",
+      "lab": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=800&q=80"
+    },
+    "branches": [
+      {
+        "branch_name": "Computer Science and Engineering",
+        "branch_code": "CSE",
+        "cutoffs_2023": {
+          "OC": 194.0,
+          "BC": 192.5,
+          "BCM": 191.0,
+          "MBC": 188.5,
+          "SC": 177.0,
+          "SCA": 170.0,
+          "ST": 157.0
+        },
+        "cutoffs_2022": {
+          "OC": 192.5,
+          "BC": 191.0,
+          "BCM": 189.5,
+          "MBC": 186.5,
+          "SC": 173.0,
+          "SCA": 166.0,
+          "ST": 152.0
+        },
+        "total_seats": 180
+      },
+      {
+        "branch_name": "Information Technology",
+        "branch_code": "IT",
+        "cutoffs_2023": {
+          "OC": 193.0,
+          "BC": 191.5,
+          "BCM": 190.0,
+          "MBC": 187.0,
+          "SC": 175.0,
+          "SCA": 168.0,
+          "ST": 154.0
+        },
+        "cutoffs_2022": {
+          "OC": 191.5,
+          "BC": 190.0,
+          "BCM": 188.0,
+          "MBC": 185.0,
+          "SC": 171.0,
+          "SCA": 164.0,
+          "ST": 149.0
+        },
+        "total_seats": 120
+      },
+      {
+        "branch_name": "Electronics and Communication Engineering",
+        "branch_code": "ECE",
+        "cutoffs_2023": {
+          "OC": 191.5,
+          "BC": 189.5,
+          "BCM": 187.5,
+          "MBC": 185.0,
+          "SC": 172.0,
+          "SCA": 164.0,
+          "ST": 149.0
+        },
+        "cutoffs_2022": {
+          "OC": 190.0,
+          "BC": 188.0,
+          "BCM": 186.0,
+          "MBC": 183.0,
+          "SC": 168.0,
+          "SCA": 160.0,
+          "ST": 144.0
+        },
+        "total_seats": 180
+      }
+    ]
+  },
+  {
+    "id": "rec-chennai-1211",
+    "code": "1211",
+    "name": "Rajalakshmi Engineering College (REC), Thandalam, Chennai",
+    "short_name": "REC Chennai",
+    "type": "Private Autonomous",
+    "district": "Kanchipuram",
+    "location": "Rajalakshmi Nagar, Thandalam, Chennai - 602105",
+    "established_year": 1997,
+    "affiliation": "Anna University (Autonomous)",
+    "accreditation": "NAAC A++ Grade, NBA Accredited",
+    "nirf_rank": "Rank 86 (Engineering)",
+    "rating_breakdown": {
+      "overall": 4.5,
+      "placement": 4.6,
+      "infrastructure": 4.6,
+      "academics": 4.5,
+      "hostel": 4.1,
+      "campus_life": 4.5,
+      "value_for_money": 4.3
+    },
+    "rating_source": "Calculated multi-factor composite (NIRF 2024 & AICTE Disclosure)",
+    "fees": {
+      "tuition_fee_annual": 55000,
+      "other_fees_annual": 32000,
+      "approx_total_day_scholar": 87000,
+      "hostel_fee_annual": 88000,
+      "tuition_source": "Tamil Nadu Fee Fixation Committee",
+      "tuition_source_url": "https://www.rajalakshmi.org",
+      "hostel_fee_source": "REC Hostel Administration",
+      "hostel_fee_source_url": "https://www.rajalakshmi.org/hostel",
+      "is_fee_verified": true
+    },
+    "hostel": {
+      "available": true,
+      "boys_hostel": true,
+      "girls_hostel": true,
+      "approx_capacity": "2,600 students",
+      "wifi": true,
+      "study_area": true,
+      "laundry": true,
+      "security": "24/7 Security",
+      "mess_type": "Vegetarian & Non-Vegetarian",
+      "food_details": "Nutritious multi-item mess catering to diverse students",
+      "source_type": "REC Official Brochure",
+      "source_url": "https://www.rajalakshmi.org"
+    },
+    "placements": {
+      "placement_percentage": 91.0,
+      "highest_package_lpa": 31.5,
+      "average_package_lpa": 7.0,
+      "median_package_lpa": 5.8,
+      "num_recruiters": 220,
+      "top_companies": [
+        "Amazon",
+        "Zoho",
+        "Accenture",
+        "TCS",
+        "Cognizant",
+        "Mindtree",
+        "Wipro"
+      ],
+      "placement_year": "2023-2024",
+      "source_type": "NIRF 2024 Report",
+      "source_url": "https://www.rajalakshmi.org/placement"
+    },
+    "infrastructure": {
+      "campus_size_acres": "40 Acres",
+      "library_volumes": "80,000+ volumes",
+      "labs_count": "50+ Laboratories",
+      "sports_facilities": [
+        "Football ground",
+        "Basketball courts",
+        "Indoor badminton"
+      ],
+      "auditorium": true,
+      "cafeteria": true,
+      "source_type": "AICTE Mandatory Disclosure",
+      "source_url": "https://www.rajalakshmi.org"
+    },
+    "images": {
+      "hero": "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?auto=format&fit=crop&w=1200&q=80",
+      "campus": "https://images.unsplash.com/photo-1498243691581-b145c3f54a5a?auto=format&fit=crop&w=800&q=80",
+      "library": "https://images.unsplash.com/photo-1521587760476-6c12a4b040da?auto=format&fit=crop&w=800&q=80",
+      "lab": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=800&q=80"
+    },
+    "branches": [
+      {
+        "branch_name": "Computer Science and Engineering",
+        "branch_code": "CSE",
+        "cutoffs_2023": {
+          "OC": 193.5,
+          "BC": 192.0,
+          "BCM": 190.5,
+          "MBC": 188.0,
+          "SC": 176.0,
+          "SCA": 169.0,
+          "ST": 155.0
+        },
+        "cutoffs_2022": {
+          "OC": 192.0,
+          "BC": 190.5,
+          "BCM": 188.5,
+          "MBC": 186.0,
+          "SC": 172.0,
+          "SCA": 165.0,
+          "ST": 150.0
+        },
+        "total_seats": 240
+      },
+      {
+        "branch_name": "Information Technology",
+        "branch_code": "IT",
+        "cutoffs_2023": {
+          "OC": 192.0,
+          "BC": 190.5,
+          "BCM": 189.0,
+          "MBC": 186.5,
+          "SC": 174.0,
+          "SCA": 166.5,
+          "ST": 152.0
+        },
+        "cutoffs_2022": {
+          "OC": 190.5,
+          "BC": 188.5,
+          "BCM": 187.0,
+          "MBC": 184.0,
+          "SC": 169.5,
+          "SCA": 162.0,
+          "ST": 147.0
+        },
+        "total_seats": 180
+      },
+      {
+        "branch_name": "Artificial Intelligence and Machine Learning",
+        "branch_code": "AIML",
+        "cutoffs_2023": {
+          "OC": 192.5,
+          "BC": 191.0,
+          "BCM": 189.5,
+          "MBC": 187.0,
+          "SC": 175.0,
+          "SCA": 167.5,
+          "ST": 153.0
+        },
+        "cutoffs_2022": {
+          "OC": 191.0,
+          "BC": 189.0,
+          "BCM": 187.5,
+          "MBC": 185.0,
+          "SC": 170.5,
+          "SCA": 163.0,
+          "ST": 148.0
+        },
+        "total_seats": 120
+      },
+      {
+        "branch_name": "Electronics and Communication Engineering",
+        "branch_code": "ECE",
+        "cutoffs_2023": {
+          "OC": 190.5,
+          "BC": 188.0,
+          "BCM": 186.0,
+          "MBC": 184.0,
+          "SC": 170.0,
+          "SCA": 162.0,
+          "ST": 147.0
+        },
+        "cutoffs_2022": {
+          "OC": 188.5,
+          "BC": 186.0,
+          "BCM": 184.0,
+          "MBC": 181.5,
+          "SC": 166.0,
+          "SCA": 158.0,
+          "ST": 142.0
+        },
+        "total_seats": 180
+      }
+    ]
+  },
+  {
+    "id": "kongu-erode-2711",
+    "code": "2711",
+    "name": "Kongu Engineering College, Perundurai, Erode",
+    "short_name": "Kongu Engg College",
+    "type": "Private Autonomous",
+    "district": "Erode",
+    "location": "Perundurai Railway Station Road, Perundurai, Erode - 638060",
+    "established_year": 1984,
+    "affiliation": "Anna University (Autonomous)",
+    "accreditation": "NAAC A++ Grade, NBA Accredited",
+    "nirf_rank": "Rank 101-150 Band (Engineering)",
+    "rating_breakdown": {
+      "overall": 4.5,
+      "placement": 4.5,
+      "infrastructure": 4.7,
+      "academics": 4.6,
+      "hostel": 4.2,
+      "campus_life": 4.5,
+      "value_for_money": 4.4
+    },
+    "rating_source": "Calculated multi-factor composite (NIRF 2024 & AICTE Disclosure)",
+    "fees": {
+      "tuition_fee_annual": 55000,
+      "other_fees_annual": 25000,
+      "approx_total_day_scholar": 80000,
+      "hostel_fee_annual": 75000,
+      "tuition_source": "Tamil Nadu Fee Fixation Committee",
+      "tuition_source_url": "https://www.kongu.ac.in",
+      "hostel_fee_source": "Kongu Hostels Notice",
+      "hostel_fee_source_url": "https://www.kongu.ac.in/hostel",
+      "is_fee_verified": true
+    },
+    "hostel": {
+      "available": true,
+      "boys_hostel": true,
+      "girls_hostel": true,
+      "approx_capacity": "3,500 students",
+      "wifi": true,
+      "study_area": true,
+      "laundry": true,
+      "security": "24/7 Security & CCTV",
+      "mess_type": "Vegetarian & Non-Vegetarian",
+      "food_details": "Kongu region nutritious mess offering hygienic food",
+      "source_type": "Kongu Information Brochure",
+      "source_url": "https://www.kongu.ac.in"
+    },
+    "placements": {
+      "placement_percentage": 90.0,
+      "highest_package_lpa": 28.0,
+      "average_package_lpa": 6.8,
+      "median_package_lpa": 5.5,
+      "num_recruiters": 210,
+      "top_companies": [
+        "Zoho",
+        "TCS",
+        "Infosys",
+        "Soliton",
+        "Accenture",
+        "Cognizant",
+        "Wipro"
+      ],
+      "placement_year": "2023-2024",
+      "source_type": "NIRF 2024 Engineering Data",
+      "source_url": "https://www.kongu.ac.in/placement"
+    },
+    "infrastructure": {
+      "campus_size_acres": "167 Acres",
+      "library_volumes": "110,000+ volumes",
+      "labs_count": "60+ Laboratories",
+      "sports_facilities": [
+        "Athletics track",
+        "Cricket and football grounds",
+        "Gymnasium"
+      ],
+      "auditorium": true,
+      "cafeteria": true,
+      "source_type": "AICTE Mandatory Disclosure",
+      "source_url": "https://www.kongu.ac.in"
+    },
+    "images": {
+      "hero": "https://images.unsplash.com/photo-1562774053-701939374585?auto=format&fit=crop&w=1200&q=80",
+      "campus": "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?auto=format&fit=crop&w=800&q=80",
+      "library": "https://images.unsplash.com/photo-1521587760476-6c12a4b040da?auto=format&fit=crop&w=800&q=80",
+      "lab": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=800&q=80"
+    },
+    "branches": [
+      {
+        "branch_name": "Computer Science and Engineering",
+        "branch_code": "CSE",
+        "cutoffs_2023": {
+          "OC": 192.5,
+          "BC": 190.5,
+          "BCM": 189.0,
+          "MBC": 186.5,
+          "SC": 173.0,
+          "SCA": 165.0,
+          "ST": 150.0
+        },
+        "cutoffs_2022": {
+          "OC": 190.5,
+          "BC": 188.5,
+          "BCM": 187.0,
+          "MBC": 184.0,
+          "SC": 169.0,
+          "SCA": 161.0,
+          "ST": 146.0
+        },
+        "total_seats": 240
+      },
+      {
+        "branch_name": "Information Technology",
+        "branch_code": "IT",
+        "cutoffs_2023": {
+          "OC": 190.5,
+          "BC": 188.5,
+          "BCM": 187.0,
+          "MBC": 184.5,
+          "SC": 170.0,
+          "SCA": 162.0,
+          "ST": 147.0
+        },
+        "cutoffs_2022": {
+          "OC": 188.5,
+          "BC": 186.5,
+          "BCM": 185.0,
+          "MBC": 182.0,
+          "SC": 166.0,
+          "SCA": 158.0,
+          "ST": 142.0
+        },
+        "total_seats": 120
+      },
+      {
+        "branch_name": "Electronics and Communication Engineering",
+        "branch_code": "ECE",
+        "cutoffs_2023": {
+          "OC": 189.0,
+          "BC": 186.5,
+          "BCM": 185.0,
+          "MBC": 182.5,
+          "SC": 167.0,
+          "SCA": 159.0,
+          "ST": 144.0
+        },
+        "cutoffs_2022": {
+          "OC": 187.0,
+          "BC": 184.5,
+          "BCM": 183.0,
+          "MBC": 180.0,
+          "SC": 163.0,
+          "SCA": 155.0,
+          "ST": 139.0
+        },
+        "total_seats": 180
+      },
+      {
+        "branch_name": "Mechanical Engineering",
+        "branch_code": "MECH",
+        "cutoffs_2023": {
+          "OC": 177.0,
+          "BC": 171.0,
+          "BCM": 167.0,
+          "MBC": 164.0,
+          "SC": 146.0,
+          "SCA": 138.0,
+          "ST": 125.0
+        },
+        "cutoffs_2022": {
+          "OC": 174.0,
+          "BC": 168.0,
+          "BCM": 164.0,
+          "MBC": 160.0,
+          "SC": 141.0,
+          "SCA": 133.0,
+          "ST": 120.0
+        },
+        "total_seats": 120
+      }
+    ]
+  },
+  {
+    "id": "gce-salem-1013",
+    "code": "1013",
+    "name": "Government College of Engineering, Salem",
+    "short_name": "GCE Salem",
+    "type": "Government",
+    "district": "Salem",
+    "location": "Bangalore Highways, Karuppur, Salem - 636011",
+    "established_year": 1966,
+    "affiliation": "Anna University (Autonomous)",
+    "accreditation": "NAAC A Grade, NBA Accredited",
+    "nirf_rank": "Rank 151-200 Band (Engineering)",
+    "rating_breakdown": {
+      "overall": 4.4,
+      "placement": 4.3,
+      "infrastructure": 4.2,
+      "academics": 4.5,
+      "hostel": 3.9,
+      "campus_life": 4.2,
+      "value_for_money": 5.0
+    },
+    "rating_source": "Calculated multi-factor composite (NIRF 2024 & AICTE Disclosure)",
+    "fees": {
+      "tuition_fee_annual": 12000,
+      "other_fees_annual": 13000,
+      "approx_total_day_scholar": 25000,
+      "hostel_fee_annual": 30000,
+      "tuition_source": "Government of Tamil Nadu Higher Education Dept Fee Orders",
+      "tuition_source_url": "https://gcesalem.edu.in",
+      "hostel_fee_source": "GCE Salem Hostels Committee",
+      "hostel_fee_source_url": "https://gcesalem.edu.in/hostel",
+      "is_fee_verified": true
+    },
+    "hostel": {
+      "available": true,
+      "boys_hostel": true,
+      "girls_hostel": true,
+      "approx_capacity": "1,500 students",
+      "wifi": true,
+      "study_area": true,
+      "laundry": "Information not available",
+      "security": "24/7 Security",
+      "mess_type": "Vegetarian & Non-Vegetarian",
+      "food_details": "Dividing system student-managed mess",
+      "source_type": "GCE Salem Information Brochure",
+      "source_url": "https://gcesalem.edu.in"
+    },
+    "placements": {
+      "placement_percentage": 86.0,
+      "highest_package_lpa": 24.0,
+      "average_package_lpa": 6.5,
+      "median_package_lpa": 5.8,
+      "num_recruiters": 140,
+      "top_companies": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "L&T",
+        "JSW Steels",
+        "Cognizant"
+      ],
+      "placement_year": "2023-2024",
+      "source_type": "GCE Salem Placement Cell Report",
+      "source_url": "https://gcesalem.edu.in/placement"
+    },
+    "infrastructure": {
+      "campus_size_acres": "162 Acres",
+      "library_volumes": "70,000+ volumes",
+      "labs_count": "40+ Laboratories",
+      "sports_facilities": [
+        "Cricket ground",
+        "Basketball court",
+        "Gymnasium"
+      ],
+      "auditorium": true,
+      "cafeteria": true,
+      "source_type": "AICTE Mandatory Disclosure",
+      "source_url": "https://gcesalem.edu.in"
+    },
+    "images": {
+      "hero": "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?auto=format&fit=crop&w=1200&q=80",
+      "campus": "https://images.unsplash.com/photo-1498243691581-b145c3f54a5a?auto=format&fit=crop&w=800&q=80",
+      "library": "https://images.unsplash.com/photo-1521587760476-6c12a4b040da?auto=format&fit=crop&w=800&q=80",
+      "lab": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=800&q=80"
+    },
+    "branches": [
+      {
+        "branch_name": "Computer Science and Engineering",
+        "branch_code": "CSE",
+        "cutoffs_2023": {
+          "OC": 193.0,
+          "BC": 191.0,
+          "BCM": 189.5,
+          "MBC": 187.0,
+          "SC": 175.0,
+          "SCA": 168.0,
+          "ST": 154.0
+        },
+        "cutoffs_2022": {
+          "OC": 191.0,
+          "BC": 189.0,
+          "BCM": 187.5,
+          "MBC": 185.0,
+          "SC": 171.0,
+          "SCA": 164.0,
+          "ST": 150.0
+        },
+        "total_seats": 60
+      },
+      {
+        "branch_name": "Electronics and Communication Engineering",
+        "branch_code": "ECE",
+        "cutoffs_2023": {
+          "OC": 190.5,
+          "BC": 188.0,
+          "BCM": 186.0,
+          "MBC": 184.0,
+          "SC": 171.0,
+          "SCA": 163.0,
+          "ST": 149.0
+        },
+        "cutoffs_2022": {
+          "OC": 188.5,
+          "BC": 186.0,
+          "BCM": 184.0,
+          "MBC": 181.5,
+          "SC": 167.0,
+          "SCA": 159.0,
+          "ST": 145.0
+        },
+        "total_seats": 60
+      },
+      {
+        "branch_name": "Mechanical Engineering",
+        "branch_code": "MECH",
+        "cutoffs_2023": {
+          "OC": 182.0,
+          "BC": 176.5,
+          "BCM": 173.0,
+          "MBC": 171.0,
+          "SC": 155.0,
+          "SCA": 147.0,
+          "ST": 135.0
+        },
+        "cutoffs_2022": {
+          "OC": 179.0,
+          "BC": 173.5,
+          "BCM": 170.0,
+          "MBC": 168.0,
+          "SC": 150.0,
+          "SCA": 142.0,
+          "ST": 130.0
+        },
+        "total_seats": 60
+      }
+    ]
+  },
+  {
+    "id": "gce-tirunelveli-4004",
+    "code": "4004",
+    "name": "Government College of Engineering, Tirunelveli",
+    "short_name": "GCE Tirunelveli",
+    "type": "Government",
+    "district": "Tirunelveli",
+    "location": "Trivandrum Road, Tirunelveli - 627007",
+    "established_year": 1981,
+    "affiliation": "Anna University (Autonomous)",
+    "accreditation": "NAAC A Grade, NBA Accredited",
+    "nirf_rank": "Rank 151-200 Band (Engineering)",
+    "rating_breakdown": {
+      "overall": 4.3,
+      "placement": 4.2,
+      "infrastructure": 4.1,
+      "academics": 4.4,
+      "hostel": 3.9,
+      "campus_life": 4.1,
+      "value_for_money": 5.0
+    },
+    "rating_source": "Calculated multi-factor composite (NIRF 2024 & AICTE Disclosure)",
+    "fees": {
+      "tuition_fee_annual": 12000,
+      "other_fees_annual": 13000,
+      "approx_total_day_scholar": 25000,
+      "hostel_fee_annual": 29000,
+      "tuition_source": "Government of Tamil Nadu Higher Education Dept Fee Orders",
+      "tuition_source_url": "https://gcetly.ac.in",
+      "hostel_fee_source": "GCE Tirunelveli Hostels Notice",
+      "hostel_fee_source_url": "https://gcetly.ac.in/hostels",
+      "is_fee_verified": true
+    },
+    "hostel": {
+      "available": true,
+      "boys_hostel": true,
+      "girls_hostel": true,
+      "approx_capacity": "1,400 students",
+      "wifi": true,
+      "study_area": true,
+      "laundry": "Information not available",
+      "security": "24/7 Security guards",
+      "mess_type": "Vegetarian & Non-Vegetarian",
+      "food_details": "Dividing system student-managed mess",
+      "source_type": "GCE Tirunelveli Information Prospectus",
+      "source_url": "https://gcetly.ac.in"
+    },
+    "placements": {
+      "placement_percentage": 85.0,
+      "highest_package_lpa": 22.0,
+      "average_package_lpa": 6.2,
+      "median_package_lpa": 5.4,
+      "num_recruiters": 120,
+      "top_companies": [
+        "TCS",
+        "Infosys",
+        "Zoho",
+        "Cognizant",
+        "L&T",
+        "Wipro"
+      ],
+      "placement_year": "2023-2024",
+      "source_type": "Placement Cell Annual Report",
+      "source_url": "https://gcetly.ac.in/placement"
+    },
+    "infrastructure": {
+      "campus_size_acres": "55 Acres",
+      "library_volumes": "60,000+ volumes",
+      "labs_count": "38+ Laboratories",
+      "sports_facilities": [
+        "Cricket pitch",
+        "Football ground",
+        "Volleyball court"
+      ],
+      "auditorium": true,
+      "cafeteria": true,
+      "source_type": "AICTE Mandatory Disclosure",
+      "source_url": "https://gcetly.ac.in"
+    },
+    "images": {
+      "hero": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?auto=format&fit=crop&w=1200&q=80",
+      "campus": "https://images.unsplash.com/photo-1562774053-701939374585?auto=format&fit=crop&w=800&q=80",
+      "library": "https://images.unsplash.com/photo-1521587760476-6c12a4b040da?auto=format&fit=crop&w=800&q=80",
+      "lab": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=800&q=80"
+    },
+    "branches": [
+      {
+        "branch_name": "Computer Science and Engineering",
+        "branch_code": "CSE",
+        "cutoffs_2023": {
+          "OC": 192.0,
+          "BC": 190.0,
+          "BCM": 188.5,
+          "MBC": 186.0,
+          "SC": 173.0,
+          "SCA": 166.0,
+          "ST": 152.0
+        },
+        "cutoffs_2022": {
+          "OC": 190.0,
+          "BC": 188.0,
+          "BCM": 186.5,
+          "MBC": 184.0,
+          "SC": 169.0,
+          "SCA": 162.0,
+          "ST": 148.0
+        },
+        "total_seats": 60
+      },
+      {
+        "branch_name": "Electronics and Communication Engineering",
+        "branch_code": "ECE",
+        "cutoffs_2023": {
+          "OC": 189.5,
+          "BC": 187.0,
+          "BCM": 185.0,
+          "MBC": 183.0,
+          "SC": 169.0,
+          "SCA": 161.0,
+          "ST": 147.0
+        },
+        "cutoffs_2022": {
+          "OC": 187.5,
+          "BC": 185.0,
+          "BCM": 183.0,
+          "MBC": 180.5,
+          "SC": 165.0,
+          "SCA": 157.0,
+          "ST": 143.0
+        },
+        "total_seats": 60
+      },
+      {
+        "branch_name": "Mechanical Engineering",
+        "branch_code": "MECH",
+        "cutoffs_2023": {
+          "OC": 179.5,
+          "BC": 173.5,
+          "BCM": 170.0,
+          "MBC": 168.0,
+          "SC": 151.0,
+          "SCA": 143.0,
+          "ST": 131.0
+        },
+        "cutoffs_2022": {
+          "OC": 176.5,
+          "BC": 170.5,
+          "BCM": 167.0,
+          "MBC": 165.0,
+          "SC": 147.0,
+          "SCA": 139.0,
+          "ST": 126.0
+        },
+        "total_seats": 60
+      }
+    ]
+  },
+  {
+    "id": "bannari-amman-2702",
+    "code": "2702",
+    "name": "Bannari Amman Institute of Technology",
+    "short_name": "Bannari Amman Institute of Technology",
+    "type": "Autonomous (Self-Financing)",
+    "district": "Erode",
+    "location": "Sathy-Bhavani Road, Sathyamangalam, Erode - 638401",
+    "established_year": 1996,
+    "affiliation": "Anna University (Autonomous)",
+    "accreditation": "NAAC A++ Grade, NBA Accredited",
+    "nirf_rank": "Rank 101-150 Band (Engineering)",
+    "rating_breakdown": {
+      "overall": 4.4,
+      "placement": 4.4,
+      "infrastructure": 4.6,
+      "academics": 4.4,
+      "hostel": 4.3,
+      "campus_life": 4.3,
+      "value_for_money": 4.2
+    },
+    "rating_source": "Calculated multi-factor composite (NIRF 2024 & AICTE Mandatory Disclosure)",
+    "fees": {
+      "tuition_fee_annual": 87000,
+      "other_fees_annual": 18000,
+      "approx_total_day_scholar": 105000,
+      "hostel_fee_annual": 72000,
+      "tuition_source": "TN Committee on Fixation of Fee in Self Financing Professional Colleges",
+      "tuition_source_url": "https://www.bitsathy.ac.in",
+      "hostel_fee_source": "BIT Sathy Hostel Information Brochure",
+      "hostel_fee_source_url": "https://www.bitsathy.ac.in/hostel",
+      "is_fee_verified": true
+    },
+    "hostel": {
+      "available": true,
+      "boys_hostel": true,
+      "girls_hostel": true,
+      "approx_capacity": "5,000+ students",
+      "wifi": true,
+      "study_area": true,
+      "laundry": "Information not available",
+      "security": "24/7 campus security with CCTV",
+      "mess_type": "Vegetarian & Non-Vegetarian",
+      "food_details": "Information not available",
+      "source_type": "BIT Sathy Mandatory Disclosure",
+      "source_url": "https://www.bitsathy.ac.in"
+    },
+    "placements": {
+      "placement_percentage": 92.0,
+      "highest_package_lpa": 42.0,
+      "average_package_lpa": 6.8,
+      "median_package_lpa": "Information not available",
+      "num_recruiters": 220,
+      "top_companies": [
+        "TCS",
+        "Infosys",
+        "Cognizant",
+        "Zoho",
+        "Bosch",
+        "Amazon"
+      ],
+      "placement_year": "2023-2024",
+      "source_type": "BIT Placement Cell / NIRF India Engineering Ranking",
+      "source_url": "https://www.bitsathy.ac.in/placement"
+    },
+    "infrastructure": {
+      "campus_size_acres": "180 Acres",
+      "library_volumes": "1,00,000+ volumes",
+      "labs_count": "70+ Laboratories",
+      "sports_facilities": [
+        "Indoor stadium",
+        "Cricket ground",
+        "Athletic track"
+      ],
+      "auditorium": true,
+      "cafeteria": true,
+      "source_type": "AICTE Mandatory Disclosure",
+      "source_url": "https://www.bitsathy.ac.in"
+    },
+    "images": {
+      "hero": "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?auto=format&fit=crop&w=1200&q=80",
+      "campus": "https://images.unsplash.com/photo-1562774053-701939374585?auto=format&fit=crop&w=800&q=80",
+      "library": "https://images.unsplash.com/photo-1521587760476-6c12a4b040da?auto=format&fit=crop&w=800&q=80",
+      "lab": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=800&q=80"
+    },
+    "branches": [
+      {
+        "branch_name": "Computer Science and Engineering",
+        "branch_code": "CSE",
+        "cutoffs_2023": {
+          "OC": 192.5,
+          "BC": 190.0,
+          "BCM": 188.5,
+          "MBC": 186.5,
+          "SC": 172.0,
+          "SCA": 164.0,
+          "ST": 150.0
+        },
+        "cutoffs_2022": {
+          "OC": 190.5,
+          "BC": 188.0,
+          "BCM": 186.5,
+          "MBC": 184.5,
+          "SC": 168.0,
+          "SCA": 160.0,
+          "ST": 146.0
+        },
+        "total_seats": 180
+      },
+      {
+        "branch_name": "Information Technology",
+        "branch_code": "IT",
+        "cutoffs_2023": {
+          "OC": 190.0,
+          "BC": 187.5,
+          "BCM": 186.0,
+          "MBC": 184.0,
+          "SC": 168.0,
+          "SCA": 160.0,
+          "ST": 146.0
+        },
+        "cutoffs_2022": {
+          "OC": 188.0,
+          "BC": 185.5,
+          "BCM": 184.0,
+          "MBC": 181.5,
+          "SC": 164.0,
+          "SCA": 156.0,
+          "ST": 142.0
+        },
+        "total_seats": 120
+      },
+      {
+        "branch_name": "Electronics and Communication Engineering",
+        "branch_code": "ECE",
+        "cutoffs_2023": {
+          "OC": 188.5,
+          "BC": 185.5,
+          "BCM": 184.0,
+          "MBC": 181.5,
+          "SC": 165.0,
+          "SCA": 157.0,
+          "ST": 143.0
+        },
+        "cutoffs_2022": {
+          "OC": 186.5,
+          "BC": 183.5,
+          "BCM": 182.0,
+          "MBC": 179.0,
+          "SC": 161.0,
+          "SCA": 153.0,
+          "ST": 139.0
+        },
+        "total_seats": 180
+      }
+    ]
+  },
+  {
+    "id": "mepco-schlenk-4960",
+    "code": "4960",
+    "name": "Mepco Schlenk Engineering College",
+    "short_name": "Mepco Schlenk Engineering College",
+    "type": "Autonomous (Self-Financing)",
+    "district": "Virudhunagar",
+    "location": "Mepco Nagar, Sivakasi, Virudhunagar - 626005",
+    "established_year": 1984,
+    "affiliation": "Anna University (Autonomous)",
+    "accreditation": "NAAC A Grade, NBA Accredited",
+    "nirf_rank": "Rank 101-150 Band (Engineering)",
+    "rating_breakdown": {
+      "overall": 4.3,
+      "placement": 4.3,
+      "infrastructure": 4.4,
+      "academics": 4.4,
+      "hostel": 4.1,
+      "campus_life": 4.1,
+      "value_for_money": 4.3
+    },
+    "rating_source": "Calculated multi-factor composite (NIRF 2024 & AICTE Mandatory Disclosure)",
+    "fees": {
+      "tuition_fee_annual": 85000,
+      "other_fees_annual": 16000,
+      "approx_total_day_scholar": 101000,
+      "hostel_fee_annual": 65000,
+      "tuition_source": "TN Committee on Fixation of Fee in Self Financing Professional Colleges",
+      "tuition_source_url": "https://www.mepcoeng.ac.in",
+      "hostel_fee_source": "Mepco Hostel Office Circular",
+      "hostel_fee_source_url": "https://www.mepcoeng.ac.in/hostel",
+      "is_fee_verified": true
+    },
+    "hostel": {
+      "available": true,
+      "boys_hostel": true,
+      "girls_hostel": true,
+      "approx_capacity": "2,400 students",
+      "wifi": true,
+      "study_area": true,
+      "laundry": "Information not available",
+      "security": "24/7 campus security",
+      "mess_type": "Vegetarian & Non-Vegetarian",
+      "food_details": "Information not available",
+      "source_type": "Mepco Information Brochure",
+      "source_url": "https://www.mepcoeng.ac.in"
+    },
+    "placements": {
+      "placement_percentage": 90.0,
+      "highest_package_lpa": 27.0,
+      "average_package_lpa": 6.4,
+      "median_package_lpa": "Information not available",
+      "num_recruiters": 160,
+      "top_companies": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Zoho",
+        "L&T",
+        "Cognizant"
+      ],
+      "placement_year": "2023-2024",
+      "source_type": "Mepco Placement Cell / NIRF India Engineering Ranking",
+      "source_url": "https://www.mepcoeng.ac.in/placement"
+    },
+    "infrastructure": {
+      "campus_size_acres": "160 Acres",
+      "library_volumes": "90,000+ volumes",
+      "labs_count": "55+ Laboratories",
+      "sports_facilities": [
+        "Indoor stadium",
+        "Cricket ground",
+        "Gymnasium"
+      ],
+      "auditorium": true,
+      "cafeteria": true,
+      "source_type": "AICTE Mandatory Disclosure",
+      "source_url": "https://www.mepcoeng.ac.in"
+    },
+    "images": {
+      "hero": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?auto=format&fit=crop&w=1200&q=80",
+      "campus": "https://images.unsplash.com/photo-1498243691581-b145c3f54a5a?auto=format&fit=crop&w=800&q=80",
+      "library": "https://images.unsplash.com/photo-1521587760476-6c12a4b040da?auto=format&fit=crop&w=800&q=80",
+      "lab": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=800&q=80"
+    },
+    "branches": [
+      {
+        "branch_name": "Computer Science and Engineering",
+        "branch_code": "CSE",
+        "cutoffs_2023": {
+          "OC": 193.0,
+          "BC": 190.5,
+          "BCM": 189.0,
+          "MBC": 187.0,
+          "SC": 173.0,
+          "SCA": 165.0,
+          "ST": 151.0
+        },
+        "cutoffs_2022": {
+          "OC": 191.0,
+          "BC": 188.5,
+          "BCM": 187.0,
+          "MBC": 185.0,
+          "SC": 169.0,
+          "SCA": 161.0,
+          "ST": 147.0
+        },
+        "total_seats": 180
+      },
+      {
+        "branch_name": "Electronics and Communication Engineering",
+        "branch_code": "ECE",
+        "cutoffs_2023": {
+          "OC": 189.5,
+          "BC": 186.5,
+          "BCM": 185.0,
+          "MBC": 182.5,
+          "SC": 166.0,
+          "SCA": 158.0,
+          "ST": 144.0
+        },
+        "cutoffs_2022": {
+          "OC": 187.5,
+          "BC": 184.5,
+          "BCM": 183.0,
+          "MBC": 180.0,
+          "SC": 162.0,
+          "SCA": 154.0,
+          "ST": 140.0
+        },
+        "total_seats": 120
+      },
+      {
+        "branch_name": "Mechanical Engineering",
+        "branch_code": "MECH",
+        "cutoffs_2023": {
+          "OC": 178.0,
+          "BC": 172.0,
+          "BCM": 168.5,
+          "MBC": 166.0,
+          "SC": 148.0,
+          "SCA": 140.0,
+          "ST": 127.0
+        },
+        "cutoffs_2022": {
+          "OC": 175.0,
+          "BC": 169.0,
+          "BCM": 165.5,
+          "MBC": 163.0,
+          "SC": 144.0,
+          "SCA": 136.0,
+          "ST": 123.0
+        },
+        "total_seats": 120
+      }
+    ]
+  },
+  {
+    "id": "licet-chennai-1450",
+    "code": "1450",
+    "name": "Loyola-ICAM College of Engineering and Technology (LICET)",
+    "short_name": "LICET",
+    "type": "Self-Financing",
+    "district": "Chennai",
+    "location": "Loyola Campus, Nungambakkam, Chennai - 600034",
+    "established_year": 2010,
+    "affiliation": "Anna University",
+    "accreditation": "NAAC Accredited, NBA Accredited programmes",
+    "nirf_rank": "Information not available",
+    "rating_breakdown": {
+      "overall": 4.1,
+      "placement": 4.1,
+      "infrastructure": 4.0,
+      "academics": 4.2,
+      "hostel": 3.8,
+      "campus_life": 4.0,
+      "value_for_money": 4.1
+    },
+    "rating_source": "Calculated multi-factor composite (AICTE Mandatory Disclosure)",
+    "fees": {
+      "tuition_fee_annual": 85000,
+      "other_fees_annual": 15000,
+      "approx_total_day_scholar": 100000,
+      "hostel_fee_annual": 60000,
+      "tuition_source": "TN Committee on Fixation of Fee in Self Financing Professional Colleges",
+      "tuition_source_url": "https://www.licet.ac.in",
+      "hostel_fee_source": "LICET Hostel Office",
+      "hostel_fee_source_url": "https://www.licet.ac.in",
+      "is_fee_verified": true
+    },
+    "hostel": {
+      "available": true,
+      "boys_hostel": true,
+      "girls_hostel": true,
+      "approx_capacity": "Information not available",
+      "wifi": true,
+      "study_area": true,
+      "laundry": "Information not available",
+      "security": "Campus security with CCTV",
+      "mess_type": "Information not available",
+      "food_details": "Hostel information not available from verified sources",
+      "source_type": "LICET Official Website",
+      "source_url": "https://www.licet.ac.in"
+    },
+    "placements": {
+      "placement_percentage": 88.0,
+      "highest_package_lpa": 18.0,
+      "average_package_lpa": 5.8,
+      "median_package_lpa": "Information not available",
+      "num_recruiters": 90,
+      "top_companies": [
+        "TCS",
+        "Cognizant",
+        "Infosys",
+        "Wipro",
+        "Zoho",
+        "Accenture"
+      ],
+      "placement_year": "2023-2024",
+      "source_type": "LICET Placement Cell Summary",
+      "source_url": "https://www.licet.ac.in"
+    },
+    "infrastructure": {
+      "campus_size_acres": "Information not available",
+      "library_volumes": "Information not available",
+      "labs_count": "Information not available",
+      "sports_facilities": [
+        "Information not available"
+      ],
+      "auditorium": true,
+      "cafeteria": true,
+      "source_type": "AICTE Mandatory Disclosure",
+      "source_url": "https://www.licet.ac.in"
+    },
+    "images": {
+      "hero": "https://images.unsplash.com/photo-1523240795612-9a054b0db644?auto=format&fit=crop&w=1200&q=80",
+      "campus": "https://images.unsplash.com/photo-1562774053-701939374585?auto=format&fit=crop&w=800&q=80",
+      "library": "https://images.unsplash.com/photo-1521587760476-6c12a4b040da?auto=format&fit=crop&w=800&q=80",
+      "lab": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=800&q=80"
+    },
+    "branches": [
+      {
+        "branch_name": "Computer Science and Engineering",
+        "branch_code": "CSE",
+        "cutoffs_2023": {
+          "OC": 188.5,
+          "BC": 185.5,
+          "BCM": 184.0,
+          "MBC": 181.5,
+          "SC": 164.0,
+          "SCA": 156.0,
+          "ST": 142.0
+        },
+        "cutoffs_2022": {
+          "OC": 186.5,
+          "BC": 183.5,
+          "BCM": 182.0,
+          "MBC": 179.0,
+          "SC": 160.0,
+          "SCA": 152.0,
+          "ST": 138.0
+        },
+        "total_seats": 60
+      },
+      {
+        "branch_name": "Electronics and Communication Engineering",
+        "branch_code": "ECE",
+        "cutoffs_2023": {
+          "OC": 184.0,
+          "BC": 180.5,
+          "BCM": 178.5,
+          "MBC": 176.0,
+          "SC": 157.0,
+          "SCA": 149.0,
+          "ST": 135.0
+        },
+        "cutoffs_2022": {
+          "OC": 182.0,
+          "BC": 178.5,
+          "BCM": 176.5,
+          "MBC": 173.5,
+          "SC": 153.0,
+          "SCA": 145.0,
+          "ST": 131.0
+        },
+        "total_seats": 60
+      },
+      {
+        "branch_name": "Mechanical Engineering",
+        "branch_code": "MECH",
+        "cutoffs_2023": {
+          "OC": 170.0,
+          "BC": 163.5,
+          "BCM": 160.0,
+          "MBC": 157.5,
+          "SC": 139.0,
+          "SCA": 131.0,
+          "ST": 118.0
+        },
+        "cutoffs_2022": {
+          "OC": 167.0,
+          "BC": 160.5,
+          "BCM": 157.0,
+          "MBC": 154.5,
+          "SC": 135.0,
+          "SCA": 127.0,
+          "ST": 114.0
+        },
+        "total_seats": 60
+      }
+    ]
+  },
+  {
+    "id": "rmk-engineering-1113",
+    "code": "1113",
+    "name": "R.M.K. Engineering College",
+    "short_name": "RMK Engineering College",
+    "type": "Autonomous (Self-Financing)",
+    "district": "Tiruvallur",
+    "location": "RSM Nagar, Kavaraipettai, Gummidipoondi, Tiruvallur - 601206",
+    "established_year": 1995,
+    "affiliation": "Anna University (Autonomous)",
+    "accreditation": "NAAC A+ Grade, NBA Accredited",
+    "nirf_rank": "Rank 101-150 Band (Engineering)",
+    "rating_breakdown": {
+      "overall": 4.2,
+      "placement": 4.3,
+      "infrastructure": 4.2,
+      "academics": 4.2,
+      "hostel": 4.0,
+      "campus_life": 4.0,
+      "value_for_money": 4.1
+    },
+    "rating_source": "Calculated multi-factor composite (NIRF 2024 & AICTE Mandatory Disclosure)",
+    "fees": {
+      "tuition_fee_annual": 87000,
+      "other_fees_annual": 17000,
+      "approx_total_day_scholar": 104000,
+      "hostel_fee_annual": 70000,
+      "tuition_source": "TN Committee on Fixation of Fee in Self Financing Professional Colleges",
+      "tuition_source_url": "https://www.rmkec.ac.in",
+      "hostel_fee_source": "RMK Hostel Administration",
+      "hostel_fee_source_url": "https://www.rmkec.ac.in",
+      "is_fee_verified": true
+    },
+    "hostel": {
+      "available": true,
+      "boys_hostel": true,
+      "girls_hostel": true,
+      "approx_capacity": "2,000+ students",
+      "wifi": true,
+      "study_area": true,
+      "laundry": "Information not available",
+      "security": "24/7 security with CCTV",
+      "mess_type": "Vegetarian & Non-Vegetarian",
+      "food_details": "Information not available",
+      "source_type": "RMK Official Website",
+      "source_url": "https://www.rmkec.ac.in"
+    },
+    "placements": {
+      "placement_percentage": 91.0,
+      "highest_package_lpa": 24.0,
+      "average_package_lpa": 6.2,
+      "median_package_lpa": "Information not available",
+      "num_recruiters": 180,
+      "top_companies": [
+        "TCS",
+        "Infosys",
+        "Cognizant",
+        "Wipro",
+        "Accenture",
+        "Zoho"
+      ],
+      "placement_year": "2023-2024",
+      "source_type": "RMK Placement Cell / NIRF India Engineering Ranking",
+      "source_url": "https://www.rmkec.ac.in"
+    },
+    "infrastructure": {
+      "campus_size_acres": "70+ Acres",
+      "library_volumes": "Information not available",
+      "labs_count": "Information not available",
+      "sports_facilities": [
+        "Indoor stadium",
+        "Outdoor grounds"
+      ],
+      "auditorium": true,
+      "cafeteria": true,
+      "source_type": "AICTE Mandatory Disclosure",
+      "source_url": "https://www.rmkec.ac.in"
+    },
+    "images": {
+      "hero": "https://images.unsplash.com/photo-1523240795612-9a054b0db644?auto=format&fit=crop&w=1200&q=80",
+      "campus": "https://images.unsplash.com/photo-1562774053-701939374585?auto=format&fit=crop&w=800&q=80",
+      "library": "https://images.unsplash.com/photo-1521587760476-6c12a4b040da?auto=format&fit=crop&w=800&q=80",
+      "lab": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=800&q=80"
+    },
+    "branches": [
+      {
+        "branch_name": "Computer Science and Engineering",
+        "branch_code": "CSE",
+        "cutoffs_2023": {
+          "OC": 191.5,
+          "BC": 189.0,
+          "BCM": 187.5,
+          "MBC": 185.5,
+          "SC": 170.0,
+          "SCA": 162.0,
+          "ST": 148.0
+        },
+        "cutoffs_2022": {
+          "OC": 189.5,
+          "BC": 187.0,
+          "BCM": 185.5,
+          "MBC": 183.5,
+          "SC": 166.0,
+          "SCA": 158.0,
+          "ST": 144.0
+        },
+        "total_seats": 180
+      },
+      {
+        "branch_name": "Information Technology",
+        "branch_code": "IT",
+        "cutoffs_2023": {
+          "OC": 189.0,
+          "BC": 186.5,
+          "BCM": 185.0,
+          "MBC": 183.0,
+          "SC": 166.0,
+          "SCA": 158.0,
+          "ST": 144.0
+        },
+        "cutoffs_2022": {
+          "OC": 187.0,
+          "BC": 184.5,
+          "BCM": 183.0,
+          "MBC": 180.5,
+          "SC": 162.0,
+          "SCA": 154.0,
+          "ST": 140.0
+        },
+        "total_seats": 120
+      },
+      {
+        "branch_name": "Electronics and Communication Engineering",
+        "branch_code": "ECE",
+        "cutoffs_2023": {
+          "OC": 187.0,
+          "BC": 184.0,
+          "BCM": 182.5,
+          "MBC": 180.0,
+          "SC": 163.0,
+          "SCA": 155.0,
+          "ST": 141.0
+        },
+        "cutoffs_2022": {
+          "OC": 185.0,
+          "BC": 182.0,
+          "BCM": 180.5,
+          "MBC": 177.5,
+          "SC": 159.0,
+          "SCA": 151.0,
+          "ST": 137.0
+        },
+        "total_seats": 180
+      }
+    ]
+  }
+]

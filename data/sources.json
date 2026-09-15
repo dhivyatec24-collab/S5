@@ -1,0 +1,43 @@
+{
+  "transparency_policy": {
+    "principles": [
+      "No fabricated cutoffs, fees, or placement statistics.",
+      "Every college record tracks official source type and reference URL.",
+      "Unverified attributes are explicitly rendered as 'Information not available' or 'Hostel information not available from verified sources'.",
+      "Model predictions are explicitly defined as historical likelihood estimations based on closing cutoffs."
+    ],
+    "disclaimer": "This platform provides academic guidance based on authentic public TNEA archives and college disclosures. It does not guarantee admission or represent the official TNEA Directorate."
+  },
+  "primary_sources": [
+    {
+      "name": "Directorate of Technical Education (DoTE) Tamil Nadu — TNEA",
+      "scope": "Official college codes, branch matrices, reservation category cutoffs (OC, BC, BCM, MBC, SC, SCA, ST), counselling guidelines.",
+      "url": "https://www.tneaonline.org",
+      "authority": "Government of Tamil Nadu"
+    },
+    {
+      "name": "Anna University, Chennai — Affiliation & Academic Structure",
+      "scope": "University Departments (CEG, MIT, ACT, SAP), constituent colleges, autonomous college status, official curriculum and fee schedules.",
+      "url": "https://www.annauniv.edu",
+      "authority": "State Technological University"
+    },
+    {
+      "name": "National Institutional Ranking Framework (NIRF) — Ministry of Education, Govt. of India",
+      "scope": "Verified student intake, median salary, placement percentages, faculty ratio, and infrastructural scale disclosures.",
+      "url": "https://www.nirfindia.org",
+      "authority": "Ministry of Education, Government of India"
+    },
+    {
+      "name": "Tamil Nadu Committee on Fixation of Fee in Self Financing Professional Colleges",
+      "scope": "Government-approved maximum tuition fee ceilings for accredited and non-accredited engineering programs.",
+      "url": "https://www.tn.gov.in",
+      "authority": "Statutory Fee Fixation Committee, TN"
+    },
+    {
+      "name": "AICTE Mandatory Disclosures",
+      "scope": "Campus acreage, laboratory inventory, library volumes, sports facilities, and hostel infrastructure.",
+      "url": "https://www.aicte-india.org",
+      "authority": "All India Council for Technical Education"
+    }
+  ]
+}

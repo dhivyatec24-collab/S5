@@ -1,0 +1,981 @@
+college_id,college_code,college_name,branch_name,branch_code,admission_year,community,closing_cutoff
+ceg-guindy-0001,0001,"College of Engineering, Guindy (CEG), Anna University",Computer Science and Engineering,CSE,2023,OC,199.5
+ceg-guindy-0001,0001,"College of Engineering, Guindy (CEG), Anna University",Computer Science and Engineering,CSE,2023,BC,199.0
+ceg-guindy-0001,0001,"College of Engineering, Guindy (CEG), Anna University",Computer Science and Engineering,CSE,2023,BCM,198.5
+ceg-guindy-0001,0001,"College of Engineering, Guindy (CEG), Anna University",Computer Science and Engineering,CSE,2023,MBC,198.0
+ceg-guindy-0001,0001,"College of Engineering, Guindy (CEG), Anna University",Computer Science and Engineering,CSE,2023,SC,193.5
+ceg-guindy-0001,0001,"College of Engineering, Guindy (CEG), Anna University",Computer Science and Engineering,CSE,2023,SCA,190.0
+ceg-guindy-0001,0001,"College of Engineering, Guindy (CEG), Anna University",Computer Science and Engineering,CSE,2023,ST,182.5
+ceg-guindy-0001,0001,"College of Engineering, Guindy (CEG), Anna University",Computer Science and Engineering,CSE,2022,OC,199.0
+ceg-guindy-0001,0001,"College of Engineering, Guindy (CEG), Anna University",Computer Science and Engineering,CSE,2022,BC,198.5
+ceg-guindy-0001,0001,"College of Engineering, Guindy (CEG), Anna University",Computer Science and Engineering,CSE,2022,BCM,198.0
+ceg-guindy-0001,0001,"College of Engineering, Guindy (CEG), Anna University",Computer Science and Engineering,CSE,2022,MBC,197.5
+ceg-guindy-0001,0001,"College of Engineering, Guindy (CEG), Anna University",Computer Science and Engineering,CSE,2022,SC,192.0
+ceg-guindy-0001,0001,"College of Engineering, Guindy (CEG), Anna University",Computer Science and Engineering,CSE,2022,SCA,188.5
+ceg-guindy-0001,0001,"College of Engineering, Guindy (CEG), Anna University",Computer Science and Engineering,CSE,2022,ST,180.0
+ceg-guindy-0001,0001,"College of Engineering, Guindy (CEG), Anna University",Information Technology,IT,2023,OC,198.5
+ceg-guindy-0001,0001,"College of Engineering, Guindy (CEG), Anna University",Information Technology,IT,2023,BC,198.0
+ceg-guindy-0001,0001,"College of Engineering, Guindy (CEG), Anna University",Information Technology,IT,2023,BCM,197.5
+ceg-guindy-0001,0001,"College of Engineering, Guindy (CEG), Anna University",Information Technology,IT,2023,MBC,197.0
+ceg-guindy-0001,0001,"College of Engineering, Guindy (CEG), Anna University",Information Technology,IT,2023,SC,191.0
+ceg-guindy-0001,0001,"College of Engineering, Guindy (CEG), Anna University",Information Technology,IT,2023,SCA,187.0
+ceg-guindy-0001,0001,"College of Engineering, Guindy (CEG), Anna University",Information Technology,IT,2023,ST,178.0
+ceg-guindy-0001,0001,"College of Engineering, Guindy (CEG), Anna University",Information Technology,IT,2022,OC,198.0
+ceg-guindy-0001,0001,"College of Engineering, Guindy (CEG), Anna University",Information Technology,IT,2022,BC,197.5
+ceg-guindy-0001,0001,"College of Engineering, Guindy (CEG), Anna University",Information Technology,IT,2022,BCM,197.0
+ceg-guindy-0001,0001,"College of Engineering, Guindy (CEG), Anna University",Information Technology,IT,2022,MBC,196.0
+ceg-guindy-0001,0001,"College of Engineering, Guindy (CEG), Anna University",Information Technology,IT,2022,SC,189.5
+ceg-guindy-0001,0001,"College of Engineering, Guindy (CEG), Anna University",Information Technology,IT,2022,SCA,185.0
+ceg-guindy-0001,0001,"College of Engineering, Guindy (CEG), Anna University",Information Technology,IT,2022,ST,175.0
+ceg-guindy-0001,0001,"College of Engineering, Guindy (CEG), Anna University",Electronics and Communication Engineering,ECE,2023,OC,198.5
+ceg-guindy-0001,0001,"College of Engineering, Guindy (CEG), Anna University",Electronics and Communication Engineering,ECE,2023,BC,198.0
+ceg-guindy-0001,0001,"College of Engineering, Guindy (CEG), Anna University",Electronics and Communication Engineering,ECE,2023,BCM,197.0
+ceg-guindy-0001,0001,"College of Engineering, Guindy (CEG), Anna University",Electronics and Communication Engineering,ECE,2023,MBC,196.5
+ceg-guindy-0001,0001,"College of Engineering, Guindy (CEG), Anna University",Electronics and Communication Engineering,ECE,2023,SC,190.5
+ceg-guindy-0001,0001,"College of Engineering, Guindy (CEG), Anna University",Electronics and Communication Engineering,ECE,2023,SCA,186.0
+ceg-guindy-0001,0001,"College of Engineering, Guindy (CEG), Anna University",Electronics and Communication Engineering,ECE,2023,ST,176.5
+ceg-guindy-0001,0001,"College of Engineering, Guindy (CEG), Anna University",Electronics and Communication Engineering,ECE,2022,OC,198.0
+ceg-guindy-0001,0001,"College of Engineering, Guindy (CEG), Anna University",Electronics and Communication Engineering,ECE,2022,BC,197.0
+ceg-guindy-0001,0001,"College of Engineering, Guindy (CEG), Anna University",Electronics and Communication Engineering,ECE,2022,BCM,196.5
+ceg-guindy-0001,0001,"College of Engineering, Guindy (CEG), Anna University",Electronics and Communication Engineering,ECE,2022,MBC,195.5
+ceg-guindy-0001,0001,"College of Engineering, Guindy (CEG), Anna University",Electronics and Communication Engineering,ECE,2022,SC,188.0
+ceg-guindy-0001,0001,"College of Engineering, Guindy (CEG), Anna University",Electronics and Communication Engineering,ECE,2022,SCA,184.0
+ceg-guindy-0001,0001,"College of Engineering, Guindy (CEG), Anna University",Electronics and Communication Engineering,ECE,2022,ST,173.0
+ceg-guindy-0001,0001,"College of Engineering, Guindy (CEG), Anna University",Electrical and Electronics Engineering,EEE,2023,OC,196.0
+ceg-guindy-0001,0001,"College of Engineering, Guindy (CEG), Anna University",Electrical and Electronics Engineering,EEE,2023,BC,195.0
+ceg-guindy-0001,0001,"College of Engineering, Guindy (CEG), Anna University",Electrical and Electronics Engineering,EEE,2023,BCM,194.0
+ceg-guindy-0001,0001,"College of Engineering, Guindy (CEG), Anna University",Electrical and Electronics Engineering,EEE,2023,MBC,193.0
+ceg-guindy-0001,0001,"College of Engineering, Guindy (CEG), Anna University",Electrical and Electronics Engineering,EEE,2023,SC,185.0
+ceg-guindy-0001,0001,"College of Engineering, Guindy (CEG), Anna University",Electrical and Electronics Engineering,EEE,2023,SCA,180.0
+ceg-guindy-0001,0001,"College of Engineering, Guindy (CEG), Anna University",Electrical and Electronics Engineering,EEE,2023,ST,170.0
+ceg-guindy-0001,0001,"College of Engineering, Guindy (CEG), Anna University",Electrical and Electronics Engineering,EEE,2022,OC,195.5
+ceg-guindy-0001,0001,"College of Engineering, Guindy (CEG), Anna University",Electrical and Electronics Engineering,EEE,2022,BC,194.5
+ceg-guindy-0001,0001,"College of Engineering, Guindy (CEG), Anna University",Electrical and Electronics Engineering,EEE,2022,BCM,193.5
+ceg-guindy-0001,0001,"College of Engineering, Guindy (CEG), Anna University",Electrical and Electronics Engineering,EEE,2022,MBC,192.0
+ceg-guindy-0001,0001,"College of Engineering, Guindy (CEG), Anna University",Electrical and Electronics Engineering,EEE,2022,SC,183.5
+ceg-guindy-0001,0001,"College of Engineering, Guindy (CEG), Anna University",Electrical and Electronics Engineering,EEE,2022,SCA,178.0
+ceg-guindy-0001,0001,"College of Engineering, Guindy (CEG), Anna University",Electrical and Electronics Engineering,EEE,2022,ST,167.0
+ceg-guindy-0001,0001,"College of Engineering, Guindy (CEG), Anna University",Mechanical Engineering,MECH,2023,OC,193.5
+ceg-guindy-0001,0001,"College of Engineering, Guindy (CEG), Anna University",Mechanical Engineering,MECH,2023,BC,191.5
+ceg-guindy-0001,0001,"College of Engineering, Guindy (CEG), Anna University",Mechanical Engineering,MECH,2023,BCM,190.0
+ceg-guindy-0001,0001,"College of Engineering, Guindy (CEG), Anna University",Mechanical Engineering,MECH,2023,MBC,189.0
+ceg-guindy-0001,0001,"College of Engineering, Guindy (CEG), Anna University",Mechanical Engineering,MECH,2023,SC,178.5
+ceg-guindy-0001,0001,"College of Engineering, Guindy (CEG), Anna University",Mechanical Engineering,MECH,2023,SCA,172.0
+ceg-guindy-0001,0001,"College of Engineering, Guindy (CEG), Anna University",Mechanical Engineering,MECH,2023,ST,162.0
+ceg-guindy-0001,0001,"College of Engineering, Guindy (CEG), Anna University",Mechanical Engineering,MECH,2022,OC,192.0
+ceg-guindy-0001,0001,"College of Engineering, Guindy (CEG), Anna University",Mechanical Engineering,MECH,2022,BC,190.0
+ceg-guindy-0001,0001,"College of Engineering, Guindy (CEG), Anna University",Mechanical Engineering,MECH,2022,BCM,188.5
+ceg-guindy-0001,0001,"College of Engineering, Guindy (CEG), Anna University",Mechanical Engineering,MECH,2022,MBC,187.0
+ceg-guindy-0001,0001,"College of Engineering, Guindy (CEG), Anna University",Mechanical Engineering,MECH,2022,SC,176.0
+ceg-guindy-0001,0001,"College of Engineering, Guindy (CEG), Anna University",Mechanical Engineering,MECH,2022,SCA,170.0
+ceg-guindy-0001,0001,"College of Engineering, Guindy (CEG), Anna University",Mechanical Engineering,MECH,2022,ST,158.0
+ceg-guindy-0001,0001,"College of Engineering, Guindy (CEG), Anna University",Civil Engineering,CIVIL,2023,OC,189.5
+ceg-guindy-0001,0001,"College of Engineering, Guindy (CEG), Anna University",Civil Engineering,CIVIL,2023,BC,186.5
+ceg-guindy-0001,0001,"College of Engineering, Guindy (CEG), Anna University",Civil Engineering,CIVIL,2023,BCM,184.0
+ceg-guindy-0001,0001,"College of Engineering, Guindy (CEG), Anna University",Civil Engineering,CIVIL,2023,MBC,183.0
+ceg-guindy-0001,0001,"College of Engineering, Guindy (CEG), Anna University",Civil Engineering,CIVIL,2023,SC,170.0
+ceg-guindy-0001,0001,"College of Engineering, Guindy (CEG), Anna University",Civil Engineering,CIVIL,2023,SCA,163.0
+ceg-guindy-0001,0001,"College of Engineering, Guindy (CEG), Anna University",Civil Engineering,CIVIL,2023,ST,152.0
+ceg-guindy-0001,0001,"College of Engineering, Guindy (CEG), Anna University",Civil Engineering,CIVIL,2022,OC,188.0
+ceg-guindy-0001,0001,"College of Engineering, Guindy (CEG), Anna University",Civil Engineering,CIVIL,2022,BC,185.0
+ceg-guindy-0001,0001,"College of Engineering, Guindy (CEG), Anna University",Civil Engineering,CIVIL,2022,BCM,182.5
+ceg-guindy-0001,0001,"College of Engineering, Guindy (CEG), Anna University",Civil Engineering,CIVIL,2022,MBC,181.0
+ceg-guindy-0001,0001,"College of Engineering, Guindy (CEG), Anna University",Civil Engineering,CIVIL,2022,SC,167.0
+ceg-guindy-0001,0001,"College of Engineering, Guindy (CEG), Anna University",Civil Engineering,CIVIL,2022,SCA,160.0
+ceg-guindy-0001,0001,"College of Engineering, Guindy (CEG), Anna University",Civil Engineering,CIVIL,2022,ST,148.0
+mit-chromepet-0004,0004,"Madras Institute of Technology (MIT), Anna University",Computer Science and Engineering,CSE,2023,OC,199.0
+mit-chromepet-0004,0004,"Madras Institute of Technology (MIT), Anna University",Computer Science and Engineering,CSE,2023,BC,198.5
+mit-chromepet-0004,0004,"Madras Institute of Technology (MIT), Anna University",Computer Science and Engineering,CSE,2023,BCM,198.0
+mit-chromepet-0004,0004,"Madras Institute of Technology (MIT), Anna University",Computer Science and Engineering,CSE,2023,MBC,197.5
+mit-chromepet-0004,0004,"Madras Institute of Technology (MIT), Anna University",Computer Science and Engineering,CSE,2023,SC,192.0
+mit-chromepet-0004,0004,"Madras Institute of Technology (MIT), Anna University",Computer Science and Engineering,CSE,2023,SCA,188.0
+mit-chromepet-0004,0004,"Madras Institute of Technology (MIT), Anna University",Computer Science and Engineering,CSE,2023,ST,180.0
+mit-chromepet-0004,0004,"Madras Institute of Technology (MIT), Anna University",Computer Science and Engineering,CSE,2022,OC,198.5
+mit-chromepet-0004,0004,"Madras Institute of Technology (MIT), Anna University",Computer Science and Engineering,CSE,2022,BC,198.0
+mit-chromepet-0004,0004,"Madras Institute of Technology (MIT), Anna University",Computer Science and Engineering,CSE,2022,BCM,197.0
+mit-chromepet-0004,0004,"Madras Institute of Technology (MIT), Anna University",Computer Science and Engineering,CSE,2022,MBC,196.5
+mit-chromepet-0004,0004,"Madras Institute of Technology (MIT), Anna University",Computer Science and Engineering,CSE,2022,SC,190.0
+mit-chromepet-0004,0004,"Madras Institute of Technology (MIT), Anna University",Computer Science and Engineering,CSE,2022,SCA,186.0
+mit-chromepet-0004,0004,"Madras Institute of Technology (MIT), Anna University",Computer Science and Engineering,CSE,2022,ST,177.0
+mit-chromepet-0004,0004,"Madras Institute of Technology (MIT), Anna University",Information Technology,IT,2023,OC,198.0
+mit-chromepet-0004,0004,"Madras Institute of Technology (MIT), Anna University",Information Technology,IT,2023,BC,197.5
+mit-chromepet-0004,0004,"Madras Institute of Technology (MIT), Anna University",Information Technology,IT,2023,BCM,197.0
+mit-chromepet-0004,0004,"Madras Institute of Technology (MIT), Anna University",Information Technology,IT,2023,MBC,196.0
+mit-chromepet-0004,0004,"Madras Institute of Technology (MIT), Anna University",Information Technology,IT,2023,SC,190.0
+mit-chromepet-0004,0004,"Madras Institute of Technology (MIT), Anna University",Information Technology,IT,2023,SCA,185.0
+mit-chromepet-0004,0004,"Madras Institute of Technology (MIT), Anna University",Information Technology,IT,2023,ST,175.0
+mit-chromepet-0004,0004,"Madras Institute of Technology (MIT), Anna University",Information Technology,IT,2022,OC,197.5
+mit-chromepet-0004,0004,"Madras Institute of Technology (MIT), Anna University",Information Technology,IT,2022,BC,197.0
+mit-chromepet-0004,0004,"Madras Institute of Technology (MIT), Anna University",Information Technology,IT,2022,BCM,196.0
+mit-chromepet-0004,0004,"Madras Institute of Technology (MIT), Anna University",Information Technology,IT,2022,MBC,195.0
+mit-chromepet-0004,0004,"Madras Institute of Technology (MIT), Anna University",Information Technology,IT,2022,SC,188.0
+mit-chromepet-0004,0004,"Madras Institute of Technology (MIT), Anna University",Information Technology,IT,2022,SCA,183.0
+mit-chromepet-0004,0004,"Madras Institute of Technology (MIT), Anna University",Information Technology,IT,2022,ST,172.0
+mit-chromepet-0004,0004,"Madras Institute of Technology (MIT), Anna University",Electronics and Communication Engineering,ECE,2023,OC,198.0
+mit-chromepet-0004,0004,"Madras Institute of Technology (MIT), Anna University",Electronics and Communication Engineering,ECE,2023,BC,197.5
+mit-chromepet-0004,0004,"Madras Institute of Technology (MIT), Anna University",Electronics and Communication Engineering,ECE,2023,BCM,196.5
+mit-chromepet-0004,0004,"Madras Institute of Technology (MIT), Anna University",Electronics and Communication Engineering,ECE,2023,MBC,195.5
+mit-chromepet-0004,0004,"Madras Institute of Technology (MIT), Anna University",Electronics and Communication Engineering,ECE,2023,SC,189.5
+mit-chromepet-0004,0004,"Madras Institute of Technology (MIT), Anna University",Electronics and Communication Engineering,ECE,2023,SCA,184.0
+mit-chromepet-0004,0004,"Madras Institute of Technology (MIT), Anna University",Electronics and Communication Engineering,ECE,2023,ST,174.0
+mit-chromepet-0004,0004,"Madras Institute of Technology (MIT), Anna University",Electronics and Communication Engineering,ECE,2022,OC,197.0
+mit-chromepet-0004,0004,"Madras Institute of Technology (MIT), Anna University",Electronics and Communication Engineering,ECE,2022,BC,196.5
+mit-chromepet-0004,0004,"Madras Institute of Technology (MIT), Anna University",Electronics and Communication Engineering,ECE,2022,BCM,195.5
+mit-chromepet-0004,0004,"Madras Institute of Technology (MIT), Anna University",Electronics and Communication Engineering,ECE,2022,MBC,194.5
+mit-chromepet-0004,0004,"Madras Institute of Technology (MIT), Anna University",Electronics and Communication Engineering,ECE,2022,SC,187.5
+mit-chromepet-0004,0004,"Madras Institute of Technology (MIT), Anna University",Electronics and Communication Engineering,ECE,2022,SCA,182.0
+mit-chromepet-0004,0004,"Madras Institute of Technology (MIT), Anna University",Electronics and Communication Engineering,ECE,2022,ST,170.0
+mit-chromepet-0004,0004,"Madras Institute of Technology (MIT), Anna University",Robotics and Automation,ROBOTICS,2023,OC,196.0
+mit-chromepet-0004,0004,"Madras Institute of Technology (MIT), Anna University",Robotics and Automation,ROBOTICS,2023,BC,194.5
+mit-chromepet-0004,0004,"Madras Institute of Technology (MIT), Anna University",Robotics and Automation,ROBOTICS,2023,BCM,193.0
+mit-chromepet-0004,0004,"Madras Institute of Technology (MIT), Anna University",Robotics and Automation,ROBOTICS,2023,MBC,192.0
+mit-chromepet-0004,0004,"Madras Institute of Technology (MIT), Anna University",Robotics and Automation,ROBOTICS,2023,SC,183.0
+mit-chromepet-0004,0004,"Madras Institute of Technology (MIT), Anna University",Robotics and Automation,ROBOTICS,2023,SCA,177.0
+mit-chromepet-0004,0004,"Madras Institute of Technology (MIT), Anna University",Robotics and Automation,ROBOTICS,2023,ST,166.0
+mit-chromepet-0004,0004,"Madras Institute of Technology (MIT), Anna University",Robotics and Automation,ROBOTICS,2022,OC,195.0
+mit-chromepet-0004,0004,"Madras Institute of Technology (MIT), Anna University",Robotics and Automation,ROBOTICS,2022,BC,193.5
+mit-chromepet-0004,0004,"Madras Institute of Technology (MIT), Anna University",Robotics and Automation,ROBOTICS,2022,BCM,192.0
+mit-chromepet-0004,0004,"Madras Institute of Technology (MIT), Anna University",Robotics and Automation,ROBOTICS,2022,MBC,190.5
+mit-chromepet-0004,0004,"Madras Institute of Technology (MIT), Anna University",Robotics and Automation,ROBOTICS,2022,SC,181.0
+mit-chromepet-0004,0004,"Madras Institute of Technology (MIT), Anna University",Robotics and Automation,ROBOTICS,2022,SCA,175.0
+mit-chromepet-0004,0004,"Madras Institute of Technology (MIT), Anna University",Robotics and Automation,ROBOTICS,2022,ST,163.0
+psg-tech-coimbatore-2006,2006,"PSG College of Technology, Peelamedu, Coimbatore",Computer Science and Engineering,CSE,2023,OC,199.0
+psg-tech-coimbatore-2006,2006,"PSG College of Technology, Peelamedu, Coimbatore",Computer Science and Engineering,CSE,2023,BC,198.5
+psg-tech-coimbatore-2006,2006,"PSG College of Technology, Peelamedu, Coimbatore",Computer Science and Engineering,CSE,2023,BCM,198.0
+psg-tech-coimbatore-2006,2006,"PSG College of Technology, Peelamedu, Coimbatore",Computer Science and Engineering,CSE,2023,MBC,197.5
+psg-tech-coimbatore-2006,2006,"PSG College of Technology, Peelamedu, Coimbatore",Computer Science and Engineering,CSE,2023,SC,192.5
+psg-tech-coimbatore-2006,2006,"PSG College of Technology, Peelamedu, Coimbatore",Computer Science and Engineering,CSE,2023,SCA,189.0
+psg-tech-coimbatore-2006,2006,"PSG College of Technology, Peelamedu, Coimbatore",Computer Science and Engineering,CSE,2023,ST,181.0
+psg-tech-coimbatore-2006,2006,"PSG College of Technology, Peelamedu, Coimbatore",Computer Science and Engineering,CSE,2022,OC,198.5
+psg-tech-coimbatore-2006,2006,"PSG College of Technology, Peelamedu, Coimbatore",Computer Science and Engineering,CSE,2022,BC,198.0
+psg-tech-coimbatore-2006,2006,"PSG College of Technology, Peelamedu, Coimbatore",Computer Science and Engineering,CSE,2022,BCM,197.5
+psg-tech-coimbatore-2006,2006,"PSG College of Technology, Peelamedu, Coimbatore",Computer Science and Engineering,CSE,2022,MBC,196.5
+psg-tech-coimbatore-2006,2006,"PSG College of Technology, Peelamedu, Coimbatore",Computer Science and Engineering,CSE,2022,SC,190.5
+psg-tech-coimbatore-2006,2006,"PSG College of Technology, Peelamedu, Coimbatore",Computer Science and Engineering,CSE,2022,SCA,187.0
+psg-tech-coimbatore-2006,2006,"PSG College of Technology, Peelamedu, Coimbatore",Computer Science and Engineering,CSE,2022,ST,178.5
+psg-tech-coimbatore-2006,2006,"PSG College of Technology, Peelamedu, Coimbatore",Information Technology,IT,2023,OC,198.0
+psg-tech-coimbatore-2006,2006,"PSG College of Technology, Peelamedu, Coimbatore",Information Technology,IT,2023,BC,197.5
+psg-tech-coimbatore-2006,2006,"PSG College of Technology, Peelamedu, Coimbatore",Information Technology,IT,2023,BCM,197.0
+psg-tech-coimbatore-2006,2006,"PSG College of Technology, Peelamedu, Coimbatore",Information Technology,IT,2023,MBC,196.0
+psg-tech-coimbatore-2006,2006,"PSG College of Technology, Peelamedu, Coimbatore",Information Technology,IT,2023,SC,190.0
+psg-tech-coimbatore-2006,2006,"PSG College of Technology, Peelamedu, Coimbatore",Information Technology,IT,2023,SCA,185.0
+psg-tech-coimbatore-2006,2006,"PSG College of Technology, Peelamedu, Coimbatore",Information Technology,IT,2023,ST,176.0
+psg-tech-coimbatore-2006,2006,"PSG College of Technology, Peelamedu, Coimbatore",Information Technology,IT,2022,OC,197.5
+psg-tech-coimbatore-2006,2006,"PSG College of Technology, Peelamedu, Coimbatore",Information Technology,IT,2022,BC,197.0
+psg-tech-coimbatore-2006,2006,"PSG College of Technology, Peelamedu, Coimbatore",Information Technology,IT,2022,BCM,196.0
+psg-tech-coimbatore-2006,2006,"PSG College of Technology, Peelamedu, Coimbatore",Information Technology,IT,2022,MBC,195.0
+psg-tech-coimbatore-2006,2006,"PSG College of Technology, Peelamedu, Coimbatore",Information Technology,IT,2022,SC,188.0
+psg-tech-coimbatore-2006,2006,"PSG College of Technology, Peelamedu, Coimbatore",Information Technology,IT,2022,SCA,183.0
+psg-tech-coimbatore-2006,2006,"PSG College of Technology, Peelamedu, Coimbatore",Information Technology,IT,2022,ST,173.0
+psg-tech-coimbatore-2006,2006,"PSG College of Technology, Peelamedu, Coimbatore",Artificial Intelligence and Data Science,AIDS,2023,OC,198.25
+psg-tech-coimbatore-2006,2006,"PSG College of Technology, Peelamedu, Coimbatore",Artificial Intelligence and Data Science,AIDS,2023,BC,197.75
+psg-tech-coimbatore-2006,2006,"PSG College of Technology, Peelamedu, Coimbatore",Artificial Intelligence and Data Science,AIDS,2023,BCM,197.0
+psg-tech-coimbatore-2006,2006,"PSG College of Technology, Peelamedu, Coimbatore",Artificial Intelligence and Data Science,AIDS,2023,MBC,196.5
+psg-tech-coimbatore-2006,2006,"PSG College of Technology, Peelamedu, Coimbatore",Artificial Intelligence and Data Science,AIDS,2023,SC,191.0
+psg-tech-coimbatore-2006,2006,"PSG College of Technology, Peelamedu, Coimbatore",Artificial Intelligence and Data Science,AIDS,2023,SCA,186.5
+psg-tech-coimbatore-2006,2006,"PSG College of Technology, Peelamedu, Coimbatore",Artificial Intelligence and Data Science,AIDS,2023,ST,177.0
+psg-tech-coimbatore-2006,2006,"PSG College of Technology, Peelamedu, Coimbatore",Artificial Intelligence and Data Science,AIDS,2022,OC,197.5
+psg-tech-coimbatore-2006,2006,"PSG College of Technology, Peelamedu, Coimbatore",Artificial Intelligence and Data Science,AIDS,2022,BC,197.0
+psg-tech-coimbatore-2006,2006,"PSG College of Technology, Peelamedu, Coimbatore",Artificial Intelligence and Data Science,AIDS,2022,BCM,196.5
+psg-tech-coimbatore-2006,2006,"PSG College of Technology, Peelamedu, Coimbatore",Artificial Intelligence and Data Science,AIDS,2022,MBC,195.5
+psg-tech-coimbatore-2006,2006,"PSG College of Technology, Peelamedu, Coimbatore",Artificial Intelligence and Data Science,AIDS,2022,SC,189.0
+psg-tech-coimbatore-2006,2006,"PSG College of Technology, Peelamedu, Coimbatore",Artificial Intelligence and Data Science,AIDS,2022,SCA,184.5
+psg-tech-coimbatore-2006,2006,"PSG College of Technology, Peelamedu, Coimbatore",Artificial Intelligence and Data Science,AIDS,2022,ST,174.0
+psg-tech-coimbatore-2006,2006,"PSG College of Technology, Peelamedu, Coimbatore",Electronics and Communication Engineering,ECE,2023,OC,197.5
+psg-tech-coimbatore-2006,2006,"PSG College of Technology, Peelamedu, Coimbatore",Electronics and Communication Engineering,ECE,2023,BC,197.0
+psg-tech-coimbatore-2006,2006,"PSG College of Technology, Peelamedu, Coimbatore",Electronics and Communication Engineering,ECE,2023,BCM,196.0
+psg-tech-coimbatore-2006,2006,"PSG College of Technology, Peelamedu, Coimbatore",Electronics and Communication Engineering,ECE,2023,MBC,195.0
+psg-tech-coimbatore-2006,2006,"PSG College of Technology, Peelamedu, Coimbatore",Electronics and Communication Engineering,ECE,2023,SC,189.0
+psg-tech-coimbatore-2006,2006,"PSG College of Technology, Peelamedu, Coimbatore",Electronics and Communication Engineering,ECE,2023,SCA,184.0
+psg-tech-coimbatore-2006,2006,"PSG College of Technology, Peelamedu, Coimbatore",Electronics and Communication Engineering,ECE,2023,ST,174.0
+psg-tech-coimbatore-2006,2006,"PSG College of Technology, Peelamedu, Coimbatore",Electronics and Communication Engineering,ECE,2022,OC,197.0
+psg-tech-coimbatore-2006,2006,"PSG College of Technology, Peelamedu, Coimbatore",Electronics and Communication Engineering,ECE,2022,BC,196.0
+psg-tech-coimbatore-2006,2006,"PSG College of Technology, Peelamedu, Coimbatore",Electronics and Communication Engineering,ECE,2022,BCM,195.0
+psg-tech-coimbatore-2006,2006,"PSG College of Technology, Peelamedu, Coimbatore",Electronics and Communication Engineering,ECE,2022,MBC,194.0
+psg-tech-coimbatore-2006,2006,"PSG College of Technology, Peelamedu, Coimbatore",Electronics and Communication Engineering,ECE,2022,SC,187.0
+psg-tech-coimbatore-2006,2006,"PSG College of Technology, Peelamedu, Coimbatore",Electronics and Communication Engineering,ECE,2022,SCA,181.5
+psg-tech-coimbatore-2006,2006,"PSG College of Technology, Peelamedu, Coimbatore",Electronics and Communication Engineering,ECE,2022,ST,171.0
+psg-tech-coimbatore-2006,2006,"PSG College of Technology, Peelamedu, Coimbatore",Mechanical Engineering,MECH,2023,OC,192.5
+psg-tech-coimbatore-2006,2006,"PSG College of Technology, Peelamedu, Coimbatore",Mechanical Engineering,MECH,2023,BC,190.5
+psg-tech-coimbatore-2006,2006,"PSG College of Technology, Peelamedu, Coimbatore",Mechanical Engineering,MECH,2023,BCM,189.0
+psg-tech-coimbatore-2006,2006,"PSG College of Technology, Peelamedu, Coimbatore",Mechanical Engineering,MECH,2023,MBC,187.5
+psg-tech-coimbatore-2006,2006,"PSG College of Technology, Peelamedu, Coimbatore",Mechanical Engineering,MECH,2023,SC,177.0
+psg-tech-coimbatore-2006,2006,"PSG College of Technology, Peelamedu, Coimbatore",Mechanical Engineering,MECH,2023,SCA,170.0
+psg-tech-coimbatore-2006,2006,"PSG College of Technology, Peelamedu, Coimbatore",Mechanical Engineering,MECH,2023,ST,158.0
+psg-tech-coimbatore-2006,2006,"PSG College of Technology, Peelamedu, Coimbatore",Mechanical Engineering,MECH,2022,OC,191.0
+psg-tech-coimbatore-2006,2006,"PSG College of Technology, Peelamedu, Coimbatore",Mechanical Engineering,MECH,2022,BC,189.0
+psg-tech-coimbatore-2006,2006,"PSG College of Technology, Peelamedu, Coimbatore",Mechanical Engineering,MECH,2022,BCM,187.5
+psg-tech-coimbatore-2006,2006,"PSG College of Technology, Peelamedu, Coimbatore",Mechanical Engineering,MECH,2022,MBC,185.5
+psg-tech-coimbatore-2006,2006,"PSG College of Technology, Peelamedu, Coimbatore",Mechanical Engineering,MECH,2022,SC,174.0
+psg-tech-coimbatore-2006,2006,"PSG College of Technology, Peelamedu, Coimbatore",Mechanical Engineering,MECH,2022,SCA,167.0
+psg-tech-coimbatore-2006,2006,"PSG College of Technology, Peelamedu, Coimbatore",Mechanical Engineering,MECH,2022,ST,154.0
+ssn-chennai-1315,1315,"SSN College of Engineering, Kalavakkam, Chennai",Computer Science and Engineering,CSE,2023,OC,198.5
+ssn-chennai-1315,1315,"SSN College of Engineering, Kalavakkam, Chennai",Computer Science and Engineering,CSE,2023,BC,198.0
+ssn-chennai-1315,1315,"SSN College of Engineering, Kalavakkam, Chennai",Computer Science and Engineering,CSE,2023,BCM,197.0
+ssn-chennai-1315,1315,"SSN College of Engineering, Kalavakkam, Chennai",Computer Science and Engineering,CSE,2023,MBC,196.0
+ssn-chennai-1315,1315,"SSN College of Engineering, Kalavakkam, Chennai",Computer Science and Engineering,CSE,2023,SC,188.0
+ssn-chennai-1315,1315,"SSN College of Engineering, Kalavakkam, Chennai",Computer Science and Engineering,CSE,2023,SCA,183.0
+ssn-chennai-1315,1315,"SSN College of Engineering, Kalavakkam, Chennai",Computer Science and Engineering,CSE,2023,ST,172.0
+ssn-chennai-1315,1315,"SSN College of Engineering, Kalavakkam, Chennai",Computer Science and Engineering,CSE,2022,OC,198.0
+ssn-chennai-1315,1315,"SSN College of Engineering, Kalavakkam, Chennai",Computer Science and Engineering,CSE,2022,BC,197.5
+ssn-chennai-1315,1315,"SSN College of Engineering, Kalavakkam, Chennai",Computer Science and Engineering,CSE,2022,BCM,196.5
+ssn-chennai-1315,1315,"SSN College of Engineering, Kalavakkam, Chennai",Computer Science and Engineering,CSE,2022,MBC,195.0
+ssn-chennai-1315,1315,"SSN College of Engineering, Kalavakkam, Chennai",Computer Science and Engineering,CSE,2022,SC,186.0
+ssn-chennai-1315,1315,"SSN College of Engineering, Kalavakkam, Chennai",Computer Science and Engineering,CSE,2022,SCA,180.5
+ssn-chennai-1315,1315,"SSN College of Engineering, Kalavakkam, Chennai",Computer Science and Engineering,CSE,2022,ST,169.0
+ssn-chennai-1315,1315,"SSN College of Engineering, Kalavakkam, Chennai",Information Technology,IT,2023,OC,197.5
+ssn-chennai-1315,1315,"SSN College of Engineering, Kalavakkam, Chennai",Information Technology,IT,2023,BC,197.0
+ssn-chennai-1315,1315,"SSN College of Engineering, Kalavakkam, Chennai",Information Technology,IT,2023,BCM,196.0
+ssn-chennai-1315,1315,"SSN College of Engineering, Kalavakkam, Chennai",Information Technology,IT,2023,MBC,195.0
+ssn-chennai-1315,1315,"SSN College of Engineering, Kalavakkam, Chennai",Information Technology,IT,2023,SC,185.0
+ssn-chennai-1315,1315,"SSN College of Engineering, Kalavakkam, Chennai",Information Technology,IT,2023,SCA,180.0
+ssn-chennai-1315,1315,"SSN College of Engineering, Kalavakkam, Chennai",Information Technology,IT,2023,ST,168.0
+ssn-chennai-1315,1315,"SSN College of Engineering, Kalavakkam, Chennai",Information Technology,IT,2022,OC,197.0
+ssn-chennai-1315,1315,"SSN College of Engineering, Kalavakkam, Chennai",Information Technology,IT,2022,BC,196.5
+ssn-chennai-1315,1315,"SSN College of Engineering, Kalavakkam, Chennai",Information Technology,IT,2022,BCM,195.0
+ssn-chennai-1315,1315,"SSN College of Engineering, Kalavakkam, Chennai",Information Technology,IT,2022,MBC,193.5
+ssn-chennai-1315,1315,"SSN College of Engineering, Kalavakkam, Chennai",Information Technology,IT,2022,SC,183.0
+ssn-chennai-1315,1315,"SSN College of Engineering, Kalavakkam, Chennai",Information Technology,IT,2022,SCA,177.0
+ssn-chennai-1315,1315,"SSN College of Engineering, Kalavakkam, Chennai",Information Technology,IT,2022,ST,165.0
+ssn-chennai-1315,1315,"SSN College of Engineering, Kalavakkam, Chennai",Electronics and Communication Engineering,ECE,2023,OC,197.0
+ssn-chennai-1315,1315,"SSN College of Engineering, Kalavakkam, Chennai",Electronics and Communication Engineering,ECE,2023,BC,196.0
+ssn-chennai-1315,1315,"SSN College of Engineering, Kalavakkam, Chennai",Electronics and Communication Engineering,ECE,2023,BCM,195.0
+ssn-chennai-1315,1315,"SSN College of Engineering, Kalavakkam, Chennai",Electronics and Communication Engineering,ECE,2023,MBC,194.0
+ssn-chennai-1315,1315,"SSN College of Engineering, Kalavakkam, Chennai",Electronics and Communication Engineering,ECE,2023,SC,184.0
+ssn-chennai-1315,1315,"SSN College of Engineering, Kalavakkam, Chennai",Electronics and Communication Engineering,ECE,2023,SCA,178.0
+ssn-chennai-1315,1315,"SSN College of Engineering, Kalavakkam, Chennai",Electronics and Communication Engineering,ECE,2023,ST,166.0
+ssn-chennai-1315,1315,"SSN College of Engineering, Kalavakkam, Chennai",Electronics and Communication Engineering,ECE,2022,OC,196.5
+ssn-chennai-1315,1315,"SSN College of Engineering, Kalavakkam, Chennai",Electronics and Communication Engineering,ECE,2022,BC,195.5
+ssn-chennai-1315,1315,"SSN College of Engineering, Kalavakkam, Chennai",Electronics and Communication Engineering,ECE,2022,BCM,194.0
+ssn-chennai-1315,1315,"SSN College of Engineering, Kalavakkam, Chennai",Electronics and Communication Engineering,ECE,2022,MBC,192.5
+ssn-chennai-1315,1315,"SSN College of Engineering, Kalavakkam, Chennai",Electronics and Communication Engineering,ECE,2022,SC,181.5
+ssn-chennai-1315,1315,"SSN College of Engineering, Kalavakkam, Chennai",Electronics and Communication Engineering,ECE,2022,SCA,175.0
+ssn-chennai-1315,1315,"SSN College of Engineering, Kalavakkam, Chennai",Electronics and Communication Engineering,ECE,2022,ST,162.0
+ssn-chennai-1315,1315,"SSN College of Engineering, Kalavakkam, Chennai",Biomedical Engineering,BME,2023,OC,193.0
+ssn-chennai-1315,1315,"SSN College of Engineering, Kalavakkam, Chennai",Biomedical Engineering,BME,2023,BC,190.5
+ssn-chennai-1315,1315,"SSN College of Engineering, Kalavakkam, Chennai",Biomedical Engineering,BME,2023,BCM,189.0
+ssn-chennai-1315,1315,"SSN College of Engineering, Kalavakkam, Chennai",Biomedical Engineering,BME,2023,MBC,187.0
+ssn-chennai-1315,1315,"SSN College of Engineering, Kalavakkam, Chennai",Biomedical Engineering,BME,2023,SC,175.0
+ssn-chennai-1315,1315,"SSN College of Engineering, Kalavakkam, Chennai",Biomedical Engineering,BME,2023,SCA,168.0
+ssn-chennai-1315,1315,"SSN College of Engineering, Kalavakkam, Chennai",Biomedical Engineering,BME,2023,ST,155.0
+ssn-chennai-1315,1315,"SSN College of Engineering, Kalavakkam, Chennai",Biomedical Engineering,BME,2022,OC,192.0
+ssn-chennai-1315,1315,"SSN College of Engineering, Kalavakkam, Chennai",Biomedical Engineering,BME,2022,BC,189.0
+ssn-chennai-1315,1315,"SSN College of Engineering, Kalavakkam, Chennai",Biomedical Engineering,BME,2022,BCM,187.0
+ssn-chennai-1315,1315,"SSN College of Engineering, Kalavakkam, Chennai",Biomedical Engineering,BME,2022,MBC,185.0
+ssn-chennai-1315,1315,"SSN College of Engineering, Kalavakkam, Chennai",Biomedical Engineering,BME,2022,SC,172.0
+ssn-chennai-1315,1315,"SSN College of Engineering, Kalavakkam, Chennai",Biomedical Engineering,BME,2022,SCA,165.0
+ssn-chennai-1315,1315,"SSN College of Engineering, Kalavakkam, Chennai",Biomedical Engineering,BME,2022,ST,150.0
+ssn-chennai-1315,1315,"SSN College of Engineering, Kalavakkam, Chennai",Mechanical Engineering,MECH,2023,OC,190.0
+ssn-chennai-1315,1315,"SSN College of Engineering, Kalavakkam, Chennai",Mechanical Engineering,MECH,2023,BC,187.0
+ssn-chennai-1315,1315,"SSN College of Engineering, Kalavakkam, Chennai",Mechanical Engineering,MECH,2023,BCM,185.0
+ssn-chennai-1315,1315,"SSN College of Engineering, Kalavakkam, Chennai",Mechanical Engineering,MECH,2023,MBC,183.0
+ssn-chennai-1315,1315,"SSN College of Engineering, Kalavakkam, Chennai",Mechanical Engineering,MECH,2023,SC,169.0
+ssn-chennai-1315,1315,"SSN College of Engineering, Kalavakkam, Chennai",Mechanical Engineering,MECH,2023,SCA,161.0
+ssn-chennai-1315,1315,"SSN College of Engineering, Kalavakkam, Chennai",Mechanical Engineering,MECH,2023,ST,149.0
+ssn-chennai-1315,1315,"SSN College of Engineering, Kalavakkam, Chennai",Mechanical Engineering,MECH,2022,OC,188.5
+ssn-chennai-1315,1315,"SSN College of Engineering, Kalavakkam, Chennai",Mechanical Engineering,MECH,2022,BC,185.5
+ssn-chennai-1315,1315,"SSN College of Engineering, Kalavakkam, Chennai",Mechanical Engineering,MECH,2022,BCM,183.0
+ssn-chennai-1315,1315,"SSN College of Engineering, Kalavakkam, Chennai",Mechanical Engineering,MECH,2022,MBC,181.0
+ssn-chennai-1315,1315,"SSN College of Engineering, Kalavakkam, Chennai",Mechanical Engineering,MECH,2022,SC,166.0
+ssn-chennai-1315,1315,"SSN College of Engineering, Kalavakkam, Chennai",Mechanical Engineering,MECH,2022,SCA,158.0
+ssn-chennai-1315,1315,"SSN College of Engineering, Kalavakkam, Chennai",Mechanical Engineering,MECH,2022,ST,145.0
+cit-coimbatore-2007,2007,"Coimbatore Institute of Technology (CIT), Coimbatore",Computer Science and Engineering,CSE,2023,OC,198.0
+cit-coimbatore-2007,2007,"Coimbatore Institute of Technology (CIT), Coimbatore",Computer Science and Engineering,CSE,2023,BC,197.5
+cit-coimbatore-2007,2007,"Coimbatore Institute of Technology (CIT), Coimbatore",Computer Science and Engineering,CSE,2023,BCM,196.5
+cit-coimbatore-2007,2007,"Coimbatore Institute of Technology (CIT), Coimbatore",Computer Science and Engineering,CSE,2023,MBC,195.5
+cit-coimbatore-2007,2007,"Coimbatore Institute of Technology (CIT), Coimbatore",Computer Science and Engineering,CSE,2023,SC,189.0
+cit-coimbatore-2007,2007,"Coimbatore Institute of Technology (CIT), Coimbatore",Computer Science and Engineering,CSE,2023,SCA,184.0
+cit-coimbatore-2007,2007,"Coimbatore Institute of Technology (CIT), Coimbatore",Computer Science and Engineering,CSE,2023,ST,173.0
+cit-coimbatore-2007,2007,"Coimbatore Institute of Technology (CIT), Coimbatore",Computer Science and Engineering,CSE,2022,OC,197.5
+cit-coimbatore-2007,2007,"Coimbatore Institute of Technology (CIT), Coimbatore",Computer Science and Engineering,CSE,2022,BC,197.0
+cit-coimbatore-2007,2007,"Coimbatore Institute of Technology (CIT), Coimbatore",Computer Science and Engineering,CSE,2022,BCM,196.0
+cit-coimbatore-2007,2007,"Coimbatore Institute of Technology (CIT), Coimbatore",Computer Science and Engineering,CSE,2022,MBC,194.5
+cit-coimbatore-2007,2007,"Coimbatore Institute of Technology (CIT), Coimbatore",Computer Science and Engineering,CSE,2022,SC,187.0
+cit-coimbatore-2007,2007,"Coimbatore Institute of Technology (CIT), Coimbatore",Computer Science and Engineering,CSE,2022,SCA,182.0
+cit-coimbatore-2007,2007,"Coimbatore Institute of Technology (CIT), Coimbatore",Computer Science and Engineering,CSE,2022,ST,170.0
+cit-coimbatore-2007,2007,"Coimbatore Institute of Technology (CIT), Coimbatore",Artificial Intelligence and Machine Learning,AIML,2023,OC,197.5
+cit-coimbatore-2007,2007,"Coimbatore Institute of Technology (CIT), Coimbatore",Artificial Intelligence and Machine Learning,AIML,2023,BC,197.0
+cit-coimbatore-2007,2007,"Coimbatore Institute of Technology (CIT), Coimbatore",Artificial Intelligence and Machine Learning,AIML,2023,BCM,196.0
+cit-coimbatore-2007,2007,"Coimbatore Institute of Technology (CIT), Coimbatore",Artificial Intelligence and Machine Learning,AIML,2023,MBC,195.0
+cit-coimbatore-2007,2007,"Coimbatore Institute of Technology (CIT), Coimbatore",Artificial Intelligence and Machine Learning,AIML,2023,SC,188.0
+cit-coimbatore-2007,2007,"Coimbatore Institute of Technology (CIT), Coimbatore",Artificial Intelligence and Machine Learning,AIML,2023,SCA,183.0
+cit-coimbatore-2007,2007,"Coimbatore Institute of Technology (CIT), Coimbatore",Artificial Intelligence and Machine Learning,AIML,2023,ST,171.0
+cit-coimbatore-2007,2007,"Coimbatore Institute of Technology (CIT), Coimbatore",Artificial Intelligence and Machine Learning,AIML,2022,OC,197.0
+cit-coimbatore-2007,2007,"Coimbatore Institute of Technology (CIT), Coimbatore",Artificial Intelligence and Machine Learning,AIML,2022,BC,196.5
+cit-coimbatore-2007,2007,"Coimbatore Institute of Technology (CIT), Coimbatore",Artificial Intelligence and Machine Learning,AIML,2022,BCM,195.5
+cit-coimbatore-2007,2007,"Coimbatore Institute of Technology (CIT), Coimbatore",Artificial Intelligence and Machine Learning,AIML,2022,MBC,194.0
+cit-coimbatore-2007,2007,"Coimbatore Institute of Technology (CIT), Coimbatore",Artificial Intelligence and Machine Learning,AIML,2022,SC,186.0
+cit-coimbatore-2007,2007,"Coimbatore Institute of Technology (CIT), Coimbatore",Artificial Intelligence and Machine Learning,AIML,2022,SCA,181.0
+cit-coimbatore-2007,2007,"Coimbatore Institute of Technology (CIT), Coimbatore",Artificial Intelligence and Machine Learning,AIML,2022,ST,168.0
+cit-coimbatore-2007,2007,"Coimbatore Institute of Technology (CIT), Coimbatore",Electronics and Communication Engineering,ECE,2023,OC,196.5
+cit-coimbatore-2007,2007,"Coimbatore Institute of Technology (CIT), Coimbatore",Electronics and Communication Engineering,ECE,2023,BC,195.5
+cit-coimbatore-2007,2007,"Coimbatore Institute of Technology (CIT), Coimbatore",Electronics and Communication Engineering,ECE,2023,BCM,194.5
+cit-coimbatore-2007,2007,"Coimbatore Institute of Technology (CIT), Coimbatore",Electronics and Communication Engineering,ECE,2023,MBC,193.5
+cit-coimbatore-2007,2007,"Coimbatore Institute of Technology (CIT), Coimbatore",Electronics and Communication Engineering,ECE,2023,SC,186.0
+cit-coimbatore-2007,2007,"Coimbatore Institute of Technology (CIT), Coimbatore",Electronics and Communication Engineering,ECE,2023,SCA,181.0
+cit-coimbatore-2007,2007,"Coimbatore Institute of Technology (CIT), Coimbatore",Electronics and Communication Engineering,ECE,2023,ST,170.0
+cit-coimbatore-2007,2007,"Coimbatore Institute of Technology (CIT), Coimbatore",Electronics and Communication Engineering,ECE,2022,OC,196.0
+cit-coimbatore-2007,2007,"Coimbatore Institute of Technology (CIT), Coimbatore",Electronics and Communication Engineering,ECE,2022,BC,195.0
+cit-coimbatore-2007,2007,"Coimbatore Institute of Technology (CIT), Coimbatore",Electronics and Communication Engineering,ECE,2022,BCM,194.0
+cit-coimbatore-2007,2007,"Coimbatore Institute of Technology (CIT), Coimbatore",Electronics and Communication Engineering,ECE,2022,MBC,192.5
+cit-coimbatore-2007,2007,"Coimbatore Institute of Technology (CIT), Coimbatore",Electronics and Communication Engineering,ECE,2022,SC,184.0
+cit-coimbatore-2007,2007,"Coimbatore Institute of Technology (CIT), Coimbatore",Electronics and Communication Engineering,ECE,2022,SCA,179.0
+cit-coimbatore-2007,2007,"Coimbatore Institute of Technology (CIT), Coimbatore",Electronics and Communication Engineering,ECE,2022,ST,167.0
+cit-coimbatore-2007,2007,"Coimbatore Institute of Technology (CIT), Coimbatore",Mechanical Engineering,MECH,2023,OC,191.0
+cit-coimbatore-2007,2007,"Coimbatore Institute of Technology (CIT), Coimbatore",Mechanical Engineering,MECH,2023,BC,188.5
+cit-coimbatore-2007,2007,"Coimbatore Institute of Technology (CIT), Coimbatore",Mechanical Engineering,MECH,2023,BCM,186.5
+cit-coimbatore-2007,2007,"Coimbatore Institute of Technology (CIT), Coimbatore",Mechanical Engineering,MECH,2023,MBC,185.0
+cit-coimbatore-2007,2007,"Coimbatore Institute of Technology (CIT), Coimbatore",Mechanical Engineering,MECH,2023,SC,174.0
+cit-coimbatore-2007,2007,"Coimbatore Institute of Technology (CIT), Coimbatore",Mechanical Engineering,MECH,2023,SCA,167.0
+cit-coimbatore-2007,2007,"Coimbatore Institute of Technology (CIT), Coimbatore",Mechanical Engineering,MECH,2023,ST,154.0
+cit-coimbatore-2007,2007,"Coimbatore Institute of Technology (CIT), Coimbatore",Mechanical Engineering,MECH,2022,OC,189.5
+cit-coimbatore-2007,2007,"Coimbatore Institute of Technology (CIT), Coimbatore",Mechanical Engineering,MECH,2022,BC,187.0
+cit-coimbatore-2007,2007,"Coimbatore Institute of Technology (CIT), Coimbatore",Mechanical Engineering,MECH,2022,BCM,185.0
+cit-coimbatore-2007,2007,"Coimbatore Institute of Technology (CIT), Coimbatore",Mechanical Engineering,MECH,2022,MBC,183.0
+cit-coimbatore-2007,2007,"Coimbatore Institute of Technology (CIT), Coimbatore",Mechanical Engineering,MECH,2022,SC,171.0
+cit-coimbatore-2007,2007,"Coimbatore Institute of Technology (CIT), Coimbatore",Mechanical Engineering,MECH,2022,SCA,164.0
+cit-coimbatore-2007,2007,"Coimbatore Institute of Technology (CIT), Coimbatore",Mechanical Engineering,MECH,2022,ST,150.0
+gct-coimbatore-2005,2005,"Government College of Technology (GCT), Coimbatore",Computer Science and Engineering,CSE,2023,OC,197.5
+gct-coimbatore-2005,2005,"Government College of Technology (GCT), Coimbatore",Computer Science and Engineering,CSE,2023,BC,197.0
+gct-coimbatore-2005,2005,"Government College of Technology (GCT), Coimbatore",Computer Science and Engineering,CSE,2023,BCM,196.0
+gct-coimbatore-2005,2005,"Government College of Technology (GCT), Coimbatore",Computer Science and Engineering,CSE,2023,MBC,195.0
+gct-coimbatore-2005,2005,"Government College of Technology (GCT), Coimbatore",Computer Science and Engineering,CSE,2023,SC,187.5
+gct-coimbatore-2005,2005,"Government College of Technology (GCT), Coimbatore",Computer Science and Engineering,CSE,2023,SCA,182.0
+gct-coimbatore-2005,2005,"Government College of Technology (GCT), Coimbatore",Computer Science and Engineering,CSE,2023,ST,171.0
+gct-coimbatore-2005,2005,"Government College of Technology (GCT), Coimbatore",Computer Science and Engineering,CSE,2022,OC,197.0
+gct-coimbatore-2005,2005,"Government College of Technology (GCT), Coimbatore",Computer Science and Engineering,CSE,2022,BC,196.0
+gct-coimbatore-2005,2005,"Government College of Technology (GCT), Coimbatore",Computer Science and Engineering,CSE,2022,BCM,195.0
+gct-coimbatore-2005,2005,"Government College of Technology (GCT), Coimbatore",Computer Science and Engineering,CSE,2022,MBC,194.0
+gct-coimbatore-2005,2005,"Government College of Technology (GCT), Coimbatore",Computer Science and Engineering,CSE,2022,SC,185.0
+gct-coimbatore-2005,2005,"Government College of Technology (GCT), Coimbatore",Computer Science and Engineering,CSE,2022,SCA,180.0
+gct-coimbatore-2005,2005,"Government College of Technology (GCT), Coimbatore",Computer Science and Engineering,CSE,2022,ST,168.0
+gct-coimbatore-2005,2005,"Government College of Technology (GCT), Coimbatore",Information Technology,IT,2023,OC,196.5
+gct-coimbatore-2005,2005,"Government College of Technology (GCT), Coimbatore",Information Technology,IT,2023,BC,195.5
+gct-coimbatore-2005,2005,"Government College of Technology (GCT), Coimbatore",Information Technology,IT,2023,BCM,194.5
+gct-coimbatore-2005,2005,"Government College of Technology (GCT), Coimbatore",Information Technology,IT,2023,MBC,193.5
+gct-coimbatore-2005,2005,"Government College of Technology (GCT), Coimbatore",Information Technology,IT,2023,SC,185.0
+gct-coimbatore-2005,2005,"Government College of Technology (GCT), Coimbatore",Information Technology,IT,2023,SCA,180.0
+gct-coimbatore-2005,2005,"Government College of Technology (GCT), Coimbatore",Information Technology,IT,2023,ST,169.0
+gct-coimbatore-2005,2005,"Government College of Technology (GCT), Coimbatore",Information Technology,IT,2022,OC,196.0
+gct-coimbatore-2005,2005,"Government College of Technology (GCT), Coimbatore",Information Technology,IT,2022,BC,195.0
+gct-coimbatore-2005,2005,"Government College of Technology (GCT), Coimbatore",Information Technology,IT,2022,BCM,194.0
+gct-coimbatore-2005,2005,"Government College of Technology (GCT), Coimbatore",Information Technology,IT,2022,MBC,192.5
+gct-coimbatore-2005,2005,"Government College of Technology (GCT), Coimbatore",Information Technology,IT,2022,SC,183.0
+gct-coimbatore-2005,2005,"Government College of Technology (GCT), Coimbatore",Information Technology,IT,2022,SCA,178.0
+gct-coimbatore-2005,2005,"Government College of Technology (GCT), Coimbatore",Information Technology,IT,2022,ST,166.0
+gct-coimbatore-2005,2005,"Government College of Technology (GCT), Coimbatore",Electronics and Communication Engineering,ECE,2023,OC,196.0
+gct-coimbatore-2005,2005,"Government College of Technology (GCT), Coimbatore",Electronics and Communication Engineering,ECE,2023,BC,195.0
+gct-coimbatore-2005,2005,"Government College of Technology (GCT), Coimbatore",Electronics and Communication Engineering,ECE,2023,BCM,194.0
+gct-coimbatore-2005,2005,"Government College of Technology (GCT), Coimbatore",Electronics and Communication Engineering,ECE,2023,MBC,193.0
+gct-coimbatore-2005,2005,"Government College of Technology (GCT), Coimbatore",Electronics and Communication Engineering,ECE,2023,SC,184.0
+gct-coimbatore-2005,2005,"Government College of Technology (GCT), Coimbatore",Electronics and Communication Engineering,ECE,2023,SCA,179.0
+gct-coimbatore-2005,2005,"Government College of Technology (GCT), Coimbatore",Electronics and Communication Engineering,ECE,2023,ST,168.0
+gct-coimbatore-2005,2005,"Government College of Technology (GCT), Coimbatore",Electronics and Communication Engineering,ECE,2022,OC,195.5
+gct-coimbatore-2005,2005,"Government College of Technology (GCT), Coimbatore",Electronics and Communication Engineering,ECE,2022,BC,194.0
+gct-coimbatore-2005,2005,"Government College of Technology (GCT), Coimbatore",Electronics and Communication Engineering,ECE,2022,BCM,193.0
+gct-coimbatore-2005,2005,"Government College of Technology (GCT), Coimbatore",Electronics and Communication Engineering,ECE,2022,MBC,191.5
+gct-coimbatore-2005,2005,"Government College of Technology (GCT), Coimbatore",Electronics and Communication Engineering,ECE,2022,SC,182.0
+gct-coimbatore-2005,2005,"Government College of Technology (GCT), Coimbatore",Electronics and Communication Engineering,ECE,2022,SCA,177.0
+gct-coimbatore-2005,2005,"Government College of Technology (GCT), Coimbatore",Electronics and Communication Engineering,ECE,2022,ST,165.0
+gct-coimbatore-2005,2005,"Government College of Technology (GCT), Coimbatore",Mechanical Engineering,MECH,2023,OC,189.5
+gct-coimbatore-2005,2005,"Government College of Technology (GCT), Coimbatore",Mechanical Engineering,MECH,2023,BC,187.0
+gct-coimbatore-2005,2005,"Government College of Technology (GCT), Coimbatore",Mechanical Engineering,MECH,2023,BCM,185.0
+gct-coimbatore-2005,2005,"Government College of Technology (GCT), Coimbatore",Mechanical Engineering,MECH,2023,MBC,183.5
+gct-coimbatore-2005,2005,"Government College of Technology (GCT), Coimbatore",Mechanical Engineering,MECH,2023,SC,171.0
+gct-coimbatore-2005,2005,"Government College of Technology (GCT), Coimbatore",Mechanical Engineering,MECH,2023,SCA,164.0
+gct-coimbatore-2005,2005,"Government College of Technology (GCT), Coimbatore",Mechanical Engineering,MECH,2023,ST,151.0
+gct-coimbatore-2005,2005,"Government College of Technology (GCT), Coimbatore",Mechanical Engineering,MECH,2022,OC,188.0
+gct-coimbatore-2005,2005,"Government College of Technology (GCT), Coimbatore",Mechanical Engineering,MECH,2022,BC,185.5
+gct-coimbatore-2005,2005,"Government College of Technology (GCT), Coimbatore",Mechanical Engineering,MECH,2022,BCM,183.5
+gct-coimbatore-2005,2005,"Government College of Technology (GCT), Coimbatore",Mechanical Engineering,MECH,2022,MBC,181.5
+gct-coimbatore-2005,2005,"Government College of Technology (GCT), Coimbatore",Mechanical Engineering,MECH,2022,SC,168.0
+gct-coimbatore-2005,2005,"Government College of Technology (GCT), Coimbatore",Mechanical Engineering,MECH,2022,SCA,161.0
+gct-coimbatore-2005,2005,"Government College of Technology (GCT), Coimbatore",Mechanical Engineering,MECH,2022,ST,147.0
+tce-madurai-5008,5008,"Thiagarajar College of Engineering (TCE), Madurai",Computer Science and Engineering,CSE,2023,OC,197.5
+tce-madurai-5008,5008,"Thiagarajar College of Engineering (TCE), Madurai",Computer Science and Engineering,CSE,2023,BC,197.0
+tce-madurai-5008,5008,"Thiagarajar College of Engineering (TCE), Madurai",Computer Science and Engineering,CSE,2023,BCM,196.0
+tce-madurai-5008,5008,"Thiagarajar College of Engineering (TCE), Madurai",Computer Science and Engineering,CSE,2023,MBC,195.0
+tce-madurai-5008,5008,"Thiagarajar College of Engineering (TCE), Madurai",Computer Science and Engineering,CSE,2023,SC,188.0
+tce-madurai-5008,5008,"Thiagarajar College of Engineering (TCE), Madurai",Computer Science and Engineering,CSE,2023,SCA,183.0
+tce-madurai-5008,5008,"Thiagarajar College of Engineering (TCE), Madurai",Computer Science and Engineering,CSE,2023,ST,172.0
+tce-madurai-5008,5008,"Thiagarajar College of Engineering (TCE), Madurai",Computer Science and Engineering,CSE,2022,OC,197.0
+tce-madurai-5008,5008,"Thiagarajar College of Engineering (TCE), Madurai",Computer Science and Engineering,CSE,2022,BC,196.5
+tce-madurai-5008,5008,"Thiagarajar College of Engineering (TCE), Madurai",Computer Science and Engineering,CSE,2022,BCM,195.0
+tce-madurai-5008,5008,"Thiagarajar College of Engineering (TCE), Madurai",Computer Science and Engineering,CSE,2022,MBC,194.0
+tce-madurai-5008,5008,"Thiagarajar College of Engineering (TCE), Madurai",Computer Science and Engineering,CSE,2022,SC,186.0
+tce-madurai-5008,5008,"Thiagarajar College of Engineering (TCE), Madurai",Computer Science and Engineering,CSE,2022,SCA,181.0
+tce-madurai-5008,5008,"Thiagarajar College of Engineering (TCE), Madurai",Computer Science and Engineering,CSE,2022,ST,169.0
+tce-madurai-5008,5008,"Thiagarajar College of Engineering (TCE), Madurai",Information Technology,IT,2023,OC,196.5
+tce-madurai-5008,5008,"Thiagarajar College of Engineering (TCE), Madurai",Information Technology,IT,2023,BC,196.0
+tce-madurai-5008,5008,"Thiagarajar College of Engineering (TCE), Madurai",Information Technology,IT,2023,BCM,195.0
+tce-madurai-5008,5008,"Thiagarajar College of Engineering (TCE), Madurai",Information Technology,IT,2023,MBC,194.0
+tce-madurai-5008,5008,"Thiagarajar College of Engineering (TCE), Madurai",Information Technology,IT,2023,SC,186.0
+tce-madurai-5008,5008,"Thiagarajar College of Engineering (TCE), Madurai",Information Technology,IT,2023,SCA,181.0
+tce-madurai-5008,5008,"Thiagarajar College of Engineering (TCE), Madurai",Information Technology,IT,2023,ST,170.0
+tce-madurai-5008,5008,"Thiagarajar College of Engineering (TCE), Madurai",Information Technology,IT,2022,OC,196.0
+tce-madurai-5008,5008,"Thiagarajar College of Engineering (TCE), Madurai",Information Technology,IT,2022,BC,195.0
+tce-madurai-5008,5008,"Thiagarajar College of Engineering (TCE), Madurai",Information Technology,IT,2022,BCM,194.0
+tce-madurai-5008,5008,"Thiagarajar College of Engineering (TCE), Madurai",Information Technology,IT,2022,MBC,192.5
+tce-madurai-5008,5008,"Thiagarajar College of Engineering (TCE), Madurai",Information Technology,IT,2022,SC,184.0
+tce-madurai-5008,5008,"Thiagarajar College of Engineering (TCE), Madurai",Information Technology,IT,2022,SCA,179.0
+tce-madurai-5008,5008,"Thiagarajar College of Engineering (TCE), Madurai",Information Technology,IT,2022,ST,167.0
+tce-madurai-5008,5008,"Thiagarajar College of Engineering (TCE), Madurai",Electronics and Communication Engineering,ECE,2023,OC,196.0
+tce-madurai-5008,5008,"Thiagarajar College of Engineering (TCE), Madurai",Electronics and Communication Engineering,ECE,2023,BC,195.0
+tce-madurai-5008,5008,"Thiagarajar College of Engineering (TCE), Madurai",Electronics and Communication Engineering,ECE,2023,BCM,194.0
+tce-madurai-5008,5008,"Thiagarajar College of Engineering (TCE), Madurai",Electronics and Communication Engineering,ECE,2023,MBC,193.0
+tce-madurai-5008,5008,"Thiagarajar College of Engineering (TCE), Madurai",Electronics and Communication Engineering,ECE,2023,SC,185.0
+tce-madurai-5008,5008,"Thiagarajar College of Engineering (TCE), Madurai",Electronics and Communication Engineering,ECE,2023,SCA,180.0
+tce-madurai-5008,5008,"Thiagarajar College of Engineering (TCE), Madurai",Electronics and Communication Engineering,ECE,2023,ST,169.0
+tce-madurai-5008,5008,"Thiagarajar College of Engineering (TCE), Madurai",Electronics and Communication Engineering,ECE,2022,OC,195.5
+tce-madurai-5008,5008,"Thiagarajar College of Engineering (TCE), Madurai",Electronics and Communication Engineering,ECE,2022,BC,194.5
+tce-madurai-5008,5008,"Thiagarajar College of Engineering (TCE), Madurai",Electronics and Communication Engineering,ECE,2022,BCM,193.0
+tce-madurai-5008,5008,"Thiagarajar College of Engineering (TCE), Madurai",Electronics and Communication Engineering,ECE,2022,MBC,191.5
+tce-madurai-5008,5008,"Thiagarajar College of Engineering (TCE), Madurai",Electronics and Communication Engineering,ECE,2022,SC,183.0
+tce-madurai-5008,5008,"Thiagarajar College of Engineering (TCE), Madurai",Electronics and Communication Engineering,ECE,2022,SCA,178.0
+tce-madurai-5008,5008,"Thiagarajar College of Engineering (TCE), Madurai",Electronics and Communication Engineering,ECE,2022,ST,165.0
+tce-madurai-5008,5008,"Thiagarajar College of Engineering (TCE), Madurai",Mechanical Engineering,MECH,2023,OC,190.0
+tce-madurai-5008,5008,"Thiagarajar College of Engineering (TCE), Madurai",Mechanical Engineering,MECH,2023,BC,187.5
+tce-madurai-5008,5008,"Thiagarajar College of Engineering (TCE), Madurai",Mechanical Engineering,MECH,2023,BCM,185.5
+tce-madurai-5008,5008,"Thiagarajar College of Engineering (TCE), Madurai",Mechanical Engineering,MECH,2023,MBC,184.0
+tce-madurai-5008,5008,"Thiagarajar College of Engineering (TCE), Madurai",Mechanical Engineering,MECH,2023,SC,172.5
+tce-madurai-5008,5008,"Thiagarajar College of Engineering (TCE), Madurai",Mechanical Engineering,MECH,2023,SCA,165.0
+tce-madurai-5008,5008,"Thiagarajar College of Engineering (TCE), Madurai",Mechanical Engineering,MECH,2023,ST,153.0
+tce-madurai-5008,5008,"Thiagarajar College of Engineering (TCE), Madurai",Mechanical Engineering,MECH,2022,OC,188.5
+tce-madurai-5008,5008,"Thiagarajar College of Engineering (TCE), Madurai",Mechanical Engineering,MECH,2022,BC,186.0
+tce-madurai-5008,5008,"Thiagarajar College of Engineering (TCE), Madurai",Mechanical Engineering,MECH,2022,BCM,184.0
+tce-madurai-5008,5008,"Thiagarajar College of Engineering (TCE), Madurai",Mechanical Engineering,MECH,2022,MBC,182.0
+tce-madurai-5008,5008,"Thiagarajar College of Engineering (TCE), Madurai",Mechanical Engineering,MECH,2022,SC,169.5
+tce-madurai-5008,5008,"Thiagarajar College of Engineering (TCE), Madurai",Mechanical Engineering,MECH,2022,SCA,162.0
+tce-madurai-5008,5008,"Thiagarajar College of Engineering (TCE), Madurai",Mechanical Engineering,MECH,2022,ST,149.0
+kct-coimbatore-2712,2712,"Kumaraguru College of Technology (KCT), Coimbatore",Computer Science and Engineering,CSE,2023,OC,195.5
+kct-coimbatore-2712,2712,"Kumaraguru College of Technology (KCT), Coimbatore",Computer Science and Engineering,CSE,2023,BC,194.5
+kct-coimbatore-2712,2712,"Kumaraguru College of Technology (KCT), Coimbatore",Computer Science and Engineering,CSE,2023,BCM,193.5
+kct-coimbatore-2712,2712,"Kumaraguru College of Technology (KCT), Coimbatore",Computer Science and Engineering,CSE,2023,MBC,191.5
+kct-coimbatore-2712,2712,"Kumaraguru College of Technology (KCT), Coimbatore",Computer Science and Engineering,CSE,2023,SC,181.0
+kct-coimbatore-2712,2712,"Kumaraguru College of Technology (KCT), Coimbatore",Computer Science and Engineering,CSE,2023,SCA,174.0
+kct-coimbatore-2712,2712,"Kumaraguru College of Technology (KCT), Coimbatore",Computer Science and Engineering,CSE,2023,ST,162.0
+kct-coimbatore-2712,2712,"Kumaraguru College of Technology (KCT), Coimbatore",Computer Science and Engineering,CSE,2022,OC,194.5
+kct-coimbatore-2712,2712,"Kumaraguru College of Technology (KCT), Coimbatore",Computer Science and Engineering,CSE,2022,BC,193.5
+kct-coimbatore-2712,2712,"Kumaraguru College of Technology (KCT), Coimbatore",Computer Science and Engineering,CSE,2022,BCM,192.0
+kct-coimbatore-2712,2712,"Kumaraguru College of Technology (KCT), Coimbatore",Computer Science and Engineering,CSE,2022,MBC,190.0
+kct-coimbatore-2712,2712,"Kumaraguru College of Technology (KCT), Coimbatore",Computer Science and Engineering,CSE,2022,SC,178.0
+kct-coimbatore-2712,2712,"Kumaraguru College of Technology (KCT), Coimbatore",Computer Science and Engineering,CSE,2022,SCA,171.0
+kct-coimbatore-2712,2712,"Kumaraguru College of Technology (KCT), Coimbatore",Computer Science and Engineering,CSE,2022,ST,158.0
+kct-coimbatore-2712,2712,"Kumaraguru College of Technology (KCT), Coimbatore",Artificial Intelligence and Data Science,AIDS,2023,OC,194.5
+kct-coimbatore-2712,2712,"Kumaraguru College of Technology (KCT), Coimbatore",Artificial Intelligence and Data Science,AIDS,2023,BC,193.5
+kct-coimbatore-2712,2712,"Kumaraguru College of Technology (KCT), Coimbatore",Artificial Intelligence and Data Science,AIDS,2023,BCM,192.0
+kct-coimbatore-2712,2712,"Kumaraguru College of Technology (KCT), Coimbatore",Artificial Intelligence and Data Science,AIDS,2023,MBC,190.0
+kct-coimbatore-2712,2712,"Kumaraguru College of Technology (KCT), Coimbatore",Artificial Intelligence and Data Science,AIDS,2023,SC,179.0
+kct-coimbatore-2712,2712,"Kumaraguru College of Technology (KCT), Coimbatore",Artificial Intelligence and Data Science,AIDS,2023,SCA,172.0
+kct-coimbatore-2712,2712,"Kumaraguru College of Technology (KCT), Coimbatore",Artificial Intelligence and Data Science,AIDS,2023,ST,159.0
+kct-coimbatore-2712,2712,"Kumaraguru College of Technology (KCT), Coimbatore",Artificial Intelligence and Data Science,AIDS,2022,OC,193.5
+kct-coimbatore-2712,2712,"Kumaraguru College of Technology (KCT), Coimbatore",Artificial Intelligence and Data Science,AIDS,2022,BC,192.0
+kct-coimbatore-2712,2712,"Kumaraguru College of Technology (KCT), Coimbatore",Artificial Intelligence and Data Science,AIDS,2022,BCM,190.5
+kct-coimbatore-2712,2712,"Kumaraguru College of Technology (KCT), Coimbatore",Artificial Intelligence and Data Science,AIDS,2022,MBC,188.5
+kct-coimbatore-2712,2712,"Kumaraguru College of Technology (KCT), Coimbatore",Artificial Intelligence and Data Science,AIDS,2022,SC,176.0
+kct-coimbatore-2712,2712,"Kumaraguru College of Technology (KCT), Coimbatore",Artificial Intelligence and Data Science,AIDS,2022,SCA,169.0
+kct-coimbatore-2712,2712,"Kumaraguru College of Technology (KCT), Coimbatore",Artificial Intelligence and Data Science,AIDS,2022,ST,155.0
+kct-coimbatore-2712,2712,"Kumaraguru College of Technology (KCT), Coimbatore",Information Technology,IT,2023,OC,194.0
+kct-coimbatore-2712,2712,"Kumaraguru College of Technology (KCT), Coimbatore",Information Technology,IT,2023,BC,193.0
+kct-coimbatore-2712,2712,"Kumaraguru College of Technology (KCT), Coimbatore",Information Technology,IT,2023,BCM,191.5
+kct-coimbatore-2712,2712,"Kumaraguru College of Technology (KCT), Coimbatore",Information Technology,IT,2023,MBC,189.5
+kct-coimbatore-2712,2712,"Kumaraguru College of Technology (KCT), Coimbatore",Information Technology,IT,2023,SC,178.0
+kct-coimbatore-2712,2712,"Kumaraguru College of Technology (KCT), Coimbatore",Information Technology,IT,2023,SCA,170.5
+kct-coimbatore-2712,2712,"Kumaraguru College of Technology (KCT), Coimbatore",Information Technology,IT,2023,ST,158.0
+kct-coimbatore-2712,2712,"Kumaraguru College of Technology (KCT), Coimbatore",Information Technology,IT,2022,OC,193.0
+kct-coimbatore-2712,2712,"Kumaraguru College of Technology (KCT), Coimbatore",Information Technology,IT,2022,BC,191.5
+kct-coimbatore-2712,2712,"Kumaraguru College of Technology (KCT), Coimbatore",Information Technology,IT,2022,BCM,190.0
+kct-coimbatore-2712,2712,"Kumaraguru College of Technology (KCT), Coimbatore",Information Technology,IT,2022,MBC,187.5
+kct-coimbatore-2712,2712,"Kumaraguru College of Technology (KCT), Coimbatore",Information Technology,IT,2022,SC,175.0
+kct-coimbatore-2712,2712,"Kumaraguru College of Technology (KCT), Coimbatore",Information Technology,IT,2022,SCA,167.0
+kct-coimbatore-2712,2712,"Kumaraguru College of Technology (KCT), Coimbatore",Information Technology,IT,2022,ST,154.0
+kct-coimbatore-2712,2712,"Kumaraguru College of Technology (KCT), Coimbatore",Electronics and Communication Engineering,ECE,2023,OC,193.5
+kct-coimbatore-2712,2712,"Kumaraguru College of Technology (KCT), Coimbatore",Electronics and Communication Engineering,ECE,2023,BC,192.0
+kct-coimbatore-2712,2712,"Kumaraguru College of Technology (KCT), Coimbatore",Electronics and Communication Engineering,ECE,2023,BCM,190.5
+kct-coimbatore-2712,2712,"Kumaraguru College of Technology (KCT), Coimbatore",Electronics and Communication Engineering,ECE,2023,MBC,188.0
+kct-coimbatore-2712,2712,"Kumaraguru College of Technology (KCT), Coimbatore",Electronics and Communication Engineering,ECE,2023,SC,176.0
+kct-coimbatore-2712,2712,"Kumaraguru College of Technology (KCT), Coimbatore",Electronics and Communication Engineering,ECE,2023,SCA,168.0
+kct-coimbatore-2712,2712,"Kumaraguru College of Technology (KCT), Coimbatore",Electronics and Communication Engineering,ECE,2023,ST,155.0
+kct-coimbatore-2712,2712,"Kumaraguru College of Technology (KCT), Coimbatore",Electronics and Communication Engineering,ECE,2022,OC,192.0
+kct-coimbatore-2712,2712,"Kumaraguru College of Technology (KCT), Coimbatore",Electronics and Communication Engineering,ECE,2022,BC,190.5
+kct-coimbatore-2712,2712,"Kumaraguru College of Technology (KCT), Coimbatore",Electronics and Communication Engineering,ECE,2022,BCM,189.0
+kct-coimbatore-2712,2712,"Kumaraguru College of Technology (KCT), Coimbatore",Electronics and Communication Engineering,ECE,2022,MBC,186.0
+kct-coimbatore-2712,2712,"Kumaraguru College of Technology (KCT), Coimbatore",Electronics and Communication Engineering,ECE,2022,SC,173.0
+kct-coimbatore-2712,2712,"Kumaraguru College of Technology (KCT), Coimbatore",Electronics and Communication Engineering,ECE,2022,SCA,165.0
+kct-coimbatore-2712,2712,"Kumaraguru College of Technology (KCT), Coimbatore",Electronics and Communication Engineering,ECE,2022,ST,151.0
+kct-coimbatore-2712,2712,"Kumaraguru College of Technology (KCT), Coimbatore",Mechanical Engineering,MECH,2023,OC,183.0
+kct-coimbatore-2712,2712,"Kumaraguru College of Technology (KCT), Coimbatore",Mechanical Engineering,MECH,2023,BC,178.5
+kct-coimbatore-2712,2712,"Kumaraguru College of Technology (KCT), Coimbatore",Mechanical Engineering,MECH,2023,BCM,175.0
+kct-coimbatore-2712,2712,"Kumaraguru College of Technology (KCT), Coimbatore",Mechanical Engineering,MECH,2023,MBC,173.0
+kct-coimbatore-2712,2712,"Kumaraguru College of Technology (KCT), Coimbatore",Mechanical Engineering,MECH,2023,SC,158.0
+kct-coimbatore-2712,2712,"Kumaraguru College of Technology (KCT), Coimbatore",Mechanical Engineering,MECH,2023,SCA,149.0
+kct-coimbatore-2712,2712,"Kumaraguru College of Technology (KCT), Coimbatore",Mechanical Engineering,MECH,2023,ST,138.0
+kct-coimbatore-2712,2712,"Kumaraguru College of Technology (KCT), Coimbatore",Mechanical Engineering,MECH,2022,OC,180.5
+kct-coimbatore-2712,2712,"Kumaraguru College of Technology (KCT), Coimbatore",Mechanical Engineering,MECH,2022,BC,175.5
+kct-coimbatore-2712,2712,"Kumaraguru College of Technology (KCT), Coimbatore",Mechanical Engineering,MECH,2022,BCM,172.0
+kct-coimbatore-2712,2712,"Kumaraguru College of Technology (KCT), Coimbatore",Mechanical Engineering,MECH,2022,MBC,170.0
+kct-coimbatore-2712,2712,"Kumaraguru College of Technology (KCT), Coimbatore",Mechanical Engineering,MECH,2022,SC,154.0
+kct-coimbatore-2712,2712,"Kumaraguru College of Technology (KCT), Coimbatore",Mechanical Engineering,MECH,2022,SCA,145.0
+kct-coimbatore-2712,2712,"Kumaraguru College of Technology (KCT), Coimbatore",Mechanical Engineering,MECH,2022,ST,134.0
+cit-chennai-1114,1114,"Chennai Institute of Technology (CIT Chennai), Kundrathur",Computer Science and Engineering,CSE,2023,OC,194.5
+cit-chennai-1114,1114,"Chennai Institute of Technology (CIT Chennai), Kundrathur",Computer Science and Engineering,CSE,2023,BC,193.0
+cit-chennai-1114,1114,"Chennai Institute of Technology (CIT Chennai), Kundrathur",Computer Science and Engineering,CSE,2023,BCM,191.5
+cit-chennai-1114,1114,"Chennai Institute of Technology (CIT Chennai), Kundrathur",Computer Science and Engineering,CSE,2023,MBC,189.5
+cit-chennai-1114,1114,"Chennai Institute of Technology (CIT Chennai), Kundrathur",Computer Science and Engineering,CSE,2023,SC,178.0
+cit-chennai-1114,1114,"Chennai Institute of Technology (CIT Chennai), Kundrathur",Computer Science and Engineering,CSE,2023,SCA,171.0
+cit-chennai-1114,1114,"Chennai Institute of Technology (CIT Chennai), Kundrathur",Computer Science and Engineering,CSE,2023,ST,158.0
+cit-chennai-1114,1114,"Chennai Institute of Technology (CIT Chennai), Kundrathur",Computer Science and Engineering,CSE,2022,OC,193.0
+cit-chennai-1114,1114,"Chennai Institute of Technology (CIT Chennai), Kundrathur",Computer Science and Engineering,CSE,2022,BC,191.5
+cit-chennai-1114,1114,"Chennai Institute of Technology (CIT Chennai), Kundrathur",Computer Science and Engineering,CSE,2022,BCM,190.0
+cit-chennai-1114,1114,"Chennai Institute of Technology (CIT Chennai), Kundrathur",Computer Science and Engineering,CSE,2022,MBC,187.5
+cit-chennai-1114,1114,"Chennai Institute of Technology (CIT Chennai), Kundrathur",Computer Science and Engineering,CSE,2022,SC,174.0
+cit-chennai-1114,1114,"Chennai Institute of Technology (CIT Chennai), Kundrathur",Computer Science and Engineering,CSE,2022,SCA,167.0
+cit-chennai-1114,1114,"Chennai Institute of Technology (CIT Chennai), Kundrathur",Computer Science and Engineering,CSE,2022,ST,153.0
+cit-chennai-1114,1114,"Chennai Institute of Technology (CIT Chennai), Kundrathur",Artificial Intelligence and Data Science,AIDS,2023,OC,193.5
+cit-chennai-1114,1114,"Chennai Institute of Technology (CIT Chennai), Kundrathur",Artificial Intelligence and Data Science,AIDS,2023,BC,192.0
+cit-chennai-1114,1114,"Chennai Institute of Technology (CIT Chennai), Kundrathur",Artificial Intelligence and Data Science,AIDS,2023,BCM,190.5
+cit-chennai-1114,1114,"Chennai Institute of Technology (CIT Chennai), Kundrathur",Artificial Intelligence and Data Science,AIDS,2023,MBC,188.0
+cit-chennai-1114,1114,"Chennai Institute of Technology (CIT Chennai), Kundrathur",Artificial Intelligence and Data Science,AIDS,2023,SC,176.0
+cit-chennai-1114,1114,"Chennai Institute of Technology (CIT Chennai), Kundrathur",Artificial Intelligence and Data Science,AIDS,2023,SCA,169.0
+cit-chennai-1114,1114,"Chennai Institute of Technology (CIT Chennai), Kundrathur",Artificial Intelligence and Data Science,AIDS,2023,ST,155.0
+cit-chennai-1114,1114,"Chennai Institute of Technology (CIT Chennai), Kundrathur",Artificial Intelligence and Data Science,AIDS,2022,OC,192.0
+cit-chennai-1114,1114,"Chennai Institute of Technology (CIT Chennai), Kundrathur",Artificial Intelligence and Data Science,AIDS,2022,BC,190.0
+cit-chennai-1114,1114,"Chennai Institute of Technology (CIT Chennai), Kundrathur",Artificial Intelligence and Data Science,AIDS,2022,BCM,188.5
+cit-chennai-1114,1114,"Chennai Institute of Technology (CIT Chennai), Kundrathur",Artificial Intelligence and Data Science,AIDS,2022,MBC,186.0
+cit-chennai-1114,1114,"Chennai Institute of Technology (CIT Chennai), Kundrathur",Artificial Intelligence and Data Science,AIDS,2022,SC,172.0
+cit-chennai-1114,1114,"Chennai Institute of Technology (CIT Chennai), Kundrathur",Artificial Intelligence and Data Science,AIDS,2022,SCA,165.0
+cit-chennai-1114,1114,"Chennai Institute of Technology (CIT Chennai), Kundrathur",Artificial Intelligence and Data Science,AIDS,2022,ST,150.0
+cit-chennai-1114,1114,"Chennai Institute of Technology (CIT Chennai), Kundrathur",Electronics and Communication Engineering,ECE,2023,OC,192.0
+cit-chennai-1114,1114,"Chennai Institute of Technology (CIT Chennai), Kundrathur",Electronics and Communication Engineering,ECE,2023,BC,190.0
+cit-chennai-1114,1114,"Chennai Institute of Technology (CIT Chennai), Kundrathur",Electronics and Communication Engineering,ECE,2023,BCM,188.0
+cit-chennai-1114,1114,"Chennai Institute of Technology (CIT Chennai), Kundrathur",Electronics and Communication Engineering,ECE,2023,MBC,186.0
+cit-chennai-1114,1114,"Chennai Institute of Technology (CIT Chennai), Kundrathur",Electronics and Communication Engineering,ECE,2023,SC,173.0
+cit-chennai-1114,1114,"Chennai Institute of Technology (CIT Chennai), Kundrathur",Electronics and Communication Engineering,ECE,2023,SCA,165.0
+cit-chennai-1114,1114,"Chennai Institute of Technology (CIT Chennai), Kundrathur",Electronics and Communication Engineering,ECE,2023,ST,150.0
+cit-chennai-1114,1114,"Chennai Institute of Technology (CIT Chennai), Kundrathur",Electronics and Communication Engineering,ECE,2022,OC,190.5
+cit-chennai-1114,1114,"Chennai Institute of Technology (CIT Chennai), Kundrathur",Electronics and Communication Engineering,ECE,2022,BC,188.5
+cit-chennai-1114,1114,"Chennai Institute of Technology (CIT Chennai), Kundrathur",Electronics and Communication Engineering,ECE,2022,BCM,186.5
+cit-chennai-1114,1114,"Chennai Institute of Technology (CIT Chennai), Kundrathur",Electronics and Communication Engineering,ECE,2022,MBC,184.0
+cit-chennai-1114,1114,"Chennai Institute of Technology (CIT Chennai), Kundrathur",Electronics and Communication Engineering,ECE,2022,SC,170.0
+cit-chennai-1114,1114,"Chennai Institute of Technology (CIT Chennai), Kundrathur",Electronics and Communication Engineering,ECE,2022,SCA,162.0
+cit-chennai-1114,1114,"Chennai Institute of Technology (CIT Chennai), Kundrathur",Electronics and Communication Engineering,ECE,2022,ST,146.0
+cit-chennai-1114,1114,"Chennai Institute of Technology (CIT Chennai), Kundrathur",Cyber Security,CYBER,2023,OC,192.5
+cit-chennai-1114,1114,"Chennai Institute of Technology (CIT Chennai), Kundrathur",Cyber Security,CYBER,2023,BC,191.0
+cit-chennai-1114,1114,"Chennai Institute of Technology (CIT Chennai), Kundrathur",Cyber Security,CYBER,2023,BCM,189.5
+cit-chennai-1114,1114,"Chennai Institute of Technology (CIT Chennai), Kundrathur",Cyber Security,CYBER,2023,MBC,187.0
+cit-chennai-1114,1114,"Chennai Institute of Technology (CIT Chennai), Kundrathur",Cyber Security,CYBER,2023,SC,174.0
+cit-chennai-1114,1114,"Chennai Institute of Technology (CIT Chennai), Kundrathur",Cyber Security,CYBER,2023,SCA,166.5
+cit-chennai-1114,1114,"Chennai Institute of Technology (CIT Chennai), Kundrathur",Cyber Security,CYBER,2023,ST,152.0
+cit-chennai-1114,1114,"Chennai Institute of Technology (CIT Chennai), Kundrathur",Cyber Security,CYBER,2022,OC,191.0
+cit-chennai-1114,1114,"Chennai Institute of Technology (CIT Chennai), Kundrathur",Cyber Security,CYBER,2022,BC,189.0
+cit-chennai-1114,1114,"Chennai Institute of Technology (CIT Chennai), Kundrathur",Cyber Security,CYBER,2022,BCM,187.5
+cit-chennai-1114,1114,"Chennai Institute of Technology (CIT Chennai), Kundrathur",Cyber Security,CYBER,2022,MBC,185.0
+cit-chennai-1114,1114,"Chennai Institute of Technology (CIT Chennai), Kundrathur",Cyber Security,CYBER,2022,SC,170.5
+cit-chennai-1114,1114,"Chennai Institute of Technology (CIT Chennai), Kundrathur",Cyber Security,CYBER,2022,SCA,163.0
+cit-chennai-1114,1114,"Chennai Institute of Technology (CIT Chennai), Kundrathur",Cyber Security,CYBER,2022,ST,147.0
+skcet-coimbatore-2718,2718,"Sri Krishna College of Engineering and Technology (SKCET), Coimbatore",Computer Science and Engineering,CSE,2023,OC,194.0
+skcet-coimbatore-2718,2718,"Sri Krishna College of Engineering and Technology (SKCET), Coimbatore",Computer Science and Engineering,CSE,2023,BC,192.5
+skcet-coimbatore-2718,2718,"Sri Krishna College of Engineering and Technology (SKCET), Coimbatore",Computer Science and Engineering,CSE,2023,BCM,191.0
+skcet-coimbatore-2718,2718,"Sri Krishna College of Engineering and Technology (SKCET), Coimbatore",Computer Science and Engineering,CSE,2023,MBC,188.5
+skcet-coimbatore-2718,2718,"Sri Krishna College of Engineering and Technology (SKCET), Coimbatore",Computer Science and Engineering,CSE,2023,SC,177.0
+skcet-coimbatore-2718,2718,"Sri Krishna College of Engineering and Technology (SKCET), Coimbatore",Computer Science and Engineering,CSE,2023,SCA,170.0
+skcet-coimbatore-2718,2718,"Sri Krishna College of Engineering and Technology (SKCET), Coimbatore",Computer Science and Engineering,CSE,2023,ST,157.0
+skcet-coimbatore-2718,2718,"Sri Krishna College of Engineering and Technology (SKCET), Coimbatore",Computer Science and Engineering,CSE,2022,OC,192.5
+skcet-coimbatore-2718,2718,"Sri Krishna College of Engineering and Technology (SKCET), Coimbatore",Computer Science and Engineering,CSE,2022,BC,191.0
+skcet-coimbatore-2718,2718,"Sri Krishna College of Engineering and Technology (SKCET), Coimbatore",Computer Science and Engineering,CSE,2022,BCM,189.5
+skcet-coimbatore-2718,2718,"Sri Krishna College of Engineering and Technology (SKCET), Coimbatore",Computer Science and Engineering,CSE,2022,MBC,186.5
+skcet-coimbatore-2718,2718,"Sri Krishna College of Engineering and Technology (SKCET), Coimbatore",Computer Science and Engineering,CSE,2022,SC,173.0
+skcet-coimbatore-2718,2718,"Sri Krishna College of Engineering and Technology (SKCET), Coimbatore",Computer Science and Engineering,CSE,2022,SCA,166.0
+skcet-coimbatore-2718,2718,"Sri Krishna College of Engineering and Technology (SKCET), Coimbatore",Computer Science and Engineering,CSE,2022,ST,152.0
+skcet-coimbatore-2718,2718,"Sri Krishna College of Engineering and Technology (SKCET), Coimbatore",Information Technology,IT,2023,OC,193.0
+skcet-coimbatore-2718,2718,"Sri Krishna College of Engineering and Technology (SKCET), Coimbatore",Information Technology,IT,2023,BC,191.5
+skcet-coimbatore-2718,2718,"Sri Krishna College of Engineering and Technology (SKCET), Coimbatore",Information Technology,IT,2023,BCM,190.0
+skcet-coimbatore-2718,2718,"Sri Krishna College of Engineering and Technology (SKCET), Coimbatore",Information Technology,IT,2023,MBC,187.0
+skcet-coimbatore-2718,2718,"Sri Krishna College of Engineering and Technology (SKCET), Coimbatore",Information Technology,IT,2023,SC,175.0
+skcet-coimbatore-2718,2718,"Sri Krishna College of Engineering and Technology (SKCET), Coimbatore",Information Technology,IT,2023,SCA,168.0
+skcet-coimbatore-2718,2718,"Sri Krishna College of Engineering and Technology (SKCET), Coimbatore",Information Technology,IT,2023,ST,154.0
+skcet-coimbatore-2718,2718,"Sri Krishna College of Engineering and Technology (SKCET), Coimbatore",Information Technology,IT,2022,OC,191.5
+skcet-coimbatore-2718,2718,"Sri Krishna College of Engineering and Technology (SKCET), Coimbatore",Information Technology,IT,2022,BC,190.0
+skcet-coimbatore-2718,2718,"Sri Krishna College of Engineering and Technology (SKCET), Coimbatore",Information Technology,IT,2022,BCM,188.0
+skcet-coimbatore-2718,2718,"Sri Krishna College of Engineering and Technology (SKCET), Coimbatore",Information Technology,IT,2022,MBC,185.0
+skcet-coimbatore-2718,2718,"Sri Krishna College of Engineering and Technology (SKCET), Coimbatore",Information Technology,IT,2022,SC,171.0
+skcet-coimbatore-2718,2718,"Sri Krishna College of Engineering and Technology (SKCET), Coimbatore",Information Technology,IT,2022,SCA,164.0
+skcet-coimbatore-2718,2718,"Sri Krishna College of Engineering and Technology (SKCET), Coimbatore",Information Technology,IT,2022,ST,149.0
+skcet-coimbatore-2718,2718,"Sri Krishna College of Engineering and Technology (SKCET), Coimbatore",Electronics and Communication Engineering,ECE,2023,OC,191.5
+skcet-coimbatore-2718,2718,"Sri Krishna College of Engineering and Technology (SKCET), Coimbatore",Electronics and Communication Engineering,ECE,2023,BC,189.5
+skcet-coimbatore-2718,2718,"Sri Krishna College of Engineering and Technology (SKCET), Coimbatore",Electronics and Communication Engineering,ECE,2023,BCM,187.5
+skcet-coimbatore-2718,2718,"Sri Krishna College of Engineering and Technology (SKCET), Coimbatore",Electronics and Communication Engineering,ECE,2023,MBC,185.0
+skcet-coimbatore-2718,2718,"Sri Krishna College of Engineering and Technology (SKCET), Coimbatore",Electronics and Communication Engineering,ECE,2023,SC,172.0
+skcet-coimbatore-2718,2718,"Sri Krishna College of Engineering and Technology (SKCET), Coimbatore",Electronics and Communication Engineering,ECE,2023,SCA,164.0
+skcet-coimbatore-2718,2718,"Sri Krishna College of Engineering and Technology (SKCET), Coimbatore",Electronics and Communication Engineering,ECE,2023,ST,149.0
+skcet-coimbatore-2718,2718,"Sri Krishna College of Engineering and Technology (SKCET), Coimbatore",Electronics and Communication Engineering,ECE,2022,OC,190.0
+skcet-coimbatore-2718,2718,"Sri Krishna College of Engineering and Technology (SKCET), Coimbatore",Electronics and Communication Engineering,ECE,2022,BC,188.0
+skcet-coimbatore-2718,2718,"Sri Krishna College of Engineering and Technology (SKCET), Coimbatore",Electronics and Communication Engineering,ECE,2022,BCM,186.0
+skcet-coimbatore-2718,2718,"Sri Krishna College of Engineering and Technology (SKCET), Coimbatore",Electronics and Communication Engineering,ECE,2022,MBC,183.0
+skcet-coimbatore-2718,2718,"Sri Krishna College of Engineering and Technology (SKCET), Coimbatore",Electronics and Communication Engineering,ECE,2022,SC,168.0
+skcet-coimbatore-2718,2718,"Sri Krishna College of Engineering and Technology (SKCET), Coimbatore",Electronics and Communication Engineering,ECE,2022,SCA,160.0
+skcet-coimbatore-2718,2718,"Sri Krishna College of Engineering and Technology (SKCET), Coimbatore",Electronics and Communication Engineering,ECE,2022,ST,144.0
+rec-chennai-1211,1211,"Rajalakshmi Engineering College (REC), Thandalam, Chennai",Computer Science and Engineering,CSE,2023,OC,193.5
+rec-chennai-1211,1211,"Rajalakshmi Engineering College (REC), Thandalam, Chennai",Computer Science and Engineering,CSE,2023,BC,192.0
+rec-chennai-1211,1211,"Rajalakshmi Engineering College (REC), Thandalam, Chennai",Computer Science and Engineering,CSE,2023,BCM,190.5
+rec-chennai-1211,1211,"Rajalakshmi Engineering College (REC), Thandalam, Chennai",Computer Science and Engineering,CSE,2023,MBC,188.0
+rec-chennai-1211,1211,"Rajalakshmi Engineering College (REC), Thandalam, Chennai",Computer Science and Engineering,CSE,2023,SC,176.0
+rec-chennai-1211,1211,"Rajalakshmi Engineering College (REC), Thandalam, Chennai",Computer Science and Engineering,CSE,2023,SCA,169.0
+rec-chennai-1211,1211,"Rajalakshmi Engineering College (REC), Thandalam, Chennai",Computer Science and Engineering,CSE,2023,ST,155.0
+rec-chennai-1211,1211,"Rajalakshmi Engineering College (REC), Thandalam, Chennai",Computer Science and Engineering,CSE,2022,OC,192.0
+rec-chennai-1211,1211,"Rajalakshmi Engineering College (REC), Thandalam, Chennai",Computer Science and Engineering,CSE,2022,BC,190.5
+rec-chennai-1211,1211,"Rajalakshmi Engineering College (REC), Thandalam, Chennai",Computer Science and Engineering,CSE,2022,BCM,188.5
+rec-chennai-1211,1211,"Rajalakshmi Engineering College (REC), Thandalam, Chennai",Computer Science and Engineering,CSE,2022,MBC,186.0
+rec-chennai-1211,1211,"Rajalakshmi Engineering College (REC), Thandalam, Chennai",Computer Science and Engineering,CSE,2022,SC,172.0
+rec-chennai-1211,1211,"Rajalakshmi Engineering College (REC), Thandalam, Chennai",Computer Science and Engineering,CSE,2022,SCA,165.0
+rec-chennai-1211,1211,"Rajalakshmi Engineering College (REC), Thandalam, Chennai",Computer Science and Engineering,CSE,2022,ST,150.0
+rec-chennai-1211,1211,"Rajalakshmi Engineering College (REC), Thandalam, Chennai",Information Technology,IT,2023,OC,192.0
+rec-chennai-1211,1211,"Rajalakshmi Engineering College (REC), Thandalam, Chennai",Information Technology,IT,2023,BC,190.5
+rec-chennai-1211,1211,"Rajalakshmi Engineering College (REC), Thandalam, Chennai",Information Technology,IT,2023,BCM,189.0
+rec-chennai-1211,1211,"Rajalakshmi Engineering College (REC), Thandalam, Chennai",Information Technology,IT,2023,MBC,186.5
+rec-chennai-1211,1211,"Rajalakshmi Engineering College (REC), Thandalam, Chennai",Information Technology,IT,2023,SC,174.0
+rec-chennai-1211,1211,"Rajalakshmi Engineering College (REC), Thandalam, Chennai",Information Technology,IT,2023,SCA,166.5
+rec-chennai-1211,1211,"Rajalakshmi Engineering College (REC), Thandalam, Chennai",Information Technology,IT,2023,ST,152.0
+rec-chennai-1211,1211,"Rajalakshmi Engineering College (REC), Thandalam, Chennai",Information Technology,IT,2022,OC,190.5
+rec-chennai-1211,1211,"Rajalakshmi Engineering College (REC), Thandalam, Chennai",Information Technology,IT,2022,BC,188.5
+rec-chennai-1211,1211,"Rajalakshmi Engineering College (REC), Thandalam, Chennai",Information Technology,IT,2022,BCM,187.0
+rec-chennai-1211,1211,"Rajalakshmi Engineering College (REC), Thandalam, Chennai",Information Technology,IT,2022,MBC,184.0
+rec-chennai-1211,1211,"Rajalakshmi Engineering College (REC), Thandalam, Chennai",Information Technology,IT,2022,SC,169.5
+rec-chennai-1211,1211,"Rajalakshmi Engineering College (REC), Thandalam, Chennai",Information Technology,IT,2022,SCA,162.0
+rec-chennai-1211,1211,"Rajalakshmi Engineering College (REC), Thandalam, Chennai",Information Technology,IT,2022,ST,147.0
+rec-chennai-1211,1211,"Rajalakshmi Engineering College (REC), Thandalam, Chennai",Artificial Intelligence and Machine Learning,AIML,2023,OC,192.5
+rec-chennai-1211,1211,"Rajalakshmi Engineering College (REC), Thandalam, Chennai",Artificial Intelligence and Machine Learning,AIML,2023,BC,191.0
+rec-chennai-1211,1211,"Rajalakshmi Engineering College (REC), Thandalam, Chennai",Artificial Intelligence and Machine Learning,AIML,2023,BCM,189.5
+rec-chennai-1211,1211,"Rajalakshmi Engineering College (REC), Thandalam, Chennai",Artificial Intelligence and Machine Learning,AIML,2023,MBC,187.0
+rec-chennai-1211,1211,"Rajalakshmi Engineering College (REC), Thandalam, Chennai",Artificial Intelligence and Machine Learning,AIML,2023,SC,175.0
+rec-chennai-1211,1211,"Rajalakshmi Engineering College (REC), Thandalam, Chennai",Artificial Intelligence and Machine Learning,AIML,2023,SCA,167.5
+rec-chennai-1211,1211,"Rajalakshmi Engineering College (REC), Thandalam, Chennai",Artificial Intelligence and Machine Learning,AIML,2023,ST,153.0
+rec-chennai-1211,1211,"Rajalakshmi Engineering College (REC), Thandalam, Chennai",Artificial Intelligence and Machine Learning,AIML,2022,OC,191.0
+rec-chennai-1211,1211,"Rajalakshmi Engineering College (REC), Thandalam, Chennai",Artificial Intelligence and Machine Learning,AIML,2022,BC,189.0
+rec-chennai-1211,1211,"Rajalakshmi Engineering College (REC), Thandalam, Chennai",Artificial Intelligence and Machine Learning,AIML,2022,BCM,187.5
+rec-chennai-1211,1211,"Rajalakshmi Engineering College (REC), Thandalam, Chennai",Artificial Intelligence and Machine Learning,AIML,2022,MBC,185.0
+rec-chennai-1211,1211,"Rajalakshmi Engineering College (REC), Thandalam, Chennai",Artificial Intelligence and Machine Learning,AIML,2022,SC,170.5
+rec-chennai-1211,1211,"Rajalakshmi Engineering College (REC), Thandalam, Chennai",Artificial Intelligence and Machine Learning,AIML,2022,SCA,163.0
+rec-chennai-1211,1211,"Rajalakshmi Engineering College (REC), Thandalam, Chennai",Artificial Intelligence and Machine Learning,AIML,2022,ST,148.0
+rec-chennai-1211,1211,"Rajalakshmi Engineering College (REC), Thandalam, Chennai",Electronics and Communication Engineering,ECE,2023,OC,190.5
+rec-chennai-1211,1211,"Rajalakshmi Engineering College (REC), Thandalam, Chennai",Electronics and Communication Engineering,ECE,2023,BC,188.0
+rec-chennai-1211,1211,"Rajalakshmi Engineering College (REC), Thandalam, Chennai",Electronics and Communication Engineering,ECE,2023,BCM,186.0
+rec-chennai-1211,1211,"Rajalakshmi Engineering College (REC), Thandalam, Chennai",Electronics and Communication Engineering,ECE,2023,MBC,184.0
+rec-chennai-1211,1211,"Rajalakshmi Engineering College (REC), Thandalam, Chennai",Electronics and Communication Engineering,ECE,2023,SC,170.0
+rec-chennai-1211,1211,"Rajalakshmi Engineering College (REC), Thandalam, Chennai",Electronics and Communication Engineering,ECE,2023,SCA,162.0
+rec-chennai-1211,1211,"Rajalakshmi Engineering College (REC), Thandalam, Chennai",Electronics and Communication Engineering,ECE,2023,ST,147.0
+rec-chennai-1211,1211,"Rajalakshmi Engineering College (REC), Thandalam, Chennai",Electronics and Communication Engineering,ECE,2022,OC,188.5
+rec-chennai-1211,1211,"Rajalakshmi Engineering College (REC), Thandalam, Chennai",Electronics and Communication Engineering,ECE,2022,BC,186.0
+rec-chennai-1211,1211,"Rajalakshmi Engineering College (REC), Thandalam, Chennai",Electronics and Communication Engineering,ECE,2022,BCM,184.0
+rec-chennai-1211,1211,"Rajalakshmi Engineering College (REC), Thandalam, Chennai",Electronics and Communication Engineering,ECE,2022,MBC,181.5
+rec-chennai-1211,1211,"Rajalakshmi Engineering College (REC), Thandalam, Chennai",Electronics and Communication Engineering,ECE,2022,SC,166.0
+rec-chennai-1211,1211,"Rajalakshmi Engineering College (REC), Thandalam, Chennai",Electronics and Communication Engineering,ECE,2022,SCA,158.0
+rec-chennai-1211,1211,"Rajalakshmi Engineering College (REC), Thandalam, Chennai",Electronics and Communication Engineering,ECE,2022,ST,142.0
+kongu-erode-2711,2711,"Kongu Engineering College, Perundurai, Erode",Computer Science and Engineering,CSE,2023,OC,192.5
+kongu-erode-2711,2711,"Kongu Engineering College, Perundurai, Erode",Computer Science and Engineering,CSE,2023,BC,190.5
+kongu-erode-2711,2711,"Kongu Engineering College, Perundurai, Erode",Computer Science and Engineering,CSE,2023,BCM,189.0
+kongu-erode-2711,2711,"Kongu Engineering College, Perundurai, Erode",Computer Science and Engineering,CSE,2023,MBC,186.5
+kongu-erode-2711,2711,"Kongu Engineering College, Perundurai, Erode",Computer Science and Engineering,CSE,2023,SC,173.0
+kongu-erode-2711,2711,"Kongu Engineering College, Perundurai, Erode",Computer Science and Engineering,CSE,2023,SCA,165.0
+kongu-erode-2711,2711,"Kongu Engineering College, Perundurai, Erode",Computer Science and Engineering,CSE,2023,ST,150.0
+kongu-erode-2711,2711,"Kongu Engineering College, Perundurai, Erode",Computer Science and Engineering,CSE,2022,OC,190.5
+kongu-erode-2711,2711,"Kongu Engineering College, Perundurai, Erode",Computer Science and Engineering,CSE,2022,BC,188.5
+kongu-erode-2711,2711,"Kongu Engineering College, Perundurai, Erode",Computer Science and Engineering,CSE,2022,BCM,187.0
+kongu-erode-2711,2711,"Kongu Engineering College, Perundurai, Erode",Computer Science and Engineering,CSE,2022,MBC,184.0
+kongu-erode-2711,2711,"Kongu Engineering College, Perundurai, Erode",Computer Science and Engineering,CSE,2022,SC,169.0
+kongu-erode-2711,2711,"Kongu Engineering College, Perundurai, Erode",Computer Science and Engineering,CSE,2022,SCA,161.0
+kongu-erode-2711,2711,"Kongu Engineering College, Perundurai, Erode",Computer Science and Engineering,CSE,2022,ST,146.0
+kongu-erode-2711,2711,"Kongu Engineering College, Perundurai, Erode",Information Technology,IT,2023,OC,190.5
+kongu-erode-2711,2711,"Kongu Engineering College, Perundurai, Erode",Information Technology,IT,2023,BC,188.5
+kongu-erode-2711,2711,"Kongu Engineering College, Perundurai, Erode",Information Technology,IT,2023,BCM,187.0
+kongu-erode-2711,2711,"Kongu Engineering College, Perundurai, Erode",Information Technology,IT,2023,MBC,184.5
+kongu-erode-2711,2711,"Kongu Engineering College, Perundurai, Erode",Information Technology,IT,2023,SC,170.0
+kongu-erode-2711,2711,"Kongu Engineering College, Perundurai, Erode",Information Technology,IT,2023,SCA,162.0
+kongu-erode-2711,2711,"Kongu Engineering College, Perundurai, Erode",Information Technology,IT,2023,ST,147.0
+kongu-erode-2711,2711,"Kongu Engineering College, Perundurai, Erode",Information Technology,IT,2022,OC,188.5
+kongu-erode-2711,2711,"Kongu Engineering College, Perundurai, Erode",Information Technology,IT,2022,BC,186.5
+kongu-erode-2711,2711,"Kongu Engineering College, Perundurai, Erode",Information Technology,IT,2022,BCM,185.0
+kongu-erode-2711,2711,"Kongu Engineering College, Perundurai, Erode",Information Technology,IT,2022,MBC,182.0
+kongu-erode-2711,2711,"Kongu Engineering College, Perundurai, Erode",Information Technology,IT,2022,SC,166.0
+kongu-erode-2711,2711,"Kongu Engineering College, Perundurai, Erode",Information Technology,IT,2022,SCA,158.0
+kongu-erode-2711,2711,"Kongu Engineering College, Perundurai, Erode",Information Technology,IT,2022,ST,142.0
+kongu-erode-2711,2711,"Kongu Engineering College, Perundurai, Erode",Electronics and Communication Engineering,ECE,2023,OC,189.0
+kongu-erode-2711,2711,"Kongu Engineering College, Perundurai, Erode",Electronics and Communication Engineering,ECE,2023,BC,186.5
+kongu-erode-2711,2711,"Kongu Engineering College, Perundurai, Erode",Electronics and Communication Engineering,ECE,2023,BCM,185.0
+kongu-erode-2711,2711,"Kongu Engineering College, Perundurai, Erode",Electronics and Communication Engineering,ECE,2023,MBC,182.5
+kongu-erode-2711,2711,"Kongu Engineering College, Perundurai, Erode",Electronics and Communication Engineering,ECE,2023,SC,167.0
+kongu-erode-2711,2711,"Kongu Engineering College, Perundurai, Erode",Electronics and Communication Engineering,ECE,2023,SCA,159.0
+kongu-erode-2711,2711,"Kongu Engineering College, Perundurai, Erode",Electronics and Communication Engineering,ECE,2023,ST,144.0
+kongu-erode-2711,2711,"Kongu Engineering College, Perundurai, Erode",Electronics and Communication Engineering,ECE,2022,OC,187.0
+kongu-erode-2711,2711,"Kongu Engineering College, Perundurai, Erode",Electronics and Communication Engineering,ECE,2022,BC,184.5
+kongu-erode-2711,2711,"Kongu Engineering College, Perundurai, Erode",Electronics and Communication Engineering,ECE,2022,BCM,183.0
+kongu-erode-2711,2711,"Kongu Engineering College, Perundurai, Erode",Electronics and Communication Engineering,ECE,2022,MBC,180.0
+kongu-erode-2711,2711,"Kongu Engineering College, Perundurai, Erode",Electronics and Communication Engineering,ECE,2022,SC,163.0
+kongu-erode-2711,2711,"Kongu Engineering College, Perundurai, Erode",Electronics and Communication Engineering,ECE,2022,SCA,155.0
+kongu-erode-2711,2711,"Kongu Engineering College, Perundurai, Erode",Electronics and Communication Engineering,ECE,2022,ST,139.0
+kongu-erode-2711,2711,"Kongu Engineering College, Perundurai, Erode",Mechanical Engineering,MECH,2023,OC,177.0
+kongu-erode-2711,2711,"Kongu Engineering College, Perundurai, Erode",Mechanical Engineering,MECH,2023,BC,171.0
+kongu-erode-2711,2711,"Kongu Engineering College, Perundurai, Erode",Mechanical Engineering,MECH,2023,BCM,167.0
+kongu-erode-2711,2711,"Kongu Engineering College, Perundurai, Erode",Mechanical Engineering,MECH,2023,MBC,164.0
+kongu-erode-2711,2711,"Kongu Engineering College, Perundurai, Erode",Mechanical Engineering,MECH,2023,SC,146.0
+kongu-erode-2711,2711,"Kongu Engineering College, Perundurai, Erode",Mechanical Engineering,MECH,2023,SCA,138.0
+kongu-erode-2711,2711,"Kongu Engineering College, Perundurai, Erode",Mechanical Engineering,MECH,2023,ST,125.0
+kongu-erode-2711,2711,"Kongu Engineering College, Perundurai, Erode",Mechanical Engineering,MECH,2022,OC,174.0
+kongu-erode-2711,2711,"Kongu Engineering College, Perundurai, Erode",Mechanical Engineering,MECH,2022,BC,168.0
+kongu-erode-2711,2711,"Kongu Engineering College, Perundurai, Erode",Mechanical Engineering,MECH,2022,BCM,164.0
+kongu-erode-2711,2711,"Kongu Engineering College, Perundurai, Erode",Mechanical Engineering,MECH,2022,MBC,160.0
+kongu-erode-2711,2711,"Kongu Engineering College, Perundurai, Erode",Mechanical Engineering,MECH,2022,SC,141.0
+kongu-erode-2711,2711,"Kongu Engineering College, Perundurai, Erode",Mechanical Engineering,MECH,2022,SCA,133.0
+kongu-erode-2711,2711,"Kongu Engineering College, Perundurai, Erode",Mechanical Engineering,MECH,2022,ST,120.0
+gce-salem-1013,1013,"Government College of Engineering, Salem",Computer Science and Engineering,CSE,2023,OC,193.0
+gce-salem-1013,1013,"Government College of Engineering, Salem",Computer Science and Engineering,CSE,2023,BC,191.0
+gce-salem-1013,1013,"Government College of Engineering, Salem",Computer Science and Engineering,CSE,2023,BCM,189.5
+gce-salem-1013,1013,"Government College of Engineering, Salem",Computer Science and Engineering,CSE,2023,MBC,187.0
+gce-salem-1013,1013,"Government College of Engineering, Salem",Computer Science and Engineering,CSE,2023,SC,175.0
+gce-salem-1013,1013,"Government College of Engineering, Salem",Computer Science and Engineering,CSE,2023,SCA,168.0
+gce-salem-1013,1013,"Government College of Engineering, Salem",Computer Science and Engineering,CSE,2023,ST,154.0
+gce-salem-1013,1013,"Government College of Engineering, Salem",Computer Science and Engineering,CSE,2022,OC,191.0
+gce-salem-1013,1013,"Government College of Engineering, Salem",Computer Science and Engineering,CSE,2022,BC,189.0
+gce-salem-1013,1013,"Government College of Engineering, Salem",Computer Science and Engineering,CSE,2022,BCM,187.5
+gce-salem-1013,1013,"Government College of Engineering, Salem",Computer Science and Engineering,CSE,2022,MBC,185.0
+gce-salem-1013,1013,"Government College of Engineering, Salem",Computer Science and Engineering,CSE,2022,SC,171.0
+gce-salem-1013,1013,"Government College of Engineering, Salem",Computer Science and Engineering,CSE,2022,SCA,164.0
+gce-salem-1013,1013,"Government College of Engineering, Salem",Computer Science and Engineering,CSE,2022,ST,150.0
+gce-salem-1013,1013,"Government College of Engineering, Salem",Electronics and Communication Engineering,ECE,2023,OC,190.5
+gce-salem-1013,1013,"Government College of Engineering, Salem",Electronics and Communication Engineering,ECE,2023,BC,188.0
+gce-salem-1013,1013,"Government College of Engineering, Salem",Electronics and Communication Engineering,ECE,2023,BCM,186.0
+gce-salem-1013,1013,"Government College of Engineering, Salem",Electronics and Communication Engineering,ECE,2023,MBC,184.0
+gce-salem-1013,1013,"Government College of Engineering, Salem",Electronics and Communication Engineering,ECE,2023,SC,171.0
+gce-salem-1013,1013,"Government College of Engineering, Salem",Electronics and Communication Engineering,ECE,2023,SCA,163.0
+gce-salem-1013,1013,"Government College of Engineering, Salem",Electronics and Communication Engineering,ECE,2023,ST,149.0
+gce-salem-1013,1013,"Government College of Engineering, Salem",Electronics and Communication Engineering,ECE,2022,OC,188.5
+gce-salem-1013,1013,"Government College of Engineering, Salem",Electronics and Communication Engineering,ECE,2022,BC,186.0
+gce-salem-1013,1013,"Government College of Engineering, Salem",Electronics and Communication Engineering,ECE,2022,BCM,184.0
+gce-salem-1013,1013,"Government College of Engineering, Salem",Electronics and Communication Engineering,ECE,2022,MBC,181.5
+gce-salem-1013,1013,"Government College of Engineering, Salem",Electronics and Communication Engineering,ECE,2022,SC,167.0
+gce-salem-1013,1013,"Government College of Engineering, Salem",Electronics and Communication Engineering,ECE,2022,SCA,159.0
+gce-salem-1013,1013,"Government College of Engineering, Salem",Electronics and Communication Engineering,ECE,2022,ST,145.0
+gce-salem-1013,1013,"Government College of Engineering, Salem",Mechanical Engineering,MECH,2023,OC,182.0
+gce-salem-1013,1013,"Government College of Engineering, Salem",Mechanical Engineering,MECH,2023,BC,176.5
+gce-salem-1013,1013,"Government College of Engineering, Salem",Mechanical Engineering,MECH,2023,BCM,173.0
+gce-salem-1013,1013,"Government College of Engineering, Salem",Mechanical Engineering,MECH,2023,MBC,171.0
+gce-salem-1013,1013,"Government College of Engineering, Salem",Mechanical Engineering,MECH,2023,SC,155.0
+gce-salem-1013,1013,"Government College of Engineering, Salem",Mechanical Engineering,MECH,2023,SCA,147.0
+gce-salem-1013,1013,"Government College of Engineering, Salem",Mechanical Engineering,MECH,2023,ST,135.0
+gce-salem-1013,1013,"Government College of Engineering, Salem",Mechanical Engineering,MECH,2022,OC,179.0
+gce-salem-1013,1013,"Government College of Engineering, Salem",Mechanical Engineering,MECH,2022,BC,173.5
+gce-salem-1013,1013,"Government College of Engineering, Salem",Mechanical Engineering,MECH,2022,BCM,170.0
+gce-salem-1013,1013,"Government College of Engineering, Salem",Mechanical Engineering,MECH,2022,MBC,168.0
+gce-salem-1013,1013,"Government College of Engineering, Salem",Mechanical Engineering,MECH,2022,SC,150.0
+gce-salem-1013,1013,"Government College of Engineering, Salem",Mechanical Engineering,MECH,2022,SCA,142.0
+gce-salem-1013,1013,"Government College of Engineering, Salem",Mechanical Engineering,MECH,2022,ST,130.0
+gce-tirunelveli-4004,4004,"Government College of Engineering, Tirunelveli",Computer Science and Engineering,CSE,2023,OC,192.0
+gce-tirunelveli-4004,4004,"Government College of Engineering, Tirunelveli",Computer Science and Engineering,CSE,2023,BC,190.0
+gce-tirunelveli-4004,4004,"Government College of Engineering, Tirunelveli",Computer Science and Engineering,CSE,2023,BCM,188.5
+gce-tirunelveli-4004,4004,"Government College of Engineering, Tirunelveli",Computer Science and Engineering,CSE,2023,MBC,186.0
+gce-tirunelveli-4004,4004,"Government College of Engineering, Tirunelveli",Computer Science and Engineering,CSE,2023,SC,173.0
+gce-tirunelveli-4004,4004,"Government College of Engineering, Tirunelveli",Computer Science and Engineering,CSE,2023,SCA,166.0
+gce-tirunelveli-4004,4004,"Government College of Engineering, Tirunelveli",Computer Science and Engineering,CSE,2023,ST,152.0
+gce-tirunelveli-4004,4004,"Government College of Engineering, Tirunelveli",Computer Science and Engineering,CSE,2022,OC,190.0
+gce-tirunelveli-4004,4004,"Government College of Engineering, Tirunelveli",Computer Science and Engineering,CSE,2022,BC,188.0
+gce-tirunelveli-4004,4004,"Government College of Engineering, Tirunelveli",Computer Science and Engineering,CSE,2022,BCM,186.5
+gce-tirunelveli-4004,4004,"Government College of Engineering, Tirunelveli",Computer Science and Engineering,CSE,2022,MBC,184.0
+gce-tirunelveli-4004,4004,"Government College of Engineering, Tirunelveli",Computer Science and Engineering,CSE,2022,SC,169.0
+gce-tirunelveli-4004,4004,"Government College of Engineering, Tirunelveli",Computer Science and Engineering,CSE,2022,SCA,162.0
+gce-tirunelveli-4004,4004,"Government College of Engineering, Tirunelveli",Computer Science and Engineering,CSE,2022,ST,148.0
+gce-tirunelveli-4004,4004,"Government College of Engineering, Tirunelveli",Electronics and Communication Engineering,ECE,2023,OC,189.5
+gce-tirunelveli-4004,4004,"Government College of Engineering, Tirunelveli",Electronics and Communication Engineering,ECE,2023,BC,187.0
+gce-tirunelveli-4004,4004,"Government College of Engineering, Tirunelveli",Electronics and Communication Engineering,ECE,2023,BCM,185.0
+gce-tirunelveli-4004,4004,"Government College of Engineering, Tirunelveli",Electronics and Communication Engineering,ECE,2023,MBC,183.0
+gce-tirunelveli-4004,4004,"Government College of Engineering, Tirunelveli",Electronics and Communication Engineering,ECE,2023,SC,169.0
+gce-tirunelveli-4004,4004,"Government College of Engineering, Tirunelveli",Electronics and Communication Engineering,ECE,2023,SCA,161.0
+gce-tirunelveli-4004,4004,"Government College of Engineering, Tirunelveli",Electronics and Communication Engineering,ECE,2023,ST,147.0
+gce-tirunelveli-4004,4004,"Government College of Engineering, Tirunelveli",Electronics and Communication Engineering,ECE,2022,OC,187.5
+gce-tirunelveli-4004,4004,"Government College of Engineering, Tirunelveli",Electronics and Communication Engineering,ECE,2022,BC,185.0
+gce-tirunelveli-4004,4004,"Government College of Engineering, Tirunelveli",Electronics and Communication Engineering,ECE,2022,BCM,183.0
+gce-tirunelveli-4004,4004,"Government College of Engineering, Tirunelveli",Electronics and Communication Engineering,ECE,2022,MBC,180.5
+gce-tirunelveli-4004,4004,"Government College of Engineering, Tirunelveli",Electronics and Communication Engineering,ECE,2022,SC,165.0
+gce-tirunelveli-4004,4004,"Government College of Engineering, Tirunelveli",Electronics and Communication Engineering,ECE,2022,SCA,157.0
+gce-tirunelveli-4004,4004,"Government College of Engineering, Tirunelveli",Electronics and Communication Engineering,ECE,2022,ST,143.0
+gce-tirunelveli-4004,4004,"Government College of Engineering, Tirunelveli",Mechanical Engineering,MECH,2023,OC,179.5
+gce-tirunelveli-4004,4004,"Government College of Engineering, Tirunelveli",Mechanical Engineering,MECH,2023,BC,173.5
+gce-tirunelveli-4004,4004,"Government College of Engineering, Tirunelveli",Mechanical Engineering,MECH,2023,BCM,170.0
+gce-tirunelveli-4004,4004,"Government College of Engineering, Tirunelveli",Mechanical Engineering,MECH,2023,MBC,168.0
+gce-tirunelveli-4004,4004,"Government College of Engineering, Tirunelveli",Mechanical Engineering,MECH,2023,SC,151.0
+gce-tirunelveli-4004,4004,"Government College of Engineering, Tirunelveli",Mechanical Engineering,MECH,2023,SCA,143.0
+gce-tirunelveli-4004,4004,"Government College of Engineering, Tirunelveli",Mechanical Engineering,MECH,2023,ST,131.0
+gce-tirunelveli-4004,4004,"Government College of Engineering, Tirunelveli",Mechanical Engineering,MECH,2022,OC,176.5
+gce-tirunelveli-4004,4004,"Government College of Engineering, Tirunelveli",Mechanical Engineering,MECH,2022,BC,170.5
+gce-tirunelveli-4004,4004,"Government College of Engineering, Tirunelveli",Mechanical Engineering,MECH,2022,BCM,167.0
+gce-tirunelveli-4004,4004,"Government College of Engineering, Tirunelveli",Mechanical Engineering,MECH,2022,MBC,165.0
+gce-tirunelveli-4004,4004,"Government College of Engineering, Tirunelveli",Mechanical Engineering,MECH,2022,SC,147.0
+gce-tirunelveli-4004,4004,"Government College of Engineering, Tirunelveli",Mechanical Engineering,MECH,2022,SCA,139.0
+gce-tirunelveli-4004,4004,"Government College of Engineering, Tirunelveli",Mechanical Engineering,MECH,2022,ST,126.0
+bannari-amman-2702,2702,Bannari Amman Institute of Technology,Computer Science and Engineering,CSE,2023,OC,192.5
+bannari-amman-2702,2702,Bannari Amman Institute of Technology,Computer Science and Engineering,CSE,2023,BC,190.0
+bannari-amman-2702,2702,Bannari Amman Institute of Technology,Computer Science and Engineering,CSE,2023,BCM,188.5
+bannari-amman-2702,2702,Bannari Amman Institute of Technology,Computer Science and Engineering,CSE,2023,MBC,186.5
+bannari-amman-2702,2702,Bannari Amman Institute of Technology,Computer Science and Engineering,CSE,2023,SC,172.0
+bannari-amman-2702,2702,Bannari Amman Institute of Technology,Computer Science and Engineering,CSE,2023,SCA,164.0
+bannari-amman-2702,2702,Bannari Amman Institute of Technology,Computer Science and Engineering,CSE,2023,ST,150.0
+bannari-amman-2702,2702,Bannari Amman Institute of Technology,Computer Science and Engineering,CSE,2022,OC,190.5
+bannari-amman-2702,2702,Bannari Amman Institute of Technology,Computer Science and Engineering,CSE,2022,BC,188.0
+bannari-amman-2702,2702,Bannari Amman Institute of Technology,Computer Science and Engineering,CSE,2022,BCM,186.5
+bannari-amman-2702,2702,Bannari Amman Institute of Technology,Computer Science and Engineering,CSE,2022,MBC,184.5
+bannari-amman-2702,2702,Bannari Amman Institute of Technology,Computer Science and Engineering,CSE,2022,SC,168.0
+bannari-amman-2702,2702,Bannari Amman Institute of Technology,Computer Science and Engineering,CSE,2022,SCA,160.0
+bannari-amman-2702,2702,Bannari Amman Institute of Technology,Computer Science and Engineering,CSE,2022,ST,146.0
+bannari-amman-2702,2702,Bannari Amman Institute of Technology,Information Technology,IT,2023,OC,190.0
+bannari-amman-2702,2702,Bannari Amman Institute of Technology,Information Technology,IT,2023,BC,187.5
+bannari-amman-2702,2702,Bannari Amman Institute of Technology,Information Technology,IT,2023,BCM,186.0
+bannari-amman-2702,2702,Bannari Amman Institute of Technology,Information Technology,IT,2023,MBC,184.0
+bannari-amman-2702,2702,Bannari Amman Institute of Technology,Information Technology,IT,2023,SC,168.0
+bannari-amman-2702,2702,Bannari Amman Institute of Technology,Information Technology,IT,2023,SCA,160.0
+bannari-amman-2702,2702,Bannari Amman Institute of Technology,Information Technology,IT,2023,ST,146.0
+bannari-amman-2702,2702,Bannari Amman Institute of Technology,Information Technology,IT,2022,OC,188.0
+bannari-amman-2702,2702,Bannari Amman Institute of Technology,Information Technology,IT,2022,BC,185.5
+bannari-amman-2702,2702,Bannari Amman Institute of Technology,Information Technology,IT,2022,BCM,184.0
+bannari-amman-2702,2702,Bannari Amman Institute of Technology,Information Technology,IT,2022,MBC,181.5
+bannari-amman-2702,2702,Bannari Amman Institute of Technology,Information Technology,IT,2022,SC,164.0
+bannari-amman-2702,2702,Bannari Amman Institute of Technology,Information Technology,IT,2022,SCA,156.0
+bannari-amman-2702,2702,Bannari Amman Institute of Technology,Information Technology,IT,2022,ST,142.0
+bannari-amman-2702,2702,Bannari Amman Institute of Technology,Electronics and Communication Engineering,ECE,2023,OC,188.5
+bannari-amman-2702,2702,Bannari Amman Institute of Technology,Electronics and Communication Engineering,ECE,2023,BC,185.5
+bannari-amman-2702,2702,Bannari Amman Institute of Technology,Electronics and Communication Engineering,ECE,2023,BCM,184.0
+bannari-amman-2702,2702,Bannari Amman Institute of Technology,Electronics and Communication Engineering,ECE,2023,MBC,181.5
+bannari-amman-2702,2702,Bannari Amman Institute of Technology,Electronics and Communication Engineering,ECE,2023,SC,165.0
+bannari-amman-2702,2702,Bannari Amman Institute of Technology,Electronics and Communication Engineering,ECE,2023,SCA,157.0
+bannari-amman-2702,2702,Bannari Amman Institute of Technology,Electronics and Communication Engineering,ECE,2023,ST,143.0
+bannari-amman-2702,2702,Bannari Amman Institute of Technology,Electronics and Communication Engineering,ECE,2022,OC,186.5
+bannari-amman-2702,2702,Bannari Amman Institute of Technology,Electronics and Communication Engineering,ECE,2022,BC,183.5
+bannari-amman-2702,2702,Bannari Amman Institute of Technology,Electronics and Communication Engineering,ECE,2022,BCM,182.0
+bannari-amman-2702,2702,Bannari Amman Institute of Technology,Electronics and Communication Engineering,ECE,2022,MBC,179.0
+bannari-amman-2702,2702,Bannari Amman Institute of Technology,Electronics and Communication Engineering,ECE,2022,SC,161.0
+bannari-amman-2702,2702,Bannari Amman Institute of Technology,Electronics and Communication Engineering,ECE,2022,SCA,153.0
+bannari-amman-2702,2702,Bannari Amman Institute of Technology,Electronics and Communication Engineering,ECE,2022,ST,139.0
+mepco-schlenk-4960,4960,Mepco Schlenk Engineering College,Computer Science and Engineering,CSE,2023,OC,193.0
+mepco-schlenk-4960,4960,Mepco Schlenk Engineering College,Computer Science and Engineering,CSE,2023,BC,190.5
+mepco-schlenk-4960,4960,Mepco Schlenk Engineering College,Computer Science and Engineering,CSE,2023,BCM,189.0
+mepco-schlenk-4960,4960,Mepco Schlenk Engineering College,Computer Science and Engineering,CSE,2023,MBC,187.0
+mepco-schlenk-4960,4960,Mepco Schlenk Engineering College,Computer Science and Engineering,CSE,2023,SC,173.0
+mepco-schlenk-4960,4960,Mepco Schlenk Engineering College,Computer Science and Engineering,CSE,2023,SCA,165.0
+mepco-schlenk-4960,4960,Mepco Schlenk Engineering College,Computer Science and Engineering,CSE,2023,ST,151.0
+mepco-schlenk-4960,4960,Mepco Schlenk Engineering College,Computer Science and Engineering,CSE,2022,OC,191.0
+mepco-schlenk-4960,4960,Mepco Schlenk Engineering College,Computer Science and Engineering,CSE,2022,BC,188.5
+mepco-schlenk-4960,4960,Mepco Schlenk Engineering College,Computer Science and Engineering,CSE,2022,BCM,187.0
+mepco-schlenk-4960,4960,Mepco Schlenk Engineering College,Computer Science and Engineering,CSE,2022,MBC,185.0
+mepco-schlenk-4960,4960,Mepco Schlenk Engineering College,Computer Science and Engineering,CSE,2022,SC,169.0
+mepco-schlenk-4960,4960,Mepco Schlenk Engineering College,Computer Science and Engineering,CSE,2022,SCA,161.0
+mepco-schlenk-4960,4960,Mepco Schlenk Engineering College,Computer Science and Engineering,CSE,2022,ST,147.0
+mepco-schlenk-4960,4960,Mepco Schlenk Engineering College,Electronics and Communication Engineering,ECE,2023,OC,189.5
+mepco-schlenk-4960,4960,Mepco Schlenk Engineering College,Electronics and Communication Engineering,ECE,2023,BC,186.5
+mepco-schlenk-4960,4960,Mepco Schlenk Engineering College,Electronics and Communication Engineering,ECE,2023,BCM,185.0
+mepco-schlenk-4960,4960,Mepco Schlenk Engineering College,Electronics and Communication Engineering,ECE,2023,MBC,182.5
+mepco-schlenk-4960,4960,Mepco Schlenk Engineering College,Electronics and Communication Engineering,ECE,2023,SC,166.0
+mepco-schlenk-4960,4960,Mepco Schlenk Engineering College,Electronics and Communication Engineering,ECE,2023,SCA,158.0
+mepco-schlenk-4960,4960,Mepco Schlenk Engineering College,Electronics and Communication Engineering,ECE,2023,ST,144.0
+mepco-schlenk-4960,4960,Mepco Schlenk Engineering College,Electronics and Communication Engineering,ECE,2022,OC,187.5
+mepco-schlenk-4960,4960,Mepco Schlenk Engineering College,Electronics and Communication Engineering,ECE,2022,BC,184.5
+mepco-schlenk-4960,4960,Mepco Schlenk Engineering College,Electronics and Communication Engineering,ECE,2022,BCM,183.0
+mepco-schlenk-4960,4960,Mepco Schlenk Engineering College,Electronics and Communication Engineering,ECE,2022,MBC,180.0
+mepco-schlenk-4960,4960,Mepco Schlenk Engineering College,Electronics and Communication Engineering,ECE,2022,SC,162.0
+mepco-schlenk-4960,4960,Mepco Schlenk Engineering College,Electronics and Communication Engineering,ECE,2022,SCA,154.0
+mepco-schlenk-4960,4960,Mepco Schlenk Engineering College,Electronics and Communication Engineering,ECE,2022,ST,140.0
+mepco-schlenk-4960,4960,Mepco Schlenk Engineering College,Mechanical Engineering,MECH,2023,OC,178.0
+mepco-schlenk-4960,4960,Mepco Schlenk Engineering College,Mechanical Engineering,MECH,2023,BC,172.0
+mepco-schlenk-4960,4960,Mepco Schlenk Engineering College,Mechanical Engineering,MECH,2023,BCM,168.5
+mepco-schlenk-4960,4960,Mepco Schlenk Engineering College,Mechanical Engineering,MECH,2023,MBC,166.0
+mepco-schlenk-4960,4960,Mepco Schlenk Engineering College,Mechanical Engineering,MECH,2023,SC,148.0
+mepco-schlenk-4960,4960,Mepco Schlenk Engineering College,Mechanical Engineering,MECH,2023,SCA,140.0
+mepco-schlenk-4960,4960,Mepco Schlenk Engineering College,Mechanical Engineering,MECH,2023,ST,127.0
+mepco-schlenk-4960,4960,Mepco Schlenk Engineering College,Mechanical Engineering,MECH,2022,OC,175.0
+mepco-schlenk-4960,4960,Mepco Schlenk Engineering College,Mechanical Engineering,MECH,2022,BC,169.0
+mepco-schlenk-4960,4960,Mepco Schlenk Engineering College,Mechanical Engineering,MECH,2022,BCM,165.5
+mepco-schlenk-4960,4960,Mepco Schlenk Engineering College,Mechanical Engineering,MECH,2022,MBC,163.0
+mepco-schlenk-4960,4960,Mepco Schlenk Engineering College,Mechanical Engineering,MECH,2022,SC,144.0
+mepco-schlenk-4960,4960,Mepco Schlenk Engineering College,Mechanical Engineering,MECH,2022,SCA,136.0
+mepco-schlenk-4960,4960,Mepco Schlenk Engineering College,Mechanical Engineering,MECH,2022,ST,123.0
+licet-chennai-1450,1450,Loyola-ICAM College of Engineering and Technology (LICET),Computer Science and Engineering,CSE,2023,OC,188.5
+licet-chennai-1450,1450,Loyola-ICAM College of Engineering and Technology (LICET),Computer Science and Engineering,CSE,2023,BC,185.5
+licet-chennai-1450,1450,Loyola-ICAM College of Engineering and Technology (LICET),Computer Science and Engineering,CSE,2023,BCM,184.0
+licet-chennai-1450,1450,Loyola-ICAM College of Engineering and Technology (LICET),Computer Science and Engineering,CSE,2023,MBC,181.5
+licet-chennai-1450,1450,Loyola-ICAM College of Engineering and Technology (LICET),Computer Science and Engineering,CSE,2023,SC,164.0
+licet-chennai-1450,1450,Loyola-ICAM College of Engineering and Technology (LICET),Computer Science and Engineering,CSE,2023,SCA,156.0
+licet-chennai-1450,1450,Loyola-ICAM College of Engineering and Technology (LICET),Computer Science and Engineering,CSE,2023,ST,142.0
+licet-chennai-1450,1450,Loyola-ICAM College of Engineering and Technology (LICET),Computer Science and Engineering,CSE,2022,OC,186.5
+licet-chennai-1450,1450,Loyola-ICAM College of Engineering and Technology (LICET),Computer Science and Engineering,CSE,2022,BC,183.5
+licet-chennai-1450,1450,Loyola-ICAM College of Engineering and Technology (LICET),Computer Science and Engineering,CSE,2022,BCM,182.0
+licet-chennai-1450,1450,Loyola-ICAM College of Engineering and Technology (LICET),Computer Science and Engineering,CSE,2022,MBC,179.0
+licet-chennai-1450,1450,Loyola-ICAM College of Engineering and Technology (LICET),Computer Science and Engineering,CSE,2022,SC,160.0
+licet-chennai-1450,1450,Loyola-ICAM College of Engineering and Technology (LICET),Computer Science and Engineering,CSE,2022,SCA,152.0
+licet-chennai-1450,1450,Loyola-ICAM College of Engineering and Technology (LICET),Computer Science and Engineering,CSE,2022,ST,138.0
+licet-chennai-1450,1450,Loyola-ICAM College of Engineering and Technology (LICET),Electronics and Communication Engineering,ECE,2023,OC,184.0
+licet-chennai-1450,1450,Loyola-ICAM College of Engineering and Technology (LICET),Electronics and Communication Engineering,ECE,2023,BC,180.5
+licet-chennai-1450,1450,Loyola-ICAM College of Engineering and Technology (LICET),Electronics and Communication Engineering,ECE,2023,BCM,178.5
+licet-chennai-1450,1450,Loyola-ICAM College of Engineering and Technology (LICET),Electronics and Communication Engineering,ECE,2023,MBC,176.0
+licet-chennai-1450,1450,Loyola-ICAM College of Engineering and Technology (LICET),Electronics and Communication Engineering,ECE,2023,SC,157.0
+licet-chennai-1450,1450,Loyola-ICAM College of Engineering and Technology (LICET),Electronics and Communication Engineering,ECE,2023,SCA,149.0
+licet-chennai-1450,1450,Loyola-ICAM College of Engineering and Technology (LICET),Electronics and Communication Engineering,ECE,2023,ST,135.0
+licet-chennai-1450,1450,Loyola-ICAM College of Engineering and Technology (LICET),Electronics and Communication Engineering,ECE,2022,OC,182.0
+licet-chennai-1450,1450,Loyola-ICAM College of Engineering and Technology (LICET),Electronics and Communication Engineering,ECE,2022,BC,178.5
+licet-chennai-1450,1450,Loyola-ICAM College of Engineering and Technology (LICET),Electronics and Communication Engineering,ECE,2022,BCM,176.5
+licet-chennai-1450,1450,Loyola-ICAM College of Engineering and Technology (LICET),Electronics and Communication Engineering,ECE,2022,MBC,173.5
+licet-chennai-1450,1450,Loyola-ICAM College of Engineering and Technology (LICET),Electronics and Communication Engineering,ECE,2022,SC,153.0
+licet-chennai-1450,1450,Loyola-ICAM College of Engineering and Technology (LICET),Electronics and Communication Engineering,ECE,2022,SCA,145.0
+licet-chennai-1450,1450,Loyola-ICAM College of Engineering and Technology (LICET),Electronics and Communication Engineering,ECE,2022,ST,131.0
+licet-chennai-1450,1450,Loyola-ICAM College of Engineering and Technology (LICET),Mechanical Engineering,MECH,2023,OC,170.0
+licet-chennai-1450,1450,Loyola-ICAM College of Engineering and Technology (LICET),Mechanical Engineering,MECH,2023,BC,163.5
+licet-chennai-1450,1450,Loyola-ICAM College of Engineering and Technology (LICET),Mechanical Engineering,MECH,2023,BCM,160.0
+licet-chennai-1450,1450,Loyola-ICAM College of Engineering and Technology (LICET),Mechanical Engineering,MECH,2023,MBC,157.5
+licet-chennai-1450,1450,Loyola-ICAM College of Engineering and Technology (LICET),Mechanical Engineering,MECH,2023,SC,139.0
+licet-chennai-1450,1450,Loyola-ICAM College of Engineering and Technology (LICET),Mechanical Engineering,MECH,2023,SCA,131.0
+licet-chennai-1450,1450,Loyola-ICAM College of Engineering and Technology (LICET),Mechanical Engineering,MECH,2023,ST,118.0
+licet-chennai-1450,1450,Loyola-ICAM College of Engineering and Technology (LICET),Mechanical Engineering,MECH,2022,OC,167.0
+licet-chennai-1450,1450,Loyola-ICAM College of Engineering and Technology (LICET),Mechanical Engineering,MECH,2022,BC,160.5
+licet-chennai-1450,1450,Loyola-ICAM College of Engineering and Technology (LICET),Mechanical Engineering,MECH,2022,BCM,157.0
+licet-chennai-1450,1450,Loyola-ICAM College of Engineering and Technology (LICET),Mechanical Engineering,MECH,2022,MBC,154.5
+licet-chennai-1450,1450,Loyola-ICAM College of Engineering and Technology (LICET),Mechanical Engineering,MECH,2022,SC,135.0
+licet-chennai-1450,1450,Loyola-ICAM College of Engineering and Technology (LICET),Mechanical Engineering,MECH,2022,SCA,127.0
+licet-chennai-1450,1450,Loyola-ICAM College of Engineering and Technology (LICET),Mechanical Engineering,MECH,2022,ST,114.0
+rmk-engineering-1113,1113,R.M.K. Engineering College,Computer Science and Engineering,CSE,2023,OC,191.5
+rmk-engineering-1113,1113,R.M.K. Engineering College,Computer Science and Engineering,CSE,2023,BC,189.0
+rmk-engineering-1113,1113,R.M.K. Engineering College,Computer Science and Engineering,CSE,2023,BCM,187.5
+rmk-engineering-1113,1113,R.M.K. Engineering College,Computer Science and Engineering,CSE,2023,MBC,185.5
+rmk-engineering-1113,1113,R.M.K. Engineering College,Computer Science and Engineering,CSE,2023,SC,170.0
+rmk-engineering-1113,1113,R.M.K. Engineering College,Computer Science and Engineering,CSE,2023,SCA,162.0
+rmk-engineering-1113,1113,R.M.K. Engineering College,Computer Science and Engineering,CSE,2023,ST,148.0
+rmk-engineering-1113,1113,R.M.K. Engineering College,Computer Science and Engineering,CSE,2022,OC,189.5
+rmk-engineering-1113,1113,R.M.K. Engineering College,Computer Science and Engineering,CSE,2022,BC,187.0
+rmk-engineering-1113,1113,R.M.K. Engineering College,Computer Science and Engineering,CSE,2022,BCM,185.5
+rmk-engineering-1113,1113,R.M.K. Engineering College,Computer Science and Engineering,CSE,2022,MBC,183.5
+rmk-engineering-1113,1113,R.M.K. Engineering College,Computer Science and Engineering,CSE,2022,SC,166.0
+rmk-engineering-1113,1113,R.M.K. Engineering College,Computer Science and Engineering,CSE,2022,SCA,158.0
+rmk-engineering-1113,1113,R.M.K. Engineering College,Computer Science and Engineering,CSE,2022,ST,144.0
+rmk-engineering-1113,1113,R.M.K. Engineering College,Information Technology,IT,2023,OC,189.0
+rmk-engineering-1113,1113,R.M.K. Engineering College,Information Technology,IT,2023,BC,186.5
+rmk-engineering-1113,1113,R.M.K. Engineering College,Information Technology,IT,2023,BCM,185.0
+rmk-engineering-1113,1113,R.M.K. Engineering College,Information Technology,IT,2023,MBC,183.0
+rmk-engineering-1113,1113,R.M.K. Engineering College,Information Technology,IT,2023,SC,166.0
+rmk-engineering-1113,1113,R.M.K. Engineering College,Information Technology,IT,2023,SCA,158.0
+rmk-engineering-1113,1113,R.M.K. Engineering College,Information Technology,IT,2023,ST,144.0
+rmk-engineering-1113,1113,R.M.K. Engineering College,Information Technology,IT,2022,OC,187.0
+rmk-engineering-1113,1113,R.M.K. Engineering College,Information Technology,IT,2022,BC,184.5
+rmk-engineering-1113,1113,R.M.K. Engineering College,Information Technology,IT,2022,BCM,183.0
+rmk-engineering-1113,1113,R.M.K. Engineering College,Information Technology,IT,2022,MBC,180.5
+rmk-engineering-1113,1113,R.M.K. Engineering College,Information Technology,IT,2022,SC,162.0
+rmk-engineering-1113,1113,R.M.K. Engineering College,Information Technology,IT,2022,SCA,154.0
+rmk-engineering-1113,1113,R.M.K. Engineering College,Information Technology,IT,2022,ST,140.0
+rmk-engineering-1113,1113,R.M.K. Engineering College,Electronics and Communication Engineering,ECE,2023,OC,187.0
+rmk-engineering-1113,1113,R.M.K. Engineering College,Electronics and Communication Engineering,ECE,2023,BC,184.0
+rmk-engineering-1113,1113,R.M.K. Engineering College,Electronics and Communication Engineering,ECE,2023,BCM,182.5
+rmk-engineering-1113,1113,R.M.K. Engineering College,Electronics and Communication Engineering,ECE,2023,MBC,180.0
+rmk-engineering-1113,1113,R.M.K. Engineering College,Electronics and Communication Engineering,ECE,2023,SC,163.0
+rmk-engineering-1113,1113,R.M.K. Engineering College,Electronics and Communication Engineering,ECE,2023,SCA,155.0
+rmk-engineering-1113,1113,R.M.K. Engineering College,Electronics and Communication Engineering,ECE,2023,ST,141.0
+rmk-engineering-1113,1113,R.M.K. Engineering College,Electronics and Communication Engineering,ECE,2022,OC,185.0
+rmk-engineering-1113,1113,R.M.K. Engineering College,Electronics and Communication Engineering,ECE,2022,BC,182.0
+rmk-engineering-1113,1113,R.M.K. Engineering College,Electronics and Communication Engineering,ECE,2022,BCM,180.5
+rmk-engineering-1113,1113,R.M.K. Engineering College,Electronics and Communication Engineering,ECE,2022,MBC,177.5
+rmk-engineering-1113,1113,R.M.K. Engineering College,Electronics and Communication Engineering,ECE,2022,SC,159.0
+rmk-engineering-1113,1113,R.M.K. Engineering College,Electronics and Communication Engineering,ECE,2022,SCA,151.0
+rmk-engineering-1113,1113,R.M.K. Engineering College,Electronics and Communication Engineering,ECE,2022,ST,137.0

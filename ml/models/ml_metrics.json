@@ -1,0 +1,47 @@
+{
+  "model_name": "Random Forest Admission Likelihood Classifier",
+  "algorithm": "RandomForestClassifier (scikit-learn)",
+  "n_estimators": 120,
+  "max_depth": 12,
+  "training_samples": 15225,
+  "test_samples": 5075,
+  "evaluation_metrics": {
+    "accuracy": 0.9998,
+    "precision": 0.9998,
+    "recall": 0.9998,
+    "f1_score": 0.9998
+  },
+  "class_breakdown": {
+    "Dream": {
+      "precision": 1.0,
+      "recall": 0.9993,
+      "f1-score": 0.9996,
+      "support": 1339
+    },
+    "Safe": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 1620
+    },
+    "Target": {
+      "precision": 0.9995,
+      "recall": 1.0,
+      "f1-score": 0.9998,
+      "support": 2116
+    },
+    "macro avg": {
+      "precision": 0.9998,
+      "recall": 0.9998,
+      "f1-score": 0.9998,
+      "support": 5075
+    },
+    "weighted avg": {
+      "precision": 0.9998,
+      "recall": 0.9998,
+      "f1-score": 0.9998,
+      "support": 5075
+    }
+  },
+  "disclaimer": "Historical-data-based admission likelihood estimate based on TNEA 2022-2023 closing cutoffs. Does not guarantee future seat allotment."
+}
